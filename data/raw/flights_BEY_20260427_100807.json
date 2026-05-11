@@ -1,0 +1,5300 @@
+[
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "59",
+            "delay": null,
+            "scheduled": "2026-04-27T21:40:00+00:00",
+            "estimated": "2026-04-27T21:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "404",
+            "iata": "RJ404",
+            "icao": "RJA404",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "59",
+            "delay": null,
+            "scheduled": "2026-04-27T21:40:00+00:00",
+            "estimated": "2026-04-27T21:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5301",
+            "iata": "WY5301",
+            "icao": "OMA5301",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "404",
+                "flight_iata": "rj404",
+                "flight_icao": "rja404"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": "2026-04-27T17:11:00+00:00",
+            "estimated_runway": "2026-04-27T17:11:00+00:00",
+            "actual_runway": "2026-04-27T17:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "261",
+            "iata": "ME261",
+            "icao": "MEA261",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "OD-MRN",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "748027"
+        },
+        "live": {
+            "updated": "2026-04-27T14:57:46+00:00",
+            "latitude": 34.055,
+            "longitude": 35.0913,
+            "altitude": 3634.74,
+            "direction": 303,
+            "speed_horizontal": 709.316,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": "2026-04-27T17:11:00+00:00",
+            "estimated_runway": "2026-04-27T17:11:00+00:00",
+            "actual_runway": "2026-04-27T17:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "8173",
+            "iata": "AF8173",
+            "icao": "AFR8173",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "261",
+                "flight_iata": "me261",
+                "flight_icao": "mea261"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748027"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "72",
+            "delay": null,
+            "scheduled": "2026-04-27T17:55:00+00:00",
+            "estimated": "2026-04-27T17:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "306",
+            "iata": "ME306",
+            "icao": "MEA306",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001E5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "69",
+            "delay": null,
+            "scheduled": "2026-04-27T17:35:00+00:00",
+            "estimated": "2026-04-27T17:35:00+00:00",
+            "actual": "2026-04-27T17:37:00+00:00",
+            "estimated_runway": "2026-04-27T17:37:00+00:00",
+            "actual_runway": "2026-04-27T17:37:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:30:00+00:00",
+            "delay": 3,
+            "estimated": "2026-04-27T19:14:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "267",
+            "iata": "ME267",
+            "icao": "MEA267",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "T7-ME8",
+            "iata": "A21N",
+            "icao": "A21N",
+            "icao24": "500213"
+        },
+        "live": {
+            "updated": "2026-04-27T14:59:59+00:00",
+            "latitude": 35.7585,
+            "longitude": 34.1038,
+            "altitude": 10363.2,
+            "direction": 335.68,
+            "speed_horizontal": 804.852,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "69",
+            "delay": null,
+            "scheduled": "2026-04-27T17:35:00+00:00",
+            "estimated": "2026-04-27T17:35:00+00:00",
+            "actual": "2026-04-27T17:37:00+00:00",
+            "estimated_runway": "2026-04-27T17:37:00+00:00",
+            "actual_runway": "2026-04-27T17:37:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:30:00+00:00",
+            "delay": 3,
+            "estimated": "2026-04-27T19:14:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "8167",
+            "iata": "TK8167",
+            "icao": "THY8167",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "267",
+                "flight_iata": "me267",
+                "flight_icao": "mea267"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "500213"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Souda",
+            "timezone": "Europe/Athens",
+            "iata": "CHQ",
+            "icao": "LGSA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:08:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Italy - Air Force",
+            "iata": null,
+            "icao": "IAM"
+        },
+        "flight": {
+            "number": "1490",
+            "iata": null,
+            "icao": "IAM1490",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": 1,
+            "scheduled": "2026-04-27T16:30:00+00:00",
+            "estimated": "2026-04-27T16:30:00+00:00",
+            "actual": "2026-04-27T16:31:00+00:00",
+            "estimated_runway": "2026-04-27T16:31:00+00:00",
+            "actual_runway": "2026-04-27T16:31:00+00:00"
+        },
+        "arrival": {
+            "airport": null,
+            "timezone": null,
+            "iata": "UAB",
+            "icao": "LTAG",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T17:26:00+00:00",
+            "delay": 2,
+            "estimated": "2026-04-27T17:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Spain - Air Force",
+            "iata": null,
+            "icao": "AME"
+        },
+        "flight": {
+            "number": "3150",
+            "iata": null,
+            "icao": "AME3150",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "3532C2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "unknown",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:45:00+00:00",
+            "estimated": "2026-04-27T16:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Berlin Brandenburg Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "BER",
+            "icao": "EDDB",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Sundair",
+            "iata": "SR",
+            "icao": "SDR"
+        },
+        "flight": {
+            "number": "111",
+            "iata": "SR111",
+            "icao": "SDR111",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:10:00+00:00",
+            "estimated": "2026-04-27T15:10:00+00:00",
+            "actual": "2026-04-27T15:25:00+00:00",
+            "estimated_runway": "2026-04-27T15:25:00+00:00",
+            "actual_runway": "2026-04-27T15:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T20:45:00+00:00",
+            "delay": 16,
+            "estimated": "2026-04-27T19:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        },
+        "flight": {
+            "number": "158",
+            "iata": "FZ158",
+            "icao": "FDB158",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "A6-FKD",
+            "iata": "B38M",
+            "icao": "B38M",
+            "icao24": "8965CF"
+        },
+        "live": {
+            "updated": "2026-04-27T15:00:00+00:00",
+            "latitude": 23.181,
+            "longitude": 52.1385,
+            "altitude": 11887.2,
+            "direction": 98.07,
+            "speed_horizontal": 924.012,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:10:00+00:00",
+            "estimated": "2026-04-27T15:10:00+00:00",
+            "actual": "2026-04-27T15:25:00+00:00",
+            "estimated_runway": "2026-04-27T15:25:00+00:00",
+            "actual_runway": "2026-04-27T15:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T20:45:00+00:00",
+            "delay": 16,
+            "estimated": "2026-04-27T19:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "2489",
+            "iata": "EK2489",
+            "icao": "UAE2489",
+            "codeshared": {
+                "airline_name": "flydubai",
+                "airline_iata": "fz",
+                "airline_icao": "fdb",
+                "flight_number": "158",
+                "flight_iata": "fz158",
+                "flight_icao": "fdb158"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8965CF"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:50:00+00:00",
+            "estimated": "2026-04-27T14:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "436",
+            "iata": "ME436",
+            "icao": "MEA436",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:50:00+00:00",
+            "estimated": "2026-04-27T14:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "4901",
+            "iata": "QR4901",
+            "icao": "QTR4901",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "436",
+                "flight_iata": "me436",
+                "flight_icao": "mea436"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2026-04-27T14:05:00+00:00",
+            "estimated": "2026-04-27T14:05:00+00:00",
+            "actual": "2026-04-27T14:08:00+00:00",
+            "estimated_runway": "2026-04-27T14:08:00+00:00",
+            "actual_runway": "2026-04-27T14:08:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:48:00+00:00",
+            "actual": "2026-04-27T16:53:00+00:00",
+            "estimated_runway": "2026-04-27T16:53:00+00:00",
+            "actual_runway": "2026-04-27T16:53:00+00:00"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "417",
+            "iata": "QR417",
+            "icao": "QTR417",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2026-04-27T14:05:00+00:00",
+            "estimated": "2026-04-27T14:05:00+00:00",
+            "actual": "2026-04-27T14:08:00+00:00",
+            "estimated_runway": "2026-04-27T14:08:00+00:00",
+            "actual_runway": "2026-04-27T14:08:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:48:00+00:00",
+            "actual": "2026-04-27T16:53:00+00:00",
+            "estimated_runway": "2026-04-27T16:53:00+00:00",
+            "actual_runway": "2026-04-27T16:53:00+00:00"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "6139",
+            "iata": "WY6139",
+            "icao": "OMA6139",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2026-04-27T14:05:00+00:00",
+            "estimated": "2026-04-27T14:05:00+00:00",
+            "actual": "2026-04-27T14:08:00+00:00",
+            "estimated_runway": "2026-04-27T14:08:00+00:00",
+            "actual_runway": "2026-04-27T14:08:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:48:00+00:00",
+            "actual": "2026-04-27T16:53:00+00:00",
+            "estimated_runway": "2026-04-27T16:53:00+00:00",
+            "actual_runway": "2026-04-27T16:53:00+00:00"
+        },
+        "airline": {
+            "name": "Virgin Australia",
+            "iata": "VA",
+            "icao": "VOZ"
+        },
+        "flight": {
+            "number": "6056",
+            "iata": "VA6056",
+            "icao": "VOZ6056",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2026-04-27T14:05:00+00:00",
+            "estimated": "2026-04-27T14:05:00+00:00",
+            "actual": "2026-04-27T14:08:00+00:00",
+            "estimated_runway": "2026-04-27T14:08:00+00:00",
+            "actual_runway": "2026-04-27T14:08:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:48:00+00:00",
+            "actual": "2026-04-27T16:53:00+00:00",
+            "estimated_runway": "2026-04-27T16:53:00+00:00",
+            "actual_runway": "2026-04-27T16:53:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "4434",
+            "iata": "ME4434",
+            "icao": "MEA4434",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2026-04-27T14:05:00+00:00",
+            "estimated": "2026-04-27T14:05:00+00:00",
+            "actual": "2026-04-27T14:08:00+00:00",
+            "estimated_runway": "2026-04-27T14:08:00+00:00",
+            "actual_runway": "2026-04-27T14:08:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:48:00+00:00",
+            "actual": "2026-04-27T16:53:00+00:00",
+            "estimated_runway": "2026-04-27T16:53:00+00:00",
+            "actual_runway": "2026-04-27T16:53:00+00:00"
+        },
+        "airline": {
+            "name": "LATAM Airlines",
+            "iata": "LA",
+            "icao": "LAN"
+        },
+        "flight": {
+            "number": "5313",
+            "iata": "LA5313",
+            "icao": "LAN5313",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "21",
+            "delay": null,
+            "scheduled": "2026-04-27T14:05:00+00:00",
+            "estimated": "2026-04-27T14:05:00+00:00",
+            "actual": "2026-04-27T14:08:00+00:00",
+            "estimated_runway": "2026-04-27T14:08:00+00:00",
+            "actual_runway": "2026-04-27T14:08:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:48:00+00:00",
+            "actual": "2026-04-27T16:53:00+00:00",
+            "estimated_runway": "2026-04-27T16:53:00+00:00",
+            "actual_runway": "2026-04-27T16:53:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        },
+        "flight": {
+            "number": "5808",
+            "iata": "AT5808",
+            "icao": "RAM5808",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "47",
+            "delay": null,
+            "scheduled": "2026-04-27T13:30:00+00:00",
+            "estimated": "2026-04-27T13:30:00+00:00",
+            "actual": "2026-04-27T14:19:00+00:00",
+            "estimated_runway": "2026-04-27T14:19:00+00:00",
+            "actual_runway": "2026-04-27T14:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "delay": 49,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "958",
+            "iata": "EK958",
+            "icao": "UAE958",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89631C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "47",
+            "delay": null,
+            "scheduled": "2026-04-27T13:30:00+00:00",
+            "estimated": "2026-04-27T13:30:00+00:00",
+            "actual": "2026-04-27T14:19:00+00:00",
+            "estimated_runway": "2026-04-27T14:19:00+00:00",
+            "actual_runway": "2026-04-27T14:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "delay": 49,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "8958",
+            "iata": "QF8958",
+            "icao": "QFA8958",
+            "codeshared": {
+                "airline_name": "emirates",
+                "airline_iata": "ek",
+                "airline_icao": "uae",
+                "flight_number": "958",
+                "flight_iata": "ek958",
+                "flight_icao": "uae958"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89631C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T12:25:00+00:00",
+            "estimated": "2026-04-27T12:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kuwait International",
+            "timezone": "Asia/Kuwait",
+            "iata": "KWI",
+            "icao": "OKKK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "delay": 110,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Kuwait Airways",
+            "iata": "KU",
+            "icao": "KAC"
+        },
+        "flight": {
+            "number": "502",
+            "iata": "KU502",
+            "icao": "KAC502",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "70606C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T12:25:00+00:00",
+            "estimated": "2026-04-27T12:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kuwait International",
+            "timezone": "Asia/Kuwait",
+            "iata": "KWI",
+            "icao": "OKKK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "delay": 110,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "4403",
+            "iata": "ME4403",
+            "icao": "MEA4403",
+            "codeshared": {
+                "airline_name": "kuwait airways",
+                "airline_iata": "ku",
+                "airline_icao": "kac",
+                "flight_number": "502",
+                "flight_iata": "ku502",
+                "flight_icao": "kac502"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "70606C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "unknown",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T12:10:00+00:00",
+            "estimated": "2026-04-27T12:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "King Fahd International Airport",
+            "timezone": "Asia/Riyadh",
+            "iata": "DMM",
+            "icao": "OEDF",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T14:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        },
+        "flight": {
+            "number": "3262",
+            "iata": "J93262",
+            "icao": "JZR3262",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T12:05:00+00:00",
+            "estimated": "2026-04-27T12:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T12:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Egyptair",
+            "iata": "MS",
+            "icao": "MSR"
+        },
+        "flight": {
+            "number": "710",
+            "iata": "MS710",
+            "icao": "MSR710",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T12:05:00+00:00",
+            "estimated": "2026-04-27T12:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T12:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "2908",
+            "iata": "AC2908",
+            "icao": "ACA2908",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "710",
+                "flight_iata": "ms710",
+                "flight_icao": "msr710"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": 40,
+            "scheduled": "2026-04-27T11:45:00+00:00",
+            "estimated": "2026-04-27T11:45:00+00:00",
+            "actual": "2026-04-27T12:34:00+00:00",
+            "estimated_runway": "2026-04-27T12:34:00+00:00",
+            "actual_runway": "2026-04-27T12:34:00+00:00"
+        },
+        "arrival": {
+            "airport": "Sharjah",
+            "timezone": "Asia/Dubai",
+            "iata": "SHJ",
+            "icao": "OMSJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:25:00+00:00",
+            "delay": 39,
+            "estimated": "2026-04-27T17:04:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        },
+        "flight": {
+            "number": "386",
+            "iata": "G9386",
+            "icao": "ABY386",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896496"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "70",
+            "delay": null,
+            "scheduled": "2026-04-27T11:40:00+00:00",
+            "estimated": "2026-04-27T11:40:00+00:00",
+            "actual": "2026-04-27T11:45:00+00:00",
+            "estimated_runway": "2026-04-27T11:45:00+00:00",
+            "actual_runway": "2026-04-27T11:45:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R4",
+            "scheduled": "2026-04-27T12:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:48:00+00:00",
+            "actual": "2026-04-27T11:51:00+00:00",
+            "estimated_runway": "2026-04-27T11:51:00+00:00",
+            "actual_runway": "2026-04-27T11:51:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "304",
+            "iata": "ME304",
+            "icao": "MEA304",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748027"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "9",
+            "delay": null,
+            "scheduled": "2026-04-27T09:15:00+00:00",
+            "estimated": "2026-04-27T09:15:00+00:00",
+            "actual": "2026-04-27T09:12:00+00:00",
+            "estimated_runway": "2026-04-27T09:12:00+00:00",
+            "actual_runway": "2026-04-27T09:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Barajas",
+            "timezone": "Europe/Madrid",
+            "iata": "MAD",
+            "icao": "LEMD",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T13:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T12:47:00+00:00",
+            "actual": "2026-04-27T12:48:00+00:00",
+            "estimated_runway": "2026-04-27T12:48:00+00:00",
+            "actual_runway": "2026-04-27T12:48:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "241",
+            "iata": "ME241",
+            "icao": "MEA241",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "73",
+            "delay": null,
+            "scheduled": "2026-04-27T08:15:00+00:00",
+            "estimated": "2026-04-27T08:15:00+00:00",
+            "actual": "2026-04-27T08:24:00+00:00",
+            "estimated_runway": "2026-04-27T08:24:00+00:00",
+            "actual_runway": "2026-04-27T08:24:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T10:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T10:27:00+00:00",
+            "actual": "2026-04-27T10:28:00+00:00",
+            "estimated_runway": "2026-04-27T10:28:00+00:00",
+            "actual_runway": "2026-04-27T10:28:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "424",
+            "iata": "ME424",
+            "icao": "MEA424",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "500213"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "73",
+            "delay": null,
+            "scheduled": "2026-04-27T08:15:00+00:00",
+            "estimated": "2026-04-27T08:15:00+00:00",
+            "actual": "2026-04-27T08:24:00+00:00",
+            "estimated_runway": "2026-04-27T08:24:00+00:00",
+            "actual_runway": "2026-04-27T08:24:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T10:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T10:27:00+00:00",
+            "actual": "2026-04-27T10:28:00+00:00",
+            "estimated_runway": "2026-04-27T10:28:00+00:00",
+            "actual_runway": "2026-04-27T10:28:00+00:00"
+        },
+        "airline": {
+            "name": "Saudia",
+            "iata": "SV",
+            "icao": "SVA"
+        },
+        "flight": {
+            "number": "6016",
+            "iata": "SV6016",
+            "icao": "SVA6016",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "424",
+                "flight_iata": "me424",
+                "flight_icao": "mea424"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "500213"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "7",
+            "delay": null,
+            "scheduled": "2026-04-27T08:15:00+00:00",
+            "estimated": "2026-04-27T08:15:00+00:00",
+            "actual": "2026-04-27T08:11:00+00:00",
+            "estimated_runway": "2026-04-27T08:11:00+00:00",
+            "actual_runway": "2026-04-27T08:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": "2",
+            "gate": "210",
+            "baggage": null,
+            "scheduled": "2026-04-27T09:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T08:59:00+00:00",
+            "actual": "2026-04-27T08:53:00+00:00",
+            "estimated_runway": "2026-04-27T08:53:00+00:00",
+            "actual_runway": "2026-04-27T08:53:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "310",
+            "iata": "ME310",
+            "icao": "MEA310",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748020"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T08:10:00+00:00",
+            "estimated": "2026-04-27T08:10:00+00:00",
+            "actual": "2026-04-27T08:09:00+00:00",
+            "estimated_runway": "2026-04-27T08:09:00+00:00",
+            "actual_runway": "2026-04-27T08:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "7",
+            "scheduled": "2026-04-27T11:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:01:00+00:00",
+            "actual": "2026-04-27T11:01:00+00:00",
+            "estimated_runway": "2026-04-27T11:01:00+00:00",
+            "actual_runway": "2026-04-27T11:01:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "201",
+            "iata": "ME201",
+            "icao": "MEA201",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748026"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T08:10:00+00:00",
+            "estimated": "2026-04-27T08:10:00+00:00",
+            "actual": "2026-04-27T08:09:00+00:00",
+            "estimated_runway": "2026-04-27T08:09:00+00:00",
+            "actual_runway": "2026-04-27T08:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "7",
+            "scheduled": "2026-04-27T11:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:01:00+00:00",
+            "actual": "2026-04-27T11:01:00+00:00",
+            "estimated_runway": "2026-04-27T11:01:00+00:00",
+            "actual_runway": "2026-04-27T11:01:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "6527",
+            "iata": "AC6527",
+            "icao": "ACA6527",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "201",
+                "flight_iata": "me201",
+                "flight_icao": "mea201"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748026"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T07:55:00+00:00",
+            "estimated": "2026-04-27T07:55:00+00:00",
+            "actual": "2026-04-27T08:07:00+00:00",
+            "estimated_runway": "2026-04-27T08:07:00+00:00",
+            "actual_runway": "2026-04-27T08:07:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2C",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T11:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:23:00+00:00",
+            "actual": "2026-04-27T11:26:00+00:00",
+            "estimated_runway": "2026-04-27T11:26:00+00:00",
+            "actual_runway": "2026-04-27T11:26:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "211",
+            "iata": "ME211",
+            "icao": "MEA211",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748051"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T07:55:00+00:00",
+            "estimated": "2026-04-27T07:55:00+00:00",
+            "actual": "2026-04-27T08:07:00+00:00",
+            "estimated_runway": "2026-04-27T08:07:00+00:00",
+            "actual_runway": "2026-04-27T08:07:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2C",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T11:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:23:00+00:00",
+            "actual": "2026-04-27T11:26:00+00:00",
+            "estimated_runway": "2026-04-27T11:26:00+00:00",
+            "actual_runway": "2026-04-27T11:26:00+00:00"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "5107",
+            "iata": "AF5107",
+            "icao": "AFR5107",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "211",
+                "flight_iata": "me211",
+                "flight_icao": "mea211"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748051"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T07:25:00+00:00",
+            "estimated": "2026-04-27T07:25:00+00:00",
+            "actual": "2026-04-27T07:25:00+00:00",
+            "estimated_runway": "2026-04-27T07:25:00+00:00",
+            "actual_runway": "2026-04-27T07:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Geneve-cointrin",
+            "timezone": "Europe/Zurich",
+            "iata": "GVA",
+            "icao": "LSGG",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "5",
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T10:22:00+00:00",
+            "actual": "2026-04-27T10:22:00+00:00",
+            "estimated_runway": "2026-04-27T10:22:00+00:00",
+            "actual_runway": "2026-04-27T10:22:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "213",
+            "iata": "ME213",
+            "icao": "MEA213",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001E5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T07:25:00+00:00",
+            "estimated": "2026-04-27T07:25:00+00:00",
+            "actual": "2026-04-27T07:25:00+00:00",
+            "estimated_runway": "2026-04-27T07:25:00+00:00",
+            "actual_runway": "2026-04-27T07:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Geneve-cointrin",
+            "timezone": "Europe/Zurich",
+            "iata": "GVA",
+            "icao": "LSGG",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "5",
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T10:22:00+00:00",
+            "actual": "2026-04-27T10:22:00+00:00",
+            "estimated_runway": "2026-04-27T10:22:00+00:00",
+            "actual_runway": "2026-04-27T10:22:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "6525",
+            "iata": "AC6525",
+            "icao": "ACA6525",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "213",
+                "flight_iata": "me213",
+                "flight_icao": "mea213"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001E5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "60",
+            "delay": null,
+            "scheduled": "2026-04-27T07:20:00+00:00",
+            "estimated": "2026-04-27T07:20:00+00:00",
+            "actual": "2026-04-27T06:41:00+00:00",
+            "estimated_runway": "2026-04-27T06:41:00+00:00",
+            "actual_runway": "2026-04-27T06:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "SRA",
+            "baggage": null,
+            "scheduled": "2026-04-27T08:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T07:24:00+00:00",
+            "actual": "2026-04-27T07:25:00+00:00",
+            "estimated_runway": "2026-04-27T07:25:00+00:00",
+            "actual_runway": "2026-04-27T07:25:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "408",
+            "iata": "RJ408",
+            "icao": "RJA408",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744821"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "60",
+            "delay": null,
+            "scheduled": "2026-04-27T07:20:00+00:00",
+            "estimated": "2026-04-27T07:20:00+00:00",
+            "actual": "2026-04-27T06:41:00+00:00",
+            "estimated_runway": "2026-04-27T06:41:00+00:00",
+            "actual_runway": "2026-04-27T06:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "SRA",
+            "baggage": null,
+            "scheduled": "2026-04-27T08:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T07:24:00+00:00",
+            "actual": "2026-04-27T07:25:00+00:00",
+            "estimated_runway": "2026-04-27T07:25:00+00:00",
+            "actual_runway": "2026-04-27T07:25:00+00:00"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5300",
+            "iata": "WY5300",
+            "icao": "OMA5300",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "408",
+                "flight_iata": "rj408",
+                "flight_icao": "rja408"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744821"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "71",
+            "delay": null,
+            "scheduled": "2026-04-27T07:20:00+00:00",
+            "estimated": "2026-04-27T07:20:00+00:00",
+            "actual": "2026-04-27T07:18:00+00:00",
+            "estimated_runway": "2026-04-27T07:18:00+00:00",
+            "actual_runway": "2026-04-27T07:18:00+00:00"
+        },
+        "arrival": {
+            "airport": "Frankfurt International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "FRA",
+            "icao": "EDDF",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "46",
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T10:12:00+00:00",
+            "actual": "2026-04-27T10:17:00+00:00",
+            "estimated_runway": "2026-04-27T10:17:00+00:00",
+            "actual_runway": "2026-04-27T10:17:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "217",
+            "iata": "ME217",
+            "icao": "MEA217",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748025"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-27T07:10:00+00:00",
+            "estimated": "2026-04-27T07:10:00+00:00",
+            "actual": "2026-04-27T07:09:00+00:00",
+            "estimated_runway": "2026-04-27T07:09:00+00:00",
+            "actual_runway": "2026-04-27T07:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "8",
+            "scheduled": "2026-04-27T11:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:15:00+00:00",
+            "actual": "2026-04-27T11:17:00+00:00",
+            "estimated_runway": "2026-04-27T11:17:00+00:00",
+            "actual_runway": "2026-04-27T11:17:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "426",
+            "iata": "ME426",
+            "icao": "MEA426",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748021"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "30",
+            "delay": null,
+            "scheduled": "2026-04-27T07:05:00+00:00",
+            "estimated": "2026-04-27T07:05:00+00:00",
+            "actual": "2026-04-27T07:10:00+00:00",
+            "estimated_runway": "2026-04-27T07:10:00+00:00",
+            "actual_runway": "2026-04-27T07:10:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": "24",
+            "scheduled": "2026-04-27T09:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T08:40:00+00:00",
+            "actual": "2026-04-27T08:42:00+00:00",
+            "estimated_runway": "2026-04-27T08:42:00+00:00",
+            "actual_runway": "2026-04-27T08:42:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "265",
+            "iata": "ME265",
+            "icao": "MEA265",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001D3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "30",
+            "delay": null,
+            "scheduled": "2026-04-27T07:05:00+00:00",
+            "estimated": "2026-04-27T07:05:00+00:00",
+            "actual": "2026-04-27T07:10:00+00:00",
+            "estimated_runway": "2026-04-27T07:10:00+00:00",
+            "actual_runway": "2026-04-27T07:10:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": "24",
+            "scheduled": "2026-04-27T09:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T08:40:00+00:00",
+            "actual": "2026-04-27T08:42:00+00:00",
+            "estimated_runway": "2026-04-27T08:42:00+00:00",
+            "actual_runway": "2026-04-27T08:42:00+00:00"
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "8165",
+            "iata": "TK8165",
+            "icao": "THY8165",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "265",
+                "flight_iata": "me265",
+                "flight_icao": "mea265"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001D3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "69",
+            "delay": 8,
+            "scheduled": "2026-04-27T07:05:00+00:00",
+            "estimated": "2026-04-27T07:05:00+00:00",
+            "actual": "2026-04-27T07:17:00+00:00",
+            "estimated_runway": "2026-04-27T07:17:00+00:00",
+            "actual_runway": "2026-04-27T07:17:00+00:00"
+        },
+        "arrival": {
+            "airport": "Brussels Airport",
+            "timezone": "Europe/Brussels",
+            "iata": "BRU",
+            "icao": "EBBR",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "delay": 8,
+            "estimated": "2026-04-27T10:43:00+00:00",
+            "actual": "2026-04-27T10:43:00+00:00",
+            "estimated_runway": "2026-04-27T10:43:00+00:00",
+            "actual_runway": "2026-04-27T10:43:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "215",
+            "iata": "ME215",
+            "icao": "MEA215",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748028"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "51",
+            "delay": null,
+            "scheduled": "2026-04-27T06:55:00+00:00",
+            "estimated": "2026-04-27T06:55:00+00:00",
+            "actual": "2026-04-27T06:52:00+00:00",
+            "estimated_runway": "2026-04-27T06:52:00+00:00",
+            "actual_runway": "2026-04-27T06:52:00+00:00"
+        },
+        "arrival": {
+            "airport": "Milano Malpensa",
+            "timezone": "Europe/Rome",
+            "iata": "MXP",
+            "icao": "LIMC",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T09:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T09:36:00+00:00",
+            "actual": "2026-04-27T09:36:00+00:00",
+            "estimated_runway": "2026-04-27T09:36:00+00:00",
+            "actual_runway": "2026-04-27T09:36:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "235",
+            "iata": "ME235",
+            "icao": "MEA235",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DC"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T04:40:00+00:00",
+            "estimated": "2026-04-27T04:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T05:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Egyptair",
+            "iata": "MS",
+            "icao": "MSR"
+        },
+        "flight": {
+            "number": "714",
+            "iata": "MS714",
+            "icao": "MSR714",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T04:40:00+00:00",
+            "estimated": "2026-04-27T04:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T05:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "2874",
+            "iata": "AC2874",
+            "icao": "ACA2874",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "714",
+                "flight_iata": "ms714",
+                "flight_icao": "msr714"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T03:30:00+00:00",
+            "estimated": "2026-04-27T03:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Berlin Brandenburg Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "BER",
+            "icao": "EDDB",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T06:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Sundair",
+            "iata": "SR",
+            "icao": "SDR"
+        },
+        "flight": {
+            "number": "171",
+            "iata": "SR171",
+            "icao": "SDR171",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "69",
+            "delay": null,
+            "scheduled": "2026-04-27T01:40:00+00:00",
+            "estimated": "2026-04-27T01:40:00+00:00",
+            "actual": "2026-04-27T01:42:00+00:00",
+            "estimated_runway": "2026-04-27T01:42:00+00:00",
+            "actual_runway": "2026-04-27T01:42:00+00:00"
+        },
+        "arrival": {
+            "airport": "Murtala Muhammed",
+            "timezone": "Africa/Lagos",
+            "iata": "LOS",
+            "icao": "DNMM",
+            "terminal": "1I",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T05:55:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T05:32:00+00:00",
+            "actual": "2026-04-27T05:32:00+00:00",
+            "estimated_runway": "2026-04-27T05:32:00+00:00",
+            "actual_runway": "2026-04-27T05:32:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "571",
+            "iata": "ME571",
+            "icao": "MEA571",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748019"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "58",
+            "delay": null,
+            "scheduled": "2026-04-26T21:40:00+00:00",
+            "estimated": "2026-04-26T21:40:00+00:00",
+            "actual": "2026-04-26T21:32:00+00:00",
+            "estimated_runway": "2026-04-26T21:32:00+00:00",
+            "actual_runway": "2026-04-26T21:32:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": "3",
+            "gate": "SRA",
+            "baggage": null,
+            "scheduled": "2026-04-26T22:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T22:15:00+00:00",
+            "actual": "2026-04-26T22:18:00+00:00",
+            "estimated_runway": "2026-04-26T22:18:00+00:00",
+            "actual_runway": "2026-04-26T22:18:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "404",
+            "iata": "RJ404",
+            "icao": "RJA404",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744824"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "58",
+            "delay": null,
+            "scheduled": "2026-04-26T21:40:00+00:00",
+            "estimated": "2026-04-26T21:40:00+00:00",
+            "actual": "2026-04-26T21:32:00+00:00",
+            "estimated_runway": "2026-04-26T21:32:00+00:00",
+            "actual_runway": "2026-04-26T21:32:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": "3",
+            "gate": "SRA",
+            "baggage": null,
+            "scheduled": "2026-04-26T22:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T22:15:00+00:00",
+            "actual": "2026-04-26T22:18:00+00:00",
+            "estimated_runway": "2026-04-26T22:18:00+00:00",
+            "actual_runway": "2026-04-26T22:18:00+00:00"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5301",
+            "iata": "WY5301",
+            "icao": "OMA5301",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "404",
+                "flight_iata": "rj404",
+                "flight_icao": "rja404"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744824"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "53",
+            "delay": 10,
+            "scheduled": "2026-04-26T21:00:00+00:00",
+            "estimated": "2026-04-26T21:00:00+00:00",
+            "actual": "2026-04-26T21:21:00+00:00",
+            "estimated_runway": "2026-04-26T21:21:00+00:00",
+            "actual_runway": "2026-04-26T21:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Baghdad International",
+            "timezone": "Asia/Baghdad",
+            "iata": "BGW",
+            "icao": "ORBI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T22:30:00+00:00",
+            "delay": 10,
+            "estimated": "2026-04-26T22:40:00+00:00",
+            "actual": "2026-04-26T22:40:00+00:00",
+            "estimated_runway": "2026-04-26T22:40:00+00:00",
+            "actual_runway": "2026-04-26T22:40:00+00:00"
+        },
+        "airline": {
+            "name": "UR Airlines",
+            "iata": "UD",
+            "icao": "UBD"
+        },
+        "flight": {
+            "number": "106",
+            "iata": "UD106",
+            "icao": "UBD106",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "728633"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": 81,
+            "scheduled": "2026-04-26T12:05:00+00:00",
+            "estimated": "2026-04-26T12:05:00+00:00",
+            "actual": "2026-04-26T13:41:00+00:00",
+            "estimated_runway": "2026-04-26T13:41:00+00:00",
+            "actual_runway": "2026-04-26T13:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T16:25:00+00:00",
+            "delay": 80,
+            "estimated": "2026-04-26T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        },
+        "flight": {
+            "number": "451",
+            "iata": "G9451",
+            "icao": "ABY451",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896633"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": 5,
+            "scheduled": "2026-04-26T16:30:00+00:00",
+            "estimated": "2026-04-26T16:30:00+00:00",
+            "actual": "2026-04-26T16:40:00+00:00",
+            "estimated_runway": "2026-04-26T16:40:00+00:00",
+            "actual_runway": "2026-04-26T16:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Malta International",
+            "timezone": "Europe/Malta",
+            "iata": "MLA",
+            "icao": "LMML",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T18:16:00+00:00",
+            "delay": 5,
+            "estimated": "2026-04-26T18:16:00+00:00",
+            "actual": "2026-04-26T18:21:00+00:00",
+            "estimated_runway": "2026-04-26T18:21:00+00:00",
+            "actual_runway": "2026-04-26T18:21:00+00:00"
+        },
+        "airline": {
+            "name": "Easy Charter",
+            "iata": "RD",
+            "icao": "LOL"
+        },
+        "flight": {
+            "number": "403",
+            "iata": "RD403",
+            "icao": "LOL403",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5140CC"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "9",
+            "delay": null,
+            "scheduled": "2026-04-26T18:05:00+00:00",
+            "estimated": "2026-04-26T18:05:00+00:00",
+            "actual": "2026-04-26T18:18:00+00:00",
+            "estimated_runway": "2026-04-26T18:18:00+00:00",
+            "actual_runway": "2026-04-26T18:18:00+00:00"
+        },
+        "arrival": {
+            "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+            "timezone": "Europe/Athens",
+            "iata": "ATH",
+            "icao": "LGAV",
+            "terminal": null,
+            "gate": null,
+            "baggage": "5",
+            "scheduled": "2026-04-26T20:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:56:00+00:00",
+            "actual": "2026-04-26T19:56:00+00:00",
+            "estimated_runway": "2026-04-26T19:56:00+00:00",
+            "actual_runway": "2026-04-26T19:56:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "253",
+            "iata": "ME253",
+            "icao": "MEA253",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "500213"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T18:00:00+00:00",
+            "estimated": "2026-04-26T18:00:00+00:00",
+            "actual": "2026-04-26T18:09:00+00:00",
+            "estimated_runway": "2026-04-26T18:09:00+00:00",
+            "actual_runway": "2026-04-26T18:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T18:45:00+00:00",
+            "delay": 9,
+            "estimated": "2026-04-26T18:34:00+00:00",
+            "actual": "2026-04-26T18:36:00+00:00",
+            "estimated_runway": "2026-04-26T18:36:00+00:00",
+            "actual_runway": "2026-04-26T18:36:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "261",
+            "iata": "ME261",
+            "icao": "MEA261",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748016"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T18:00:00+00:00",
+            "estimated": "2026-04-26T18:00:00+00:00",
+            "actual": "2026-04-26T18:09:00+00:00",
+            "estimated_runway": "2026-04-26T18:09:00+00:00",
+            "actual_runway": "2026-04-26T18:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T18:45:00+00:00",
+            "delay": 9,
+            "estimated": "2026-04-26T18:34:00+00:00",
+            "actual": "2026-04-26T18:36:00+00:00",
+            "estimated_runway": "2026-04-26T18:36:00+00:00",
+            "actual_runway": "2026-04-26T18:36:00+00:00"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "8173",
+            "iata": "AF8173",
+            "icao": "AFR8173",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "261",
+                "flight_iata": "me261",
+                "flight_icao": "mea261"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748016"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "71",
+            "delay": null,
+            "scheduled": "2026-04-26T17:55:00+00:00",
+            "estimated": "2026-04-26T17:55:00+00:00",
+            "actual": "2026-04-26T17:55:00+00:00",
+            "estimated_runway": "2026-04-26T17:55:00+00:00",
+            "actual_runway": "2026-04-26T17:55:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R2",
+            "scheduled": "2026-04-26T18:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T17:57:00+00:00",
+            "actual": "2026-04-26T17:59:00+00:00",
+            "estimated_runway": "2026-04-26T17:59:00+00:00",
+            "actual_runway": "2026-04-26T17:59:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "306",
+            "iata": "ME306",
+            "icao": "MEA306",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T17:35:00+00:00",
+            "estimated": "2026-04-26T17:35:00+00:00",
+            "actual": "2026-04-26T17:46:00+00:00",
+            "estimated_runway": "2026-04-26T17:46:00+00:00",
+            "actual_runway": "2026-04-26T17:46:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": "C",
+            "gate": null,
+            "baggage": "10",
+            "scheduled": "2026-04-26T19:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:25:00+00:00",
+            "actual": "2026-04-26T19:25:00+00:00",
+            "estimated_runway": "2026-04-26T19:25:00+00:00",
+            "actual_runway": "2026-04-26T19:25:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "267",
+            "iata": "ME267",
+            "icao": "MEA267",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748021"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T17:35:00+00:00",
+            "estimated": "2026-04-26T17:35:00+00:00",
+            "actual": "2026-04-26T17:46:00+00:00",
+            "estimated_runway": "2026-04-26T17:46:00+00:00",
+            "actual_runway": "2026-04-26T17:46:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": "C",
+            "gate": null,
+            "baggage": "10",
+            "scheduled": "2026-04-26T19:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:25:00+00:00",
+            "actual": "2026-04-26T19:25:00+00:00",
+            "estimated_runway": "2026-04-26T19:25:00+00:00",
+            "actual_runway": "2026-04-26T19:25:00+00:00"
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "8167",
+            "iata": "TK8167",
+            "icao": "THY8167",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "267",
+                "flight_iata": "me267",
+                "flight_icao": "mea267"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748021"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T15:20:00+00:00",
+            "estimated": "2026-04-26T15:20:00+00:00",
+            "actual": "2026-04-26T15:34:00+00:00",
+            "estimated_runway": "2026-04-26T15:34:00+00:00",
+            "actual_runway": "2026-04-26T15:34:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T20:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:38:00+00:00",
+            "actual": "2026-04-26T19:38:00+00:00",
+            "estimated_runway": "2026-04-26T19:38:00+00:00",
+            "actual_runway": "2026-04-26T19:38:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "418",
+            "iata": "ME418",
+            "icao": "MEA418",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001E5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T15:20:00+00:00",
+            "estimated": "2026-04-26T15:20:00+00:00",
+            "actual": "2026-04-26T15:34:00+00:00",
+            "estimated_runway": "2026-04-26T15:34:00+00:00",
+            "actual_runway": "2026-04-26T15:34:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T20:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:38:00+00:00",
+            "actual": "2026-04-26T19:38:00+00:00",
+            "estimated_runway": "2026-04-26T19:38:00+00:00",
+            "actual_runway": "2026-04-26T19:38:00+00:00"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        },
+        "flight": {
+            "number": "7853",
+            "iata": "EY7853",
+            "icao": "ETD7853",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "418",
+                "flight_iata": "me418",
+                "flight_icao": "mea418"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001E5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T15:10:00+00:00",
+            "estimated": "2026-04-26T15:10:00+00:00",
+            "actual": "2026-04-26T15:17:00+00:00",
+            "estimated_runway": "2026-04-26T15:17:00+00:00",
+            "actual_runway": "2026-04-26T15:17:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-26T20:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:29:00+00:00",
+            "actual": "2026-04-26T19:30:00+00:00",
+            "estimated_runway": "2026-04-26T19:30:00+00:00",
+            "actual_runway": "2026-04-26T19:30:00+00:00"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        },
+        "flight": {
+            "number": "158",
+            "iata": "FZ158",
+            "icao": "FDB158",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8965D1"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T15:10:00+00:00",
+            "estimated": "2026-04-26T15:10:00+00:00",
+            "actual": "2026-04-26T15:17:00+00:00",
+            "estimated_runway": "2026-04-26T15:17:00+00:00",
+            "actual_runway": "2026-04-26T15:17:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-26T20:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T19:29:00+00:00",
+            "actual": "2026-04-26T19:30:00+00:00",
+            "estimated_runway": "2026-04-26T19:30:00+00:00",
+            "actual_runway": "2026-04-26T19:30:00+00:00"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "2489",
+            "iata": "EK2489",
+            "icao": "UAE2489",
+            "codeshared": {
+                "airline_name": "flydubai",
+                "airline_iata": "fz",
+                "airline_icao": "fdb",
+                "flight_number": "158",
+                "flight_iata": "fz158",
+                "flight_icao": "fdb158"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8965D1"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "73",
+            "delay": null,
+            "scheduled": "2026-04-26T14:50:00+00:00",
+            "estimated": "2026-04-26T14:50:00+00:00",
+            "actual": "2026-04-26T14:48:00+00:00",
+            "estimated_runway": "2026-04-26T14:48:00+00:00",
+            "actual_runway": "2026-04-26T14:48:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "2",
+            "scheduled": "2026-04-26T18:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T17:37:00+00:00",
+            "actual": "2026-04-26T17:37:00+00:00",
+            "estimated_runway": "2026-04-26T17:37:00+00:00",
+            "actual_runway": "2026-04-26T17:37:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "436",
+            "iata": "ME436",
+            "icao": "MEA436",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748025"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "73",
+            "delay": null,
+            "scheduled": "2026-04-26T14:50:00+00:00",
+            "estimated": "2026-04-26T14:50:00+00:00",
+            "actual": "2026-04-26T14:48:00+00:00",
+            "estimated_runway": "2026-04-26T14:48:00+00:00",
+            "actual_runway": "2026-04-26T14:48:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "2",
+            "scheduled": "2026-04-26T18:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T17:37:00+00:00",
+            "actual": "2026-04-26T17:37:00+00:00",
+            "estimated_runway": "2026-04-26T17:37:00+00:00",
+            "actual_runway": "2026-04-26T17:37:00+00:00"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "4901",
+            "iata": "QR4901",
+            "icao": "QTR4901",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "436",
+                "flight_iata": "me436",
+                "flight_icao": "mea436"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748025"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T14:05:00+00:00",
+            "estimated": "2026-04-26T14:05:00+00:00",
+            "actual": "2026-04-26T14:12:00+00:00",
+            "estimated_runway": "2026-04-26T14:12:00+00:00",
+            "actual_runway": "2026-04-26T14:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-26T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "417",
+            "iata": "QR417",
+            "icao": "QTR417",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T14:05:00+00:00",
+            "estimated": "2026-04-26T14:05:00+00:00",
+            "actual": "2026-04-26T14:12:00+00:00",
+            "estimated_runway": "2026-04-26T14:12:00+00:00",
+            "actual_runway": "2026-04-26T14:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-26T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "6139",
+            "iata": "WY6139",
+            "icao": "OMA6139",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T14:05:00+00:00",
+            "estimated": "2026-04-26T14:05:00+00:00",
+            "actual": "2026-04-26T14:12:00+00:00",
+            "estimated_runway": "2026-04-26T14:12:00+00:00",
+            "actual_runway": "2026-04-26T14:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-26T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Virgin Australia",
+            "iata": "VA",
+            "icao": "VOZ"
+        },
+        "flight": {
+            "number": "6056",
+            "iata": "VA6056",
+            "icao": "VOZ6056",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T14:05:00+00:00",
+            "estimated": "2026-04-26T14:05:00+00:00",
+            "actual": "2026-04-26T14:12:00+00:00",
+            "estimated_runway": "2026-04-26T14:12:00+00:00",
+            "actual_runway": "2026-04-26T14:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-26T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "4434",
+            "iata": "ME4434",
+            "icao": "MEA4434",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T14:05:00+00:00",
+            "estimated": "2026-04-26T14:05:00+00:00",
+            "actual": "2026-04-26T14:12:00+00:00",
+            "estimated_runway": "2026-04-26T14:12:00+00:00",
+            "actual_runway": "2026-04-26T14:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-26T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "LATAM Airlines",
+            "iata": "LA",
+            "icao": "LAN"
+        },
+        "flight": {
+            "number": "5313",
+            "iata": "LA5313",
+            "icao": "LAN5313",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T14:05:00+00:00",
+            "estimated": "2026-04-26T14:05:00+00:00",
+            "actual": "2026-04-26T14:12:00+00:00",
+            "estimated_runway": "2026-04-26T14:12:00+00:00",
+            "actual_runway": "2026-04-26T14:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-26T18:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        },
+        "flight": {
+            "number": "5808",
+            "iata": "AT5808",
+            "icao": "RAM5808",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "417",
+                "flight_iata": "qr417",
+                "flight_icao": "qtr417"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "71",
+            "delay": null,
+            "scheduled": "2026-04-26T12:30:00+00:00",
+            "estimated": "2026-04-26T12:30:00+00:00",
+            "actual": "2026-04-26T12:29:00+00:00",
+            "estimated_runway": "2026-04-26T12:29:00+00:00",
+            "actual_runway": "2026-04-26T12:29:00+00:00"
+        },
+        "arrival": {
+            "airport": "Baghdad International",
+            "timezone": "Asia/Baghdad",
+            "iata": "BGW",
+            "icao": "ORBI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T14:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T13:39:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "320",
+            "iata": "ME320",
+            "icao": "MEA320",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748028"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "69",
+            "delay": null,
+            "scheduled": "2026-04-26T12:15:00+00:00",
+            "estimated": "2026-04-26T12:15:00+00:00",
+            "actual": "2026-04-26T12:20:00+00:00",
+            "estimated_runway": "2026-04-26T12:20:00+00:00",
+            "actual_runway": "2026-04-26T12:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R1",
+            "scheduled": "2026-04-26T12:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T12:25:00+00:00",
+            "actual": "2026-04-26T12:29:00+00:00",
+            "estimated_runway": "2026-04-26T12:29:00+00:00",
+            "actual_runway": "2026-04-26T12:29:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "304",
+            "iata": "ME304",
+            "icao": "MEA304",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "500213"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T12:10:00+00:00",
+            "estimated": "2026-04-26T12:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "King Fahd International Airport",
+            "timezone": "Asia/Riyadh",
+            "iata": "DMM",
+            "icao": "OEDF",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T14:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        },
+        "flight": {
+            "number": "3262",
+            "iata": "J93262",
+            "icao": "JZR3262",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "unknown",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T12:05:00+00:00",
+            "estimated": "2026-04-26T12:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T16:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia Abu Dhabi",
+            "iata": "3L",
+            "icao": "ADY"
+        },
+        "flight": {
+            "number": "451",
+            "iata": "3L451",
+            "icao": "ADY451",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T12:05:00+00:00",
+            "estimated": "2026-04-26T12:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T12:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Egyptair",
+            "iata": "MS",
+            "icao": "MSR"
+        },
+        "flight": {
+            "number": "710",
+            "iata": "MS710",
+            "icao": "MSR710",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T12:05:00+00:00",
+            "estimated": "2026-04-26T12:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T12:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "2908",
+            "iata": "AC2908",
+            "icao": "ACA2908",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "710",
+                "flight_iata": "ms710",
+                "flight_icao": "msr710"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "53",
+            "delay": 1,
+            "scheduled": "2026-04-26T11:45:00+00:00",
+            "estimated": "2026-04-26T11:45:00+00:00",
+            "actual": "2026-04-26T12:22:00+00:00",
+            "estimated_runway": "2026-04-26T12:22:00+00:00",
+            "actual_runway": "2026-04-26T12:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Sharjah",
+            "timezone": "Asia/Dubai",
+            "iata": "SHJ",
+            "icao": "OMSJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T16:40:00+00:00",
+            "delay": 1,
+            "estimated": "2026-04-26T16:37:00+00:00",
+            "actual": "2026-04-26T16:41:00+00:00",
+            "estimated_runway": "2026-04-26T16:41:00+00:00",
+            "actual_runway": "2026-04-26T16:41:00+00:00"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        },
+        "flight": {
+            "number": "386",
+            "iata": "G9386",
+            "icao": "ABY386",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8966A3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "71",
+            "delay": null,
+            "scheduled": "2026-04-26T08:55:00+00:00",
+            "estimated": "2026-04-26T08:55:00+00:00",
+            "actual": "2026-04-26T08:57:00+00:00",
+            "estimated_runway": "2026-04-26T08:57:00+00:00",
+            "actual_runway": "2026-04-26T08:57:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Abdulaziz International",
+            "timezone": "Asia/Riyadh",
+            "iata": "JED",
+            "icao": "OEJN",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T11:25:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T11:09:00+00:00",
+            "actual": "2026-04-26T11:11:00+00:00",
+            "estimated_runway": "2026-04-26T11:11:00+00:00",
+            "actual_runway": "2026-04-26T11:11:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "374",
+            "iata": "ME374",
+            "icao": "MEA374",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748027"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T08:50:00+00:00",
+            "estimated": "2026-04-26T08:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hong Kong International",
+            "timezone": "Asia/Hong_Kong",
+            "iata": "HKG",
+            "icao": "VHHH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T01:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "6280",
+            "iata": "TK6280",
+            "icao": "THY6280",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "9",
+            "delay": null,
+            "scheduled": "2026-04-26T08:15:00+00:00",
+            "estimated": "2026-04-26T08:15:00+00:00",
+            "actual": "2026-04-26T08:15:00+00:00",
+            "estimated_runway": "2026-04-26T08:15:00+00:00",
+            "actual_runway": "2026-04-26T08:15:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": "2",
+            "gate": "208",
+            "baggage": null,
+            "scheduled": "2026-04-26T09:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T08:57:00+00:00",
+            "actual": "2026-04-26T09:00:00+00:00",
+            "estimated_runway": "2026-04-26T09:00:00+00:00",
+            "actual_runway": "2026-04-26T09:00:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "310",
+            "iata": "ME310",
+            "icao": "MEA310",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748028"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "74",
+            "delay": null,
+            "scheduled": "2026-04-26T08:15:00+00:00",
+            "estimated": "2026-04-26T08:15:00+00:00",
+            "actual": "2026-04-26T08:24:00+00:00",
+            "estimated_runway": "2026-04-26T08:24:00+00:00",
+            "actual_runway": "2026-04-26T08:24:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T10:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T10:15:00+00:00",
+            "actual": "2026-04-26T10:19:00+00:00",
+            "estimated_runway": "2026-04-26T10:19:00+00:00",
+            "actual_runway": "2026-04-26T10:19:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "424",
+            "iata": "ME424",
+            "icao": "MEA424",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748021"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "74",
+            "delay": null,
+            "scheduled": "2026-04-26T08:15:00+00:00",
+            "estimated": "2026-04-26T08:15:00+00:00",
+            "actual": "2026-04-26T08:24:00+00:00",
+            "estimated_runway": "2026-04-26T08:24:00+00:00",
+            "actual_runway": "2026-04-26T08:24:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T10:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T10:15:00+00:00",
+            "actual": "2026-04-26T10:19:00+00:00",
+            "estimated_runway": "2026-04-26T10:19:00+00:00",
+            "actual_runway": "2026-04-26T10:19:00+00:00"
+        },
+        "airline": {
+            "name": "Saudia",
+            "iata": "SV",
+            "icao": "SVA"
+        },
+        "flight": {
+            "number": "6016",
+            "iata": "SV6016",
+            "icao": "SVA6016",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "424",
+                "flight_iata": "me424",
+                "flight_icao": "mea424"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748021"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T08:10:00+00:00",
+            "estimated": "2026-04-26T08:10:00+00:00",
+            "actual": "2026-04-26T08:20:00+00:00",
+            "estimated_runway": "2026-04-26T08:20:00+00:00",
+            "actual_runway": "2026-04-26T08:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-26T11:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T10:55:00+00:00",
+            "actual": "2026-04-26T11:00:00+00:00",
+            "estimated_runway": "2026-04-26T11:00:00+00:00",
+            "actual_runway": "2026-04-26T11:00:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "201",
+            "iata": "ME201",
+            "icao": "MEA201",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DC"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T08:10:00+00:00",
+            "estimated": "2026-04-26T08:10:00+00:00",
+            "actual": "2026-04-26T08:20:00+00:00",
+            "estimated_runway": "2026-04-26T08:20:00+00:00",
+            "actual_runway": "2026-04-26T08:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-26T11:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T10:55:00+00:00",
+            "actual": "2026-04-26T11:00:00+00:00",
+            "estimated_runway": "2026-04-26T11:00:00+00:00",
+            "actual_runway": "2026-04-26T11:00:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "6527",
+            "iata": "AC6527",
+            "icao": "ACA6527",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "201",
+                "flight_iata": "me201",
+                "flight_icao": "mea201"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DC"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T07:55:00+00:00",
+            "estimated": "2026-04-26T07:55:00+00:00",
+            "actual": "2026-04-26T08:00:00+00:00",
+            "estimated_runway": "2026-04-26T08:00:00+00:00",
+            "actual_runway": "2026-04-26T08:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2C",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T11:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T11:12:00+00:00",
+            "actual": "2026-04-26T11:12:00+00:00",
+            "estimated_runway": "2026-04-26T11:12:00+00:00",
+            "actual_runway": "2026-04-26T11:12:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "211",
+            "iata": "ME211",
+            "icao": "MEA211",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748051"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T07:55:00+00:00",
+            "estimated": "2026-04-26T07:55:00+00:00",
+            "actual": "2026-04-26T08:00:00+00:00",
+            "estimated_runway": "2026-04-26T08:00:00+00:00",
+            "actual_runway": "2026-04-26T08:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2C",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T11:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T11:12:00+00:00",
+            "actual": "2026-04-26T11:12:00+00:00",
+            "estimated_runway": "2026-04-26T11:12:00+00:00",
+            "actual_runway": "2026-04-26T11:12:00+00:00"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "5107",
+            "iata": "AF5107",
+            "icao": "AFR5107",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "211",
+                "flight_iata": "me211",
+                "flight_icao": "mea211"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748051"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "60",
+            "delay": null,
+            "scheduled": "2026-04-26T07:20:00+00:00",
+            "estimated": "2026-04-26T07:20:00+00:00",
+            "actual": "2026-04-26T07:02:00+00:00",
+            "estimated_runway": "2026-04-26T07:02:00+00:00",
+            "actual_runway": "2026-04-26T07:02:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "222",
+            "baggage": null,
+            "scheduled": "2026-04-26T08:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T07:48:00+00:00",
+            "actual": "2026-04-26T07:47:00+00:00",
+            "estimated_runway": "2026-04-26T07:47:00+00:00",
+            "actual_runway": "2026-04-26T07:47:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "408",
+            "iata": "RJ408",
+            "icao": "RJA408",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744828"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "60",
+            "delay": null,
+            "scheduled": "2026-04-26T07:20:00+00:00",
+            "estimated": "2026-04-26T07:20:00+00:00",
+            "actual": "2026-04-26T07:02:00+00:00",
+            "estimated_runway": "2026-04-26T07:02:00+00:00",
+            "actual_runway": "2026-04-26T07:02:00+00:00"
+        },
+        "arrival": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "222",
+            "baggage": null,
+            "scheduled": "2026-04-26T08:30:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T07:48:00+00:00",
+            "actual": "2026-04-26T07:47:00+00:00",
+            "estimated_runway": "2026-04-26T07:47:00+00:00",
+            "actual_runway": "2026-04-26T07:47:00+00:00"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5300",
+            "iata": "WY5300",
+            "icao": "OMA5300",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "408",
+                "flight_iata": "rj408",
+                "flight_icao": "rja408"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744828"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "72",
+            "delay": null,
+            "scheduled": "2026-04-26T07:20:00+00:00",
+            "estimated": "2026-04-26T07:20:00+00:00",
+            "actual": "2026-04-26T07:14:00+00:00",
+            "estimated_runway": "2026-04-26T07:14:00+00:00",
+            "actual_runway": "2026-04-26T07:14:00+00:00"
+        },
+        "arrival": {
+            "airport": "Frankfurt International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "FRA",
+            "icao": "EDDF",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "46",
+            "scheduled": "2026-04-26T10:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T10:09:00+00:00",
+            "actual": "2026-04-26T10:11:00+00:00",
+            "estimated_runway": "2026-04-26T10:11:00+00:00",
+            "actual_runway": "2026-04-26T10:11:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "217",
+            "iata": "ME217",
+            "icao": "MEA217",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748016"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "7",
+            "delay": null,
+            "scheduled": "2026-04-26T07:10:00+00:00",
+            "estimated": "2026-04-26T07:10:00+00:00",
+            "actual": "2026-04-26T07:12:00+00:00",
+            "estimated_runway": "2026-04-26T07:12:00+00:00",
+            "actual_runway": "2026-04-26T07:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "8",
+            "scheduled": "2026-04-26T11:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T11:24:00+00:00",
+            "actual": "2026-04-26T11:27:00+00:00",
+            "estimated_runway": "2026-04-26T11:27:00+00:00",
+            "actual_runway": "2026-04-26T11:27:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "426",
+            "iata": "ME426",
+            "icao": "MEA426",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748019"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "32",
+            "delay": null,
+            "scheduled": "2026-04-26T07:05:00+00:00",
+            "estimated": "2026-04-26T07:05:00+00:00",
+            "actual": "2026-04-26T07:09:00+00:00",
+            "estimated_runway": "2026-04-26T07:09:00+00:00",
+            "actual_runway": "2026-04-26T07:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": "21A",
+            "scheduled": "2026-04-26T09:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T08:41:00+00:00",
+            "actual": "2026-04-26T08:41:00+00:00",
+            "estimated_runway": "2026-04-26T08:41:00+00:00",
+            "actual_runway": "2026-04-26T08:41:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "265",
+            "iata": "ME265",
+            "icao": "MEA265",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "32",
+            "delay": null,
+            "scheduled": "2026-04-26T07:05:00+00:00",
+            "estimated": "2026-04-26T07:05:00+00:00",
+            "actual": "2026-04-26T07:09:00+00:00",
+            "estimated_runway": "2026-04-26T07:09:00+00:00",
+            "actual_runway": "2026-04-26T07:09:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": "21A",
+            "scheduled": "2026-04-26T09:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T08:41:00+00:00",
+            "actual": "2026-04-26T08:41:00+00:00",
+            "estimated_runway": "2026-04-26T08:41:00+00:00",
+            "actual_runway": "2026-04-26T08:41:00+00:00"
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "8165",
+            "iata": "TK8165",
+            "icao": "THY8165",
+            "codeshared": {
+                "airline_name": "mea",
+                "airline_iata": "me",
+                "airline_icao": "mea",
+                "flight_number": "265",
+                "flight_iata": "me265",
+                "flight_icao": "mea265"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "5001DB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "70",
+            "delay": 1,
+            "scheduled": "2026-04-26T07:00:00+00:00",
+            "estimated": "2026-04-26T07:00:00+00:00",
+            "actual": "2026-04-26T07:05:00+00:00",
+            "estimated_runway": "2026-04-26T07:05:00+00:00",
+            "actual_runway": "2026-04-26T07:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "D\u00fcsseldorf International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "DUS",
+            "icao": "EDDL",
+            "terminal": "2",
+            "gate": "C31",
+            "baggage": "20",
+            "scheduled": "2026-04-26T10:15:00+00:00",
+            "delay": 1,
+            "estimated": "2026-04-26T10:16:00+00:00",
+            "actual": "2026-04-26T10:16:00+00:00",
+            "estimated_runway": "2026-04-26T10:16:00+00:00",
+            "actual_runway": "2026-04-26T10:16:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "247",
+            "iata": "ME247",
+            "icao": "MEA247",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748020"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": "5",
+            "delay": null,
+            "scheduled": "2026-04-26T06:00:00+00:00",
+            "estimated": "2026-04-26T06:00:00+00:00",
+            "actual": "2026-04-26T06:07:00+00:00",
+            "estimated_runway": "2026-04-26T06:07:00+00:00",
+            "actual_runway": "2026-04-26T06:07:00+00:00"
+        },
+        "arrival": {
+            "airport": "Zvartnots International",
+            "timezone": "Asia/Yerevan",
+            "iata": "EVN",
+            "icao": "UDYZ",
+            "terminal": null,
+            "gate": null,
+            "baggage": "1",
+            "scheduled": "2026-04-26T09:10:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-26T08:56:00+00:00",
+            "actual": "2026-04-26T08:57:00+00:00",
+            "estimated_runway": "2026-04-26T08:57:00+00:00",
+            "actual_runway": "2026-04-26T08:57:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "275",
+            "iata": "ME275",
+            "icao": "MEA275",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748026"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T04:40:00+00:00",
+            "estimated": "2026-04-26T04:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T05:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Egyptair",
+            "iata": "MS",
+            "icao": "MSR"
+        },
+        "flight": {
+            "number": "714",
+            "iata": "MS714",
+            "icao": "MSR714",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-26",
+        "flight_status": null,
+        "departure": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-26T04:40:00+00:00",
+            "estimated": "2026-04-26T04:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-26T05:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "2874",
+            "iata": "AC2874",
+            "icao": "ACA2874",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "714",
+                "flight_iata": "ms714",
+                "flight_icao": "msr714"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    }
+]

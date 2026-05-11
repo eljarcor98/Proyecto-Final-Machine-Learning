@@ -1,0 +1,5235 @@
+[
+    {
+        "flight_date": "2026-04-28",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-28T00:40:00+00:00",
+            "estimated": "2026-04-28T00:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Detroit Metropolitan Wayne County",
+            "timezone": "America/Detroit",
+            "iata": "DTW",
+            "icao": "KDTW",
+            "terminal": "E",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T06:55:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "267",
+            "iata": "RJ267",
+            "icao": "RJA267",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-28",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-28T00:40:00+00:00",
+            "estimated": "2026-04-28T00:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Detroit Metropolitan Wayne County",
+            "timezone": "America/Detroit",
+            "iata": "DTW",
+            "icao": "KDTW",
+            "terminal": "E",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T06:55:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "9235",
+            "iata": "AA9235",
+            "icao": "AAL9235",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "267",
+                "flight_iata": "rj267",
+                "flight_icao": "rja267"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-28",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-28T00:40:00+00:00",
+            "estimated": "2026-04-28T00:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Detroit Metropolitan Wayne County",
+            "timezone": "America/Detroit",
+            "iata": "DTW",
+            "icao": "KDTW",
+            "terminal": "E",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T06:55:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5247",
+            "iata": "WY5247",
+            "icao": "OMA5247",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "267",
+                "flight_iata": "rj267",
+                "flight_icao": "rja267"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-28",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-28T00:15:00+00:00",
+            "estimated": "2026-04-28T00:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T00:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "507",
+            "iata": "RJ507",
+            "icao": "RJA507",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-28",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-28T00:15:00+00:00",
+            "estimated": "2026-04-28T00:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T00:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        },
+        "flight": {
+            "number": "5629",
+            "iata": "AT5629",
+            "icao": "RAM5629",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "507",
+                "flight_iata": "rj507",
+                "flight_icao": "rja507"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-28",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-28T00:05:00+00:00",
+            "estimated": "2026-04-28T00:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-28T04:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "612",
+            "iata": "RJ612",
+            "icao": "RJA612",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T23:55:00+00:00",
+            "estimated": "2026-04-27T23:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Bahrain International",
+            "timezone": "Asia/Bahrain",
+            "iata": "BAH",
+            "icao": "OBBI",
+            "terminal": null,
+            "gate": "18A",
+            "baggage": "A4",
+            "scheduled": "2026-04-28T02:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "672",
+            "iata": "RJ672",
+            "icao": "RJA672",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T22:35:00+00:00",
+            "estimated": "2026-04-27T22:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "5",
+            "scheduled": "2026-04-28T03:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        },
+        "flight": {
+            "number": "144",
+            "iata": "FZ144",
+            "icao": "FDB144",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T22:35:00+00:00",
+            "estimated": "2026-04-27T22:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "5",
+            "scheduled": "2026-04-28T03:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "2057",
+            "iata": "EK2057",
+            "icao": "UAE2057",
+            "codeshared": {
+                "airline_name": "flydubai",
+                "airline_iata": "fz",
+                "airline_icao": "fdb",
+                "flight_number": "144",
+                "flight_iata": "fz144",
+                "flight_icao": "fdb144"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T21:20:00+00:00",
+            "estimated": "2026-04-27T21:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Borg el Arab",
+            "timezone": "Africa/Cairo",
+            "iata": "HBE",
+            "icao": "HEAX",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia Egypt",
+            "iata": "E5",
+            "icao": "RBG"
+        },
+        "flight": {
+            "number": "522",
+            "iata": "E5522",
+            "icao": "RBG522",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T21:00:00+00:00",
+            "estimated": "2026-04-27T21:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Aden International Airport",
+            "timezone": "Asia/Aden",
+            "iata": "ADE",
+            "icao": "OYAA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T00:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Yemenia",
+            "iata": "IY",
+            "icao": "IYE"
+        },
+        "flight": {
+            "number": "649",
+            "iata": "IY649",
+            "icao": "IYE649",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "estimated": "2026-04-27T20:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:55:00+00:00",
+            "delay": 5,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "133",
+            "iata": "RJ133",
+            "icao": "RJA133",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744827"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "estimated": "2026-04-27T20:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:55:00+00:00",
+            "delay": 5,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        },
+        "flight": {
+            "number": "5307",
+            "iata": "EY5307",
+            "icao": "ETD5307",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "133",
+                "flight_iata": "rj133",
+                "flight_icao": "rja133"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744827"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:30:00+00:00",
+            "estimated": "2026-04-27T20:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T01:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia Abu Dhabi",
+            "iata": "3L",
+            "icao": "ADY"
+        },
+        "flight": {
+            "number": "33",
+            "iata": "3L33",
+            "icao": "ADY33",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:20:00+00:00",
+            "estimated": "2026-04-27T20:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Chhatrapati Shivaji International (Sahar International)",
+            "timezone": "Asia/Kolkata",
+            "iata": "BOM",
+            "icao": "VABB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T04:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "190",
+            "iata": "RJ190",
+            "icao": "RJA190",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:10:00+00:00",
+            "estimated": "2026-04-27T20:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Egyptair",
+            "iata": "MS",
+            "icao": "MSR"
+        },
+        "flight": {
+            "number": "702",
+            "iata": "MS702",
+            "icao": "MSR702",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:10:00+00:00",
+            "estimated": "2026-04-27T20:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Ethiopian Airlines",
+            "iata": "ET",
+            "icao": "ETH"
+        },
+        "flight": {
+            "number": "1458",
+            "iata": "ET1458",
+            "icao": "ETH1458",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "702",
+                "flight_iata": "ms702",
+                "flight_icao": "msr702"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:10:00+00:00",
+            "estimated": "2026-04-27T20:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "2878",
+            "iata": "AC2878",
+            "icao": "ACA2878",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "702",
+                "flight_iata": "ms702",
+                "flight_icao": "msr702"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "estimated": "2026-04-27T20:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Jordan Aviation",
+            "iata": "R5",
+            "icao": "JAV"
+        },
+        "flight": {
+            "number": "271",
+            "iata": "R5271",
+            "icao": "JAV271",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "124",
+            "delay": null,
+            "scheduled": "2026-04-27T19:30:00+00:00",
+            "estimated": "2026-04-27T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Baghdad International",
+            "timezone": "Asia/Baghdad",
+            "iata": "BGW",
+            "icao": "ORBI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Iraqi Airways",
+            "iata": "IA",
+            "icao": "IAW"
+        },
+        "flight": {
+            "number": "164",
+            "iata": "IA164",
+            "icao": "IAW164",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "126",
+            "delay": null,
+            "scheduled": "2026-04-27T19:25:00+00:00",
+            "estimated": "2026-04-27T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "delay": 25,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "403",
+            "iata": "RJ403",
+            "icao": "RJA403",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "126",
+            "delay": null,
+            "scheduled": "2026-04-27T19:25:00+00:00",
+            "estimated": "2026-04-27T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "delay": 25,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5303",
+            "iata": "WY5303",
+            "icao": "OMA5303",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "403",
+                "flight_iata": "rj403",
+                "flight_icao": "rja403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "112",
+            "delay": null,
+            "scheduled": "2026-04-27T19:10:00+00:00",
+            "estimated": "2026-04-27T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "505",
+            "iata": "RJ505",
+            "icao": "RJA505",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "104",
+            "delay": null,
+            "scheduled": "2026-04-27T18:20:00+00:00",
+            "estimated": "2026-04-27T18:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Baghdad International",
+            "timezone": "Asia/Baghdad",
+            "iata": "BGW",
+            "icao": "ORBI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:55:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "814",
+            "iata": "RJ814",
+            "icao": "RJA814",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "estimated": "2026-04-27T18:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Erbil International (irbil Northwest)",
+            "timezone": "Asia/Baghdad",
+            "iata": "EBL",
+            "icao": "ORER",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "820",
+            "iata": "RJ820",
+            "icao": "RJA820",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "208",
+            "delay": null,
+            "scheduled": "2026-04-27T18:10:00+00:00",
+            "estimated": "2026-04-27T18:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        },
+        "flight": {
+            "number": "1254",
+            "iata": "XY1254",
+            "icao": "KNE1254",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Noibai International",
+            "timezone": "Asia/Ho_Chi_Minh",
+            "iata": "HAN",
+            "icao": "VVNB",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T07:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "6262",
+            "iata": "TK6262",
+            "icao": "THY6262",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:45:00+00:00",
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kuwait International",
+            "timezone": "Asia/Kuwait",
+            "iata": "KWI",
+            "icao": "OKKK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Kuwait Airways",
+            "iata": "KU",
+            "icao": "KAC"
+        },
+        "flight": {
+            "number": "564",
+            "iata": "KU564",
+            "icao": "KAC564",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:35:00+00:00",
+            "estimated": "2026-04-27T17:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Al-Ashraf International",
+            "timezone": "Asia/Baghdad",
+            "iata": "NJF",
+            "icao": "ORNI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "840",
+            "iata": "RJ840",
+            "icao": "RJA840",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:25:00+00:00",
+            "estimated": "2026-04-27T17:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "163",
+            "iata": "RJ163",
+            "icao": "RJA163",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:25:00+00:00",
+            "estimated": "2026-04-27T17:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "7718",
+            "iata": "TK7718",
+            "icao": "THY7718",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "163",
+                "flight_iata": "rj163",
+                "flight_icao": "rja163"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "126",
+            "delay": null,
+            "scheduled": "2026-04-27T17:05:00+00:00",
+            "estimated": "2026-04-27T17:05:00+00:00",
+            "actual": "2026-04-27T17:27:00+00:00",
+            "estimated_runway": "2026-04-27T17:27:00+00:00",
+            "actual_runway": "2026-04-27T17:27:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Fahd International Airport",
+            "timezone": "Asia/Riyadh",
+            "iata": "DMM",
+            "icao": "OEDF",
+            "terminal": null,
+            "gate": "25",
+            "baggage": "B1",
+            "scheduled": "2026-04-27T19:35:00+00:00",
+            "delay": 22,
+            "estimated": "2026-04-27T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "740",
+            "iata": "RJ740",
+            "icao": "RJA740",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:35:00+00:00",
+            "estimated": "2026-04-27T16:35:00+00:00",
+            "actual": "2026-04-27T16:51:00+00:00",
+            "estimated_runway": "2026-04-27T16:51:00+00:00",
+            "actual_runway": "2026-04-27T16:51:00+00:00"
+        },
+        "arrival": {
+            "airport": "Sharjah",
+            "timezone": "Asia/Dubai",
+            "iata": "SHJ",
+            "icao": "OMSJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:55:00+00:00",
+            "delay": 17,
+            "estimated": "2026-04-27T20:42:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        },
+        "flight": {
+            "number": "376",
+            "iata": "G9376",
+            "icao": "ABY376",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896434"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "210",
+            "delay": null,
+            "scheduled": "2026-04-27T16:30:00+00:00",
+            "estimated": "2026-04-27T16:30:00+00:00",
+            "actual": "2026-04-27T16:18:00+00:00",
+            "estimated_runway": "2026-04-27T16:18:00+00:00",
+            "actual_runway": "2026-04-27T16:18:00+00:00"
+        },
+        "arrival": {
+            "airport": "Borg el Arab",
+            "timezone": "Africa/Cairo",
+            "iata": "HBE",
+            "icao": "HEAX",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T16:41:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Cairo",
+            "iata": "SM",
+            "icao": "MSC"
+        },
+        "flight": {
+            "number": "212",
+            "iata": "SM212",
+            "icao": "MSC212",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "01023D"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "228",
+            "delay": null,
+            "scheduled": "2026-04-27T16:25:00+00:00",
+            "estimated": "2026-04-27T16:25:00+00:00",
+            "actual": "2026-04-27T16:31:00+00:00",
+            "estimated_runway": "2026-04-27T16:31:00+00:00",
+            "actual_runway": "2026-04-27T16:31:00+00:00"
+        },
+        "arrival": {
+            "airport": "Sharjah",
+            "timezone": "Asia/Dubai",
+            "iata": "SHJ",
+            "icao": "OMSJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:00:00+00:00",
+            "delay": 7,
+            "estimated": "2026-04-27T20:17:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        },
+        "flight": {
+            "number": "336",
+            "iata": "G9336",
+            "icao": "ABY336",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896366"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "124",
+            "delay": null,
+            "scheduled": "2026-04-27T16:20:00+00:00",
+            "estimated": "2026-04-27T16:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Seeb",
+            "timezone": "Asia/Muscat",
+            "iata": "MCT",
+            "icao": "OOMS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:45:00+00:00",
+            "delay": 32,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "414",
+            "iata": "WY414",
+            "icao": "OMA414",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "124",
+            "delay": null,
+            "scheduled": "2026-04-27T16:20:00+00:00",
+            "estimated": "2026-04-27T16:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Seeb",
+            "timezone": "Asia/Muscat",
+            "iata": "MCT",
+            "icao": "OOMS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:45:00+00:00",
+            "delay": 32,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "3204",
+            "iata": "RJ3204",
+            "icao": "RJA3204",
+            "codeshared": {
+                "airline_name": "oman air",
+                "airline_iata": "wy",
+                "airline_icao": "oma",
+                "flight_number": "414",
+                "flight_iata": "wy414",
+                "flight_icao": "oma414"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "124",
+            "delay": null,
+            "scheduled": "2026-04-27T16:20:00+00:00",
+            "estimated": "2026-04-27T16:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Seeb",
+            "timezone": "Asia/Muscat",
+            "iata": "MCT",
+            "icao": "OOMS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:45:00+00:00",
+            "delay": 32,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Garuda Indonesia",
+            "iata": "GA",
+            "icao": "GIA"
+        },
+        "flight": {
+            "number": "9433",
+            "iata": "GA9433",
+            "icao": "GIA9433",
+            "codeshared": {
+                "airline_name": "oman air",
+                "airline_iata": "wy",
+                "airline_icao": "oma",
+                "flight_number": "414",
+                "flight_iata": "wy414",
+                "flight_icao": "oma414"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "110",
+            "delay": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "estimated": "2026-04-27T16:10:00+00:00",
+            "actual": "2026-04-27T16:11:00+00:00",
+            "estimated_runway": "2026-04-27T16:11:00+00:00",
+            "actual_runway": "2026-04-27T16:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:25:00+00:00",
+            "delay": 1,
+            "estimated": "2026-04-27T17:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "730",
+            "iata": "RJ730",
+            "icao": "RJA730",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "74482A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "132",
+            "delay": null,
+            "scheduled": "2026-04-27T16:00:00+00:00",
+            "estimated": "2026-04-27T16:00:00+00:00",
+            "actual": "2026-04-27T15:59:00+00:00",
+            "estimated_runway": "2026-04-27T15:59:00+00:00",
+            "actual_runway": "2026-04-27T15:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "6",
+            "scheduled": "2026-04-27T20:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "614",
+            "iata": "RJ614",
+            "icao": "RJA614",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744822"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "204",
+            "delay": null,
+            "scheduled": "2026-04-27T15:55:00+00:00",
+            "estimated": "2026-04-27T15:55:00+00:00",
+            "actual": "2026-04-27T16:02:00+00:00",
+            "estimated_runway": "2026-04-27T16:02:00+00:00",
+            "actual_runway": "2026-04-27T16:02:00+00:00"
+        },
+        "arrival": {
+            "airport": "Bole International",
+            "timezone": "Africa/Addis_Ababa",
+            "iata": "ADD",
+            "icao": "HAAB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:40:00+00:00",
+            "delay": 8,
+            "estimated": "2026-04-27T19:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Ethiopian Airlines",
+            "iata": "ET",
+            "icao": "ETH"
+        },
+        "flight": {
+            "number": "431",
+            "iata": "ET431",
+            "icao": "ETH431",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "040104"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "226",
+            "delay": null,
+            "scheduled": "2026-04-27T15:10:00+00:00",
+            "estimated": "2026-04-27T15:10:00+00:00",
+            "actual": "2026-04-27T15:11:00+00:00",
+            "estimated_runway": "2026-04-27T15:11:00+00:00",
+            "actual_runway": "2026-04-27T15:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Abdulaziz International",
+            "timezone": "Asia/Riyadh",
+            "iata": "JED",
+            "icao": "OEJN",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "delay": 1,
+            "estimated": "2026-04-27T16:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        },
+        "flight": {
+            "number": "1552",
+            "iata": "XY1552",
+            "icao": "KNE1552",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "717C70"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "1",
+            "delay": null,
+            "scheduled": "2026-04-27T14:30:00+00:00",
+            "estimated": "2026-04-27T14:30:00+00:00",
+            "actual": "2026-04-27T14:44:00+00:00",
+            "estimated_runway": "2026-04-27T14:44:00+00:00",
+            "actual_runway": "2026-04-27T14:44:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Hussein International",
+            "timezone": "Asia/Amman",
+            "iata": "AQJ",
+            "icao": "OJAQ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T15:25:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T15:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "302",
+            "iata": "RJ302",
+            "icao": "RJA302",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "1",
+            "delay": null,
+            "scheduled": "2026-04-27T14:30:00+00:00",
+            "estimated": "2026-04-27T14:30:00+00:00",
+            "actual": "2026-04-27T14:44:00+00:00",
+            "estimated_runway": "2026-04-27T14:44:00+00:00",
+            "actual_runway": "2026-04-27T14:44:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Hussein International",
+            "timezone": "Asia/Amman",
+            "iata": "AQJ",
+            "icao": "OJAQ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T15:25:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T15:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "7726",
+            "iata": "TK7726",
+            "icao": "THY7726",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "302",
+                "flight_iata": "rj302",
+                "flight_icao": "rja302"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "1",
+            "delay": null,
+            "scheduled": "2026-04-27T14:30:00+00:00",
+            "estimated": "2026-04-27T14:30:00+00:00",
+            "actual": "2026-04-27T14:44:00+00:00",
+            "estimated_runway": "2026-04-27T14:44:00+00:00",
+            "actual_runway": "2026-04-27T14:44:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Hussein International",
+            "timezone": "Asia/Amman",
+            "iata": "AQJ",
+            "icao": "OJAQ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T15:25:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T15:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "6110",
+            "iata": "QR6110",
+            "icao": "QTR6110",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "302",
+                "flight_iata": "rj302",
+                "flight_icao": "rja302"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A5"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "403",
+            "iata": "QR403",
+            "icao": "QTR403",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Malaysia Airlines",
+            "iata": "MH",
+            "icao": "MAS"
+        },
+        "flight": {
+            "number": "9049",
+            "iata": "MH9049",
+            "icao": "MAS9049",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        },
+        "flight": {
+            "number": "5703",
+            "iata": "AT5703",
+            "icao": "RAM5703",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Virgin Australia",
+            "iata": "VA",
+            "icao": "VOZ"
+        },
+        "flight": {
+            "number": "6052",
+            "iata": "VA6052",
+            "icao": "VOZ6052",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JTL"
+        },
+        "flight": {
+            "number": "5574",
+            "iata": "JL5574",
+            "icao": "JTL5574",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Cathay Pacific",
+            "iata": "CX",
+            "icao": "CPA"
+        },
+        "flight": {
+            "number": "9303",
+            "iata": "CX9303",
+            "icao": "CPA9303",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "3803",
+            "iata": "RJ3803",
+            "icao": "RJA3803",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:20:00+00:00",
+            "estimated_runway": "2026-04-27T14:20:00+00:00",
+            "actual_runway": "2026-04-27T14:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Doha International",
+            "timezone": "Asia/Qatar",
+            "iata": "DOH",
+            "icao": "OTHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "delay": 45,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "RwandAir",
+            "iata": "WB",
+            "icao": "RWD"
+        },
+        "flight": {
+            "number": "1115",
+            "iata": "WB1115",
+            "icao": "RWD1115",
+            "codeshared": {
+                "airline_name": "qatar airways",
+                "airline_iata": "qr",
+                "airline_icao": "qtr",
+                "flight_number": "403",
+                "flight_iata": "qr403",
+                "flight_icao": "qtr403"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "06A077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:03:00+00:00",
+            "estimated_runway": "2026-04-27T14:03:00+00:00",
+            "actual_runway": "2026-04-27T14:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A5B",
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T17:52:00+00:00",
+            "actual": "2026-04-27T17:53:00+00:00",
+            "estimated_runway": "2026-04-27T17:53:00+00:00",
+            "actual_runway": "2026-04-27T17:53:00+00:00"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        },
+        "flight": {
+            "number": "592",
+            "iata": "EY592",
+            "icao": "ETD592",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89637C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:03:00+00:00",
+            "estimated_runway": "2026-04-27T14:03:00+00:00",
+            "actual_runway": "2026-04-27T14:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A5B",
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T17:52:00+00:00",
+            "actual": "2026-04-27T17:53:00+00:00",
+            "estimated_runway": "2026-04-27T17:53:00+00:00",
+            "actual_runway": "2026-04-27T17:53:00+00:00"
+        },
+        "airline": {
+            "name": "SriLankan Airlines",
+            "iata": "UL",
+            "icao": "ALK"
+        },
+        "flight": {
+            "number": "2514",
+            "iata": "UL2514",
+            "icao": "ALK2514",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "592",
+                "flight_iata": "ey592",
+                "flight_icao": "etd592"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89637C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:03:00+00:00",
+            "estimated_runway": "2026-04-27T14:03:00+00:00",
+            "actual_runway": "2026-04-27T14:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A5B",
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T17:52:00+00:00",
+            "actual": "2026-04-27T17:53:00+00:00",
+            "estimated_runway": "2026-04-27T17:53:00+00:00",
+            "actual_runway": "2026-04-27T17:53:00+00:00"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        },
+        "flight": {
+            "number": "6897",
+            "iata": "TP6897",
+            "icao": "TAP6897",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "592",
+                "flight_iata": "ey592",
+                "flight_icao": "etd592"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89637C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:03:00+00:00",
+            "estimated_runway": "2026-04-27T14:03:00+00:00",
+            "actual_runway": "2026-04-27T14:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A5B",
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T17:52:00+00:00",
+            "actual": "2026-04-27T17:53:00+00:00",
+            "estimated_runway": "2026-04-27T17:53:00+00:00",
+            "actual_runway": "2026-04-27T17:53:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "3601",
+            "iata": "RJ3601",
+            "icao": "RJA3601",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "592",
+                "flight_iata": "ey592",
+                "flight_icao": "etd592"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89637C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:03:00+00:00",
+            "estimated_runway": "2026-04-27T14:03:00+00:00",
+            "actual_runway": "2026-04-27T14:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A5B",
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T17:52:00+00:00",
+            "actual": "2026-04-27T17:53:00+00:00",
+            "estimated_runway": "2026-04-27T17:53:00+00:00",
+            "actual_runway": "2026-04-27T17:53:00+00:00"
+        },
+        "airline": {
+            "name": "Asiana Airlines",
+            "iata": "OZ",
+            "icao": "AAR"
+        },
+        "flight": {
+            "number": "6988",
+            "iata": "OZ6988",
+            "icao": "AAR6988",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "592",
+                "flight_iata": "ey592",
+                "flight_icao": "etd592"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89637C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "202",
+            "delay": null,
+            "scheduled": "2026-04-27T13:35:00+00:00",
+            "estimated": "2026-04-27T13:35:00+00:00",
+            "actual": "2026-04-27T14:03:00+00:00",
+            "estimated_runway": "2026-04-27T14:03:00+00:00",
+            "actual_runway": "2026-04-27T14:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A5B",
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T17:52:00+00:00",
+            "actual": "2026-04-27T17:53:00+00:00",
+            "estimated_runway": "2026-04-27T17:53:00+00:00",
+            "actual_runway": "2026-04-27T17:53:00+00:00"
+        },
+        "airline": {
+            "name": "China Eastern Airlines",
+            "iata": "MU",
+            "icao": "CES"
+        },
+        "flight": {
+            "number": "4372",
+            "iata": "MU4372",
+            "icao": "CES4372",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "592",
+                "flight_iata": "ey592",
+                "flight_icao": "etd592"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89637C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "208",
+            "delay": null,
+            "scheduled": "2026-04-27T13:30:00+00:00",
+            "estimated": "2026-04-27T13:30:00+00:00",
+            "actual": "2026-04-27T13:40:00+00:00",
+            "estimated_runway": "2026-04-27T13:40:00+00:00",
+            "actual_runway": "2026-04-27T13:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Damascus International Airport",
+            "timezone": "Asia/Damascus",
+            "iata": "DAM",
+            "icao": "OSDI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T14:25:00+00:00",
+            "delay": 10,
+            "estimated": "2026-04-27T14:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "437",
+            "iata": "RJ437",
+            "icao": "RJA437",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744828"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "220",
+            "delay": null,
+            "scheduled": "2026-04-27T13:30:00+00:00",
+            "estimated": "2026-04-27T13:30:00+00:00",
+            "actual": "2026-04-27T13:59:00+00:00",
+            "estimated_runway": "2026-04-27T13:59:00+00:00",
+            "actual_runway": "2026-04-27T13:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "13",
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "delay": 29,
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "904",
+            "iata": "EK904",
+            "icao": "UAE904",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8963E0"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "220",
+            "delay": null,
+            "scheduled": "2026-04-27T13:30:00+00:00",
+            "estimated": "2026-04-27T13:30:00+00:00",
+            "actual": "2026-04-27T13:59:00+00:00",
+            "estimated_runway": "2026-04-27T13:59:00+00:00",
+            "actual_runway": "2026-04-27T13:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "13",
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "delay": 29,
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "6599",
+            "iata": "UA6599",
+            "icao": "UAL6599",
+            "codeshared": {
+                "airline_name": "emirates",
+                "airline_iata": "ek",
+                "airline_icao": "uae",
+                "flight_number": "904",
+                "flight_iata": "ek904",
+                "flight_icao": "uae904"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8963E0"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "220",
+            "delay": null,
+            "scheduled": "2026-04-27T13:30:00+00:00",
+            "estimated": "2026-04-27T13:30:00+00:00",
+            "actual": "2026-04-27T13:59:00+00:00",
+            "estimated_runway": "2026-04-27T13:59:00+00:00",
+            "actual_runway": "2026-04-27T13:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "13",
+            "scheduled": "2026-04-27T18:15:00+00:00",
+            "delay": 29,
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "8904",
+            "iata": "QF8904",
+            "icao": "QFA8904",
+            "codeshared": {
+                "airline_name": "emirates",
+                "airline_iata": "ek",
+                "airline_icao": "uae",
+                "flight_number": "904",
+                "flight_iata": "ek904",
+                "flight_icao": "uae904"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "8963E0"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "226",
+            "delay": null,
+            "scheduled": "2026-04-27T12:50:00+00:00",
+            "estimated": "2026-04-27T12:50:00+00:00",
+            "actual": "2026-04-27T13:01:00+00:00",
+            "estimated_runway": "2026-04-27T13:01:00+00:00",
+            "actual_runway": "2026-04-27T13:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Khaled International",
+            "timezone": "Asia/Riyadh",
+            "iata": "RUH",
+            "icao": "OERK",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T15:05:00+00:00",
+            "delay": 12,
+            "estimated": "2026-04-27T14:48:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        },
+        "flight": {
+            "number": "1252",
+            "iata": "XY1252",
+            "icao": "KNE1252",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "717CEB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "204",
+            "delay": null,
+            "scheduled": "2026-04-27T11:45:00+00:00",
+            "estimated": "2026-04-27T11:45:00+00:00",
+            "actual": "2026-04-27T12:14:00+00:00",
+            "estimated_runway": "2026-04-27T12:14:00+00:00",
+            "actual_runway": "2026-04-27T12:14:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "7",
+            "scheduled": "2026-04-27T15:25:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T15:01:00+00:00",
+            "actual": "2026-04-27T15:04:00+00:00",
+            "estimated_runway": "2026-04-27T15:04:00+00:00",
+            "actual_runway": "2026-04-27T15:04:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "111",
+            "iata": "RJ111",
+            "icao": "RJA111",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744841"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "204",
+            "delay": null,
+            "scheduled": "2026-04-27T11:45:00+00:00",
+            "estimated": "2026-04-27T11:45:00+00:00",
+            "actual": "2026-04-27T12:14:00+00:00",
+            "estimated_runway": "2026-04-27T12:14:00+00:00",
+            "actual_runway": "2026-04-27T12:14:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "7",
+            "scheduled": "2026-04-27T15:25:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T15:01:00+00:00",
+            "actual": "2026-04-27T15:04:00+00:00",
+            "estimated_runway": "2026-04-27T15:04:00+00:00",
+            "actual_runway": "2026-04-27T15:04:00+00:00"
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "9229",
+            "iata": "AA9229",
+            "icao": "AAL9229",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "111",
+                "flight_iata": "rj111",
+                "flight_icao": "rja111"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744841"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "126",
+            "delay": null,
+            "scheduled": "2026-04-27T11:35:00+00:00",
+            "estimated": "2026-04-27T11:35:00+00:00",
+            "actual": "2026-04-27T11:41:00+00:00",
+            "estimated_runway": "2026-04-27T11:41:00+00:00",
+            "actual_runway": "2026-04-27T11:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R1",
+            "scheduled": "2026-04-27T12:05:00+00:00",
+            "delay": 7,
+            "estimated": "2026-04-27T11:48:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "503",
+            "iata": "RJ503",
+            "icao": "RJA503",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744827"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "126",
+            "delay": null,
+            "scheduled": "2026-04-27T11:35:00+00:00",
+            "estimated": "2026-04-27T11:35:00+00:00",
+            "actual": "2026-04-27T11:41:00+00:00",
+            "estimated_runway": "2026-04-27T11:41:00+00:00",
+            "actual_runway": "2026-04-27T11:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R1",
+            "scheduled": "2026-04-27T12:05:00+00:00",
+            "delay": 7,
+            "estimated": "2026-04-27T11:48:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        },
+        "flight": {
+            "number": "5631",
+            "iata": "AT5631",
+            "icao": "RAM5631",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "503",
+                "flight_iata": "rj503",
+                "flight_icao": "rja503"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744827"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": null,
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T10:50:00+00:00",
+            "estimated": "2026-04-27T10:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Baghdad International",
+            "timezone": "Asia/Baghdad",
+            "iata": "BGW",
+            "icao": "ORBI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T12:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "812",
+            "iata": "RJ812",
+            "icao": "RJA812",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "124",
+            "delay": null,
+            "scheduled": "2026-04-27T10:10:00+00:00",
+            "estimated": "2026-04-27T10:10:00+00:00",
+            "actual": "2026-04-27T10:43:00+00:00",
+            "estimated_runway": "2026-04-27T10:43:00+00:00",
+            "actual_runway": "2026-04-27T10:43:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2C",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T14:29:00+00:00",
+            "actual": "2026-04-27T14:29:00+00:00",
+            "estimated_runway": "2026-04-27T14:29:00+00:00",
+            "actual_runway": "2026-04-27T14:29:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "117",
+            "iata": "RJ117",
+            "icao": "RJA117",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744826"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "124",
+            "delay": null,
+            "scheduled": "2026-04-27T10:10:00+00:00",
+            "estimated": "2026-04-27T10:10:00+00:00",
+            "actual": "2026-04-27T10:43:00+00:00",
+            "estimated_runway": "2026-04-27T10:43:00+00:00",
+            "actual_runway": "2026-04-27T10:43:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2C",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T14:29:00+00:00",
+            "actual": "2026-04-27T14:29:00+00:00",
+            "estimated_runway": "2026-04-27T14:29:00+00:00",
+            "actual_runway": "2026-04-27T14:29:00+00:00"
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "9237",
+            "iata": "AA9237",
+            "icao": "AAL9237",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "117",
+                "flight_iata": "rj117",
+                "flight_icao": "rja117"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744826"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "228",
+            "delay": null,
+            "scheduled": "2026-04-27T10:40:00+00:00",
+            "estimated": "2026-04-27T10:40:00+00:00",
+            "actual": "2026-04-27T11:03:00+00:00",
+            "estimated_runway": "2026-04-27T11:03:00+00:00",
+            "actual_runway": "2026-04-27T11:03:00+00:00"
+        },
+        "arrival": {
+            "airport": "D\u00fcsseldorf International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "DUS",
+            "icao": "EDDL",
+            "terminal": null,
+            "gate": "C46",
+            "baggage": "14",
+            "scheduled": "2026-04-27T15:05:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T14:41:00+00:00",
+            "actual": "2026-04-27T14:42:00+00:00",
+            "estimated_runway": "2026-04-27T14:42:00+00:00",
+            "actual_runway": "2026-04-27T14:42:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "129",
+            "iata": "RJ129",
+            "icao": "RJA129",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A6"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "222",
+            "delay": null,
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "estimated": "2026-04-27T10:35:00+00:00",
+            "actual": "2026-04-27T10:47:00+00:00",
+            "estimated_runway": "2026-04-27T10:47:00+00:00",
+            "actual_runway": "2026-04-27T10:47:00+00:00"
+        },
+        "arrival": {
+            "airport": "Mitiga",
+            "timezone": "Africa/Tripoli",
+            "iata": "MJI",
+            "icao": "HLLM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T13:20:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T12:59:00+00:00",
+            "actual": "2026-04-27T13:00:00+00:00",
+            "estimated_runway": "2026-04-27T13:00:00+00:00",
+            "actual_runway": "2026-04-27T13:00:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "551",
+            "iata": "RJ551",
+            "icao": "RJA551",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744829"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "222",
+            "delay": null,
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "estimated": "2026-04-27T10:35:00+00:00",
+            "actual": "2026-04-27T10:47:00+00:00",
+            "estimated_runway": "2026-04-27T10:47:00+00:00",
+            "actual_runway": "2026-04-27T10:47:00+00:00"
+        },
+        "arrival": {
+            "airport": "Mitiga",
+            "timezone": "Africa/Tripoli",
+            "iata": "MJI",
+            "icao": "HLLM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T13:20:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T12:59:00+00:00",
+            "actual": "2026-04-27T13:00:00+00:00",
+            "estimated_runway": "2026-04-27T13:00:00+00:00",
+            "actual_runway": "2026-04-27T13:00:00+00:00"
+        },
+        "airline": {
+            "name": "Tunisair",
+            "iata": "TU",
+            "icao": "TAR"
+        },
+        "flight": {
+            "number": "151",
+            "iata": "TU151",
+            "icao": "TAR151",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "551",
+                "flight_iata": "rj551",
+                "flight_icao": "rja551"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744829"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "estimated": "2026-04-27T10:35:00+00:00",
+            "actual": "2026-04-27T11:00:00+00:00",
+            "estimated_runway": "2026-04-27T11:00:00+00:00",
+            "actual_runway": "2026-04-27T11:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "delay": 26,
+            "estimated": "2026-04-27T15:43:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "263",
+            "iata": "RJ263",
+            "icao": "RJA263",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "JY-BAA",
+            "iata": "B788",
+            "icao": "B788",
+            "icao24": "740821"
+        },
+        "live": {
+            "updated": "2026-04-27T15:01:34+00:00",
+            "latitude": 54.0795,
+            "longitude": -31.9074,
+            "altitude": 11582.4,
+            "direction": 276,
+            "speed_horizontal": 857.476,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "estimated": "2026-04-27T10:35:00+00:00",
+            "actual": "2026-04-27T11:00:00+00:00",
+            "estimated_runway": "2026-04-27T11:00:00+00:00",
+            "actual_runway": "2026-04-27T11:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "delay": 26,
+            "estimated": "2026-04-27T15:43:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5243",
+            "iata": "WY5243",
+            "icao": "OMA5243",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "263",
+                "flight_iata": "rj263",
+                "flight_icao": "rja263"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "740821"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "116",
+            "delay": null,
+            "scheduled": "2026-04-27T10:35:00+00:00",
+            "estimated": "2026-04-27T10:35:00+00:00",
+            "actual": "2026-04-27T11:00:00+00:00",
+            "estimated_runway": "2026-04-27T11:00:00+00:00",
+            "actual_runway": "2026-04-27T11:00:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "delay": 26,
+            "estimated": "2026-04-27T15:43:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "9240",
+            "iata": "AA9240",
+            "icao": "AAL9240",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "263",
+                "flight_iata": "rj263",
+                "flight_icao": "rja263"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "740821"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "130",
+            "delay": null,
+            "scheduled": "2026-04-27T10:25:00+00:00",
+            "estimated": "2026-04-27T10:25:00+00:00",
+            "actual": "2026-04-27T10:26:00+00:00",
+            "estimated_runway": "2026-04-27T10:26:00+00:00",
+            "actual_runway": "2026-04-27T10:26:00+00:00"
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T13:20:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T12:47:00+00:00",
+            "actual": "2026-04-27T12:52:00+00:00",
+            "estimated_runway": "2026-04-27T12:52:00+00:00",
+            "actual_runway": "2026-04-27T12:52:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "101",
+            "iata": "RJ101",
+            "icao": "RJA101",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "226",
+            "delay": null,
+            "scheduled": "2026-04-27T10:25:00+00:00",
+            "estimated": "2026-04-27T10:25:00+00:00",
+            "actual": "2026-04-27T10:54:00+00:00",
+            "estimated_runway": "2026-04-27T10:54:00+00:00",
+            "actual_runway": "2026-04-27T10:54:00+00:00"
+        },
+        "arrival": {
+            "airport": "Frankfurt International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "FRA",
+            "icao": "EDDF",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "44",
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T14:21:00+00:00",
+            "actual": "2026-04-27T14:23:00+00:00",
+            "estimated_runway": "2026-04-27T14:23:00+00:00",
+            "actual_runway": "2026-04-27T14:23:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "125",
+            "iata": "RJ125",
+            "icao": "RJA125",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A4"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "226",
+            "delay": null,
+            "scheduled": "2026-04-27T10:25:00+00:00",
+            "estimated": "2026-04-27T10:25:00+00:00",
+            "actual": "2026-04-27T10:54:00+00:00",
+            "estimated_runway": "2026-04-27T10:54:00+00:00",
+            "actual_runway": "2026-04-27T10:54:00+00:00"
+        },
+        "arrival": {
+            "airport": "Frankfurt International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "FRA",
+            "icao": "EDDF",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "44",
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T14:21:00+00:00",
+            "actual": "2026-04-27T14:23:00+00:00",
+            "estimated_runway": "2026-04-27T14:23:00+00:00",
+            "actual_runway": "2026-04-27T14:23:00+00:00"
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "9243",
+            "iata": "AA9243",
+            "icao": "AAL9243",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "125",
+                "flight_iata": "rj125",
+                "flight_icao": "rja125"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A4"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": null,
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T10:20:00+00:00",
+            "estimated": "2026-04-27T10:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kuwait International",
+            "timezone": "Asia/Kuwait",
+            "iata": "KWI",
+            "icao": "OKKK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T12:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Kuwait Airways",
+            "iata": "KU",
+            "icao": "KAC"
+        },
+        "flight": {
+            "number": "562",
+            "iata": "KU562",
+            "icao": "KAC562",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "220",
+            "delay": 4,
+            "scheduled": "2026-04-27T10:15:00+00:00",
+            "estimated": "2026-04-27T10:15:00+00:00",
+            "actual": "2026-04-27T10:45:00+00:00",
+            "estimated_runway": "2026-04-27T10:45:00+00:00",
+            "actual_runway": "2026-04-27T10:45:00+00:00"
+        },
+        "arrival": {
+            "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+            "timezone": "Europe/Athens",
+            "iata": "ATH",
+            "icao": "LGAV",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T12:40:00+00:00",
+            "delay": 4,
+            "estimated": "2026-04-27T12:39:00+00:00",
+            "actual": "2026-04-27T12:44:00+00:00",
+            "estimated_runway": "2026-04-27T12:44:00+00:00",
+            "actual_runway": "2026-04-27T12:44:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "131",
+            "iata": "RJ131",
+            "icao": "RJA131",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "220",
+            "delay": 4,
+            "scheduled": "2026-04-27T10:15:00+00:00",
+            "estimated": "2026-04-27T10:15:00+00:00",
+            "actual": "2026-04-27T10:45:00+00:00",
+            "estimated_runway": "2026-04-27T10:45:00+00:00",
+            "actual_runway": "2026-04-27T10:45:00+00:00"
+        },
+        "arrival": {
+            "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+            "timezone": "Europe/Athens",
+            "iata": "ATH",
+            "icao": "LGAV",
+            "terminal": null,
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T12:40:00+00:00",
+            "delay": 4,
+            "estimated": "2026-04-27T12:39:00+00:00",
+            "actual": "2026-04-27T12:44:00+00:00",
+            "estimated_runway": "2026-04-27T12:44:00+00:00",
+            "actual_runway": "2026-04-27T12:44:00+00:00"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5239",
+            "iata": "WY5239",
+            "icao": "OMA5239",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "131",
+                "flight_iata": "rj131",
+                "flight_icao": "rja131"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "210",
+            "delay": null,
+            "scheduled": "2026-04-27T10:15:00+00:00",
+            "estimated": "2026-04-27T10:15:00+00:00",
+            "actual": "2026-04-27T10:04:00+00:00",
+            "estimated_runway": "2026-04-27T10:04:00+00:00",
+            "actual_runway": "2026-04-27T10:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "baggage": "2",
+            "scheduled": "2026-04-27T11:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T10:49:00+00:00",
+            "actual": "2026-04-27T10:50:00+00:00",
+            "estimated_runway": "2026-04-27T10:50:00+00:00",
+            "actual_runway": "2026-04-27T10:50:00+00:00"
+        },
+        "airline": {
+            "name": "MEA",
+            "iata": "ME",
+            "icao": "MEA"
+        },
+        "flight": {
+            "number": "311",
+            "iata": "ME311",
+            "icao": "MEA311",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "748020"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "106",
+            "delay": null,
+            "scheduled": "2026-04-27T09:40:00+00:00",
+            "estimated": "2026-04-27T09:40:00+00:00",
+            "actual": "2026-04-27T10:12:00+00:00",
+            "estimated_runway": "2026-04-27T10:12:00+00:00",
+            "actual_runway": "2026-04-27T10:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": "25",
+            "scheduled": "2026-04-27T12:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T12:13:00+00:00",
+            "actual": "2026-04-27T12:15:00+00:00",
+            "estimated_runway": "2026-04-27T12:15:00+00:00",
+            "actual_runway": "2026-04-27T12:15:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "165",
+            "iata": "RJ165",
+            "icao": "RJA165",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "74482E"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "106",
+            "delay": null,
+            "scheduled": "2026-04-27T09:40:00+00:00",
+            "estimated": "2026-04-27T09:40:00+00:00",
+            "actual": "2026-04-27T10:12:00+00:00",
+            "estimated_runway": "2026-04-27T10:12:00+00:00",
+            "actual_runway": "2026-04-27T10:12:00+00:00"
+        },
+        "arrival": {
+            "airport": "Istanbul Airport",
+            "timezone": "Europe/Istanbul",
+            "iata": "IST",
+            "icao": "LTFM",
+            "terminal": null,
+            "gate": null,
+            "baggage": "25",
+            "scheduled": "2026-04-27T12:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T12:13:00+00:00",
+            "actual": "2026-04-27T12:15:00+00:00",
+            "estimated_runway": "2026-04-27T12:15:00+00:00",
+            "actual_runway": "2026-04-27T12:15:00+00:00"
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "7720",
+            "iata": "TK7720",
+            "icao": "THY7720",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "165",
+                "flight_iata": "rj165",
+                "flight_icao": "rja165"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "74482E"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "120",
+            "delay": null,
+            "scheduled": "2026-04-27T09:35:00+00:00",
+            "estimated": "2026-04-27T09:35:00+00:00",
+            "actual": "2026-04-27T09:46:00+00:00",
+            "estimated_runway": "2026-04-27T09:46:00+00:00",
+            "actual_runway": "2026-04-27T09:46:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T10:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T09:45:00+00:00",
+            "actual": "2026-04-27T09:49:00+00:00",
+            "estimated_runway": "2026-04-27T09:49:00+00:00",
+            "actual_runway": "2026-04-27T09:49:00+00:00"
+        },
+        "airline": {
+            "name": "Egyptair",
+            "iata": "MS",
+            "icao": "MSR"
+        },
+        "flight": {
+            "number": "720",
+            "iata": "MS720",
+            "icao": "MSR720",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "0101B9"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "120",
+            "delay": null,
+            "scheduled": "2026-04-27T09:35:00+00:00",
+            "estimated": "2026-04-27T09:35:00+00:00",
+            "actual": "2026-04-27T09:46:00+00:00",
+            "estimated_runway": "2026-04-27T09:46:00+00:00",
+            "actual_runway": "2026-04-27T09:46:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T10:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T09:45:00+00:00",
+            "actual": "2026-04-27T09:49:00+00:00",
+            "estimated_runway": "2026-04-27T09:49:00+00:00",
+            "actual_runway": "2026-04-27T09:49:00+00:00"
+        },
+        "airline": {
+            "name": "RwandAir",
+            "iata": "WB",
+            "icao": "RWD"
+        },
+        "flight": {
+            "number": "3205",
+            "iata": "WB3205",
+            "icao": "RWD3205",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "720",
+                "flight_iata": "ms720",
+                "flight_icao": "msr720"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "0101B9"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "120",
+            "delay": null,
+            "scheduled": "2026-04-27T09:35:00+00:00",
+            "estimated": "2026-04-27T09:35:00+00:00",
+            "actual": "2026-04-27T09:46:00+00:00",
+            "estimated_runway": "2026-04-27T09:46:00+00:00",
+            "actual_runway": "2026-04-27T09:46:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "4",
+            "scheduled": "2026-04-27T10:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T09:45:00+00:00",
+            "actual": "2026-04-27T09:49:00+00:00",
+            "estimated_runway": "2026-04-27T09:49:00+00:00",
+            "actual_runway": "2026-04-27T09:49:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "2852",
+            "iata": "AC2852",
+            "icao": "ACA2852",
+            "codeshared": {
+                "airline_name": "egyptair",
+                "airline_iata": "ms",
+                "airline_icao": "msr",
+                "flight_number": "720",
+                "flight_iata": "ms720",
+                "flight_icao": "msr720"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "0101B9"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": 4,
+            "scheduled": "2026-04-27T09:15:00+00:00",
+            "estimated": "2026-04-27T09:15:00+00:00",
+            "actual": "2026-04-27T09:33:00+00:00",
+            "estimated_runway": "2026-04-27T09:33:00+00:00",
+            "actual_runway": "2026-04-27T09:33:00+00:00"
+        },
+        "arrival": {
+            "airport": "Maastricht/aachen",
+            "timezone": "Europe/Amsterdam",
+            "iata": "MST",
+            "icao": "EHBK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T13:00:00+00:00",
+            "delay": 4,
+            "estimated": "2026-04-27T13:14:00+00:00",
+            "actual": "2026-04-27T13:04:00+00:00",
+            "estimated_runway": "2026-04-27T13:04:00+00:00",
+            "actual_runway": "2026-04-27T13:04:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "33",
+            "iata": "RJ33",
+            "icao": "RJA33",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "74483A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T09:05:00+00:00",
+            "estimated": "2026-04-27T09:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Zhengzhou",
+            "timezone": "Asia/Shanghai",
+            "iata": "CGO",
+            "icao": "ZHCC",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T02:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "6282",
+            "iata": "TK6282",
+            "icao": "THY6282",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "126",
+            "delay": null,
+            "scheduled": "2026-04-27T06:45:00+00:00",
+            "estimated": "2026-04-27T06:45:00+00:00",
+            "actual": "2026-04-27T06:43:00+00:00",
+            "estimated_runway": "2026-04-27T06:43:00+00:00",
+            "actual_runway": "2026-04-27T06:43:00+00:00"
+        },
+        "arrival": {
+            "airport": "Damascus International Airport",
+            "timezone": "Asia/Damascus",
+            "iata": "DAM",
+            "icao": "OSDI",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T07:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T07:13:00+00:00",
+            "actual": "2026-04-27T07:21:00+00:00",
+            "estimated_runway": "2026-04-27T07:21:00+00:00",
+            "actual_runway": "2026-04-27T07:21:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "435",
+            "iata": "RJ435",
+            "icao": "RJA435",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7448A2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "24",
+            "delay": null,
+            "scheduled": "2026-04-27T06:20:00+00:00",
+            "estimated": "2026-04-27T06:20:00+00:00",
+            "actual": "2026-04-27T06:22:00+00:00",
+            "estimated_runway": "2026-04-27T06:22:00+00:00",
+            "actual_runway": "2026-04-27T06:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R1",
+            "scheduled": "2026-04-27T06:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T06:37:00+00:00",
+            "actual": "2026-04-27T06:38:00+00:00",
+            "estimated_runway": "2026-04-27T06:38:00+00:00",
+            "actual_runway": "2026-04-27T06:38:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "501",
+            "iata": "RJ501",
+            "icao": "RJA501",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744827"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "24",
+            "delay": null,
+            "scheduled": "2026-04-27T06:20:00+00:00",
+            "estimated": "2026-04-27T06:20:00+00:00",
+            "actual": "2026-04-27T06:22:00+00:00",
+            "estimated_runway": "2026-04-27T06:22:00+00:00",
+            "actual_runway": "2026-04-27T06:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cairo International Airport",
+            "timezone": "Africa/Cairo",
+            "iata": "CAI",
+            "icao": "HECA",
+            "terminal": "2",
+            "gate": null,
+            "baggage": "R1",
+            "scheduled": "2026-04-27T06:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T06:37:00+00:00",
+            "actual": "2026-04-27T06:38:00+00:00",
+            "estimated_runway": "2026-04-27T06:38:00+00:00",
+            "actual_runway": "2026-04-27T06:38:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        },
+        "flight": {
+            "number": "5630",
+            "iata": "AT5630",
+            "icao": "RAM5630",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "501",
+                "flight_iata": "rj501",
+                "flight_icao": "rja501"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744827"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "1",
+            "delay": null,
+            "scheduled": "2026-04-27T06:15:00+00:00",
+            "estimated": "2026-04-27T06:15:00+00:00",
+            "actual": "2026-04-27T06:26:00+00:00",
+            "estimated_runway": "2026-04-27T06:26:00+00:00",
+            "actual_runway": "2026-04-27T06:26:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Hussein International",
+            "timezone": "Asia/Amman",
+            "iata": "AQJ",
+            "icao": "OJAQ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T07:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": "2026-04-27T07:08:00+00:00",
+            "estimated_runway": "2026-04-27T07:08:00+00:00",
+            "actual_runway": "2026-04-27T07:08:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "300",
+            "iata": "RJ300",
+            "icao": "RJA300",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744829"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "1",
+            "delay": null,
+            "scheduled": "2026-04-27T06:15:00+00:00",
+            "estimated": "2026-04-27T06:15:00+00:00",
+            "actual": "2026-04-27T06:26:00+00:00",
+            "estimated_runway": "2026-04-27T06:26:00+00:00",
+            "actual_runway": "2026-04-27T06:26:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Hussein International",
+            "timezone": "Asia/Amman",
+            "iata": "AQJ",
+            "icao": "OJAQ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T07:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": "2026-04-27T07:08:00+00:00",
+            "estimated_runway": "2026-04-27T07:08:00+00:00",
+            "actual_runway": "2026-04-27T07:08:00+00:00"
+        },
+        "airline": {
+            "name": "Turkish Airlines",
+            "iata": "TK",
+            "icao": "THY"
+        },
+        "flight": {
+            "number": "7724",
+            "iata": "TK7724",
+            "icao": "THY7724",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "300",
+                "flight_iata": "rj300",
+                "flight_icao": "rja300"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744829"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "1",
+            "delay": null,
+            "scheduled": "2026-04-27T06:15:00+00:00",
+            "estimated": "2026-04-27T06:15:00+00:00",
+            "actual": "2026-04-27T06:26:00+00:00",
+            "estimated_runway": "2026-04-27T06:26:00+00:00",
+            "actual_runway": "2026-04-27T06:26:00+00:00"
+        },
+        "arrival": {
+            "airport": "King Hussein International",
+            "timezone": "Asia/Amman",
+            "iata": "AQJ",
+            "icao": "OJAQ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T07:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": "2026-04-27T07:08:00+00:00",
+            "estimated_runway": "2026-04-27T07:08:00+00:00",
+            "actual_runway": "2026-04-27T07:08:00+00:00"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "6108",
+            "iata": "QR6108",
+            "icao": "QTR6108",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "300",
+                "flight_iata": "rj300",
+                "flight_icao": "rja300"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744829"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "unknown",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T05:00:00+00:00",
+            "estimated": "2026-04-27T05:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Marka International Airport",
+            "timezone": "Asia/Amman",
+            "iata": "ADJ",
+            "icao": "OJAM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T07:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Jordan Aviation",
+            "iata": "R5",
+            "icao": "JAV"
+        },
+        "flight": {
+            "number": "9999",
+            "iata": "R59999",
+            "icao": "JAV9999",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "130",
+            "delay": null,
+            "scheduled": "2026-04-27T04:55:00+00:00",
+            "estimated": "2026-04-27T04:55:00+00:00",
+            "actual": "2026-04-27T04:59:00+00:00",
+            "estimated_runway": "2026-04-27T04:59:00+00:00",
+            "actual_runway": "2026-04-27T04:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T06:10:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T05:42:00+00:00",
+            "actual": "2026-04-27T05:39:00+00:00",
+            "estimated_runway": "2026-04-27T05:39:00+00:00",
+            "actual_runway": "2026-04-27T05:39:00+00:00"
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "407",
+            "iata": "RJ407",
+            "icao": "RJA407",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744821"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Queen Alia International",
+            "timezone": "Asia/Amman",
+            "iata": "AMM",
+            "icao": "OJAI",
+            "terminal": null,
+            "gate": "130",
+            "delay": null,
+            "scheduled": "2026-04-27T04:55:00+00:00",
+            "estimated": "2026-04-27T04:55:00+00:00",
+            "actual": "2026-04-27T04:59:00+00:00",
+            "estimated_runway": "2026-04-27T04:59:00+00:00",
+            "actual_runway": "2026-04-27T04:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Beirut Rafic Hariri Airport",
+            "timezone": "Asia/Beirut",
+            "iata": "BEY",
+            "icao": "OLBA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T06:10:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T05:42:00+00:00",
+            "actual": "2026-04-27T05:39:00+00:00",
+            "estimated_runway": "2026-04-27T05:39:00+00:00",
+            "actual_runway": "2026-04-27T05:39:00+00:00"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        },
+        "flight": {
+            "number": "5305",
+            "iata": "WY5305",
+            "icao": "OMA5305",
+            "codeshared": {
+                "airline_name": "royal jordanian",
+                "airline_iata": "rj",
+                "airline_icao": "rja",
+                "flight_number": "407",
+                "flight_iata": "rj407",
+                "flight_icao": "rja407"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "744821"
+        },
+        "live": null
+    }
+]

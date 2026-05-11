@@ -1,0 +1,5322 @@
+[
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:00:00+00:00",
+            "estimated": "2026-04-27T14:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Liege Airport",
+            "timezone": "Europe/Brussels",
+            "iata": "LGG",
+            "icao": "EBLG",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Challenge Airlines BE",
+            "iata": "X7",
+            "icao": "CHG"
+        },
+        "flight": {
+            "number": "601",
+            "iata": "X7601",
+            "icao": "CHG601",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "4D23E1"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "estimated": "2026-04-27T20:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Liege Airport",
+            "timezone": "Europe/Brussels",
+            "iata": "LGG",
+            "icao": "EBLG",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T23:45:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "San Marino Executive Aviation",
+            "iata": null,
+            "icao": "SMF"
+        },
+        "flight": {
+            "number": "821",
+            "iata": null,
+            "icao": "SMF821",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "500194"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T23:00:00+00:00",
+            "estimated": "2026-04-27T23:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hong Kong International",
+            "timezone": "Asia/Hong_Kong",
+            "iata": "HKG",
+            "icao": "VHHH",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T16:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Challenge Airlines IL",
+            "iata": "5C",
+            "icao": "ICL"
+        },
+        "flight": {
+            "number": "651",
+            "iata": "5C651",
+            "icao": "ICL651",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T22:20:00+00:00",
+            "estimated": "2026-04-27T22:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Suvarnabhumi International",
+            "timezone": "Asia/Bangkok",
+            "iata": "BKK",
+            "icao": "VTBS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T14:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "81",
+            "iata": "LY81",
+            "icao": "ELY81",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7380CB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T22:20:00+00:00",
+            "estimated": "2026-04-27T22:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Suvarnabhumi International",
+            "timezone": "Asia/Bangkok",
+            "iata": "BKK",
+            "icao": "VTBS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T14:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Vietnam Airlines",
+            "iata": "VN",
+            "icao": "HVN"
+        },
+        "flight": {
+            "number": "3298",
+            "iata": "VN3298",
+            "icao": "HVN3298",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "81",
+                "flight_iata": "ly81",
+                "flight_icao": "ely81"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7380CB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T22:20:00+00:00",
+            "estimated": "2026-04-27T22:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Suvarnabhumi International",
+            "timezone": "Asia/Bangkok",
+            "iata": "BKK",
+            "icao": "VTBS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T14:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Thai Airways",
+            "iata": "TG",
+            "icao": "THA"
+        },
+        "flight": {
+            "number": "4584",
+            "iata": "TG4584",
+            "icao": "THA4584",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "81",
+                "flight_iata": "ly81",
+                "flight_icao": "ely81"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7380CB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T22:20:00+00:00",
+            "estimated": "2026-04-27T22:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Suvarnabhumi International",
+            "timezone": "Asia/Bangkok",
+            "iata": "BKK",
+            "icao": "VTBS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T14:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "5020",
+            "iata": "QF5020",
+            "icao": "QFA5020",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "81",
+                "flight_iata": "ly81",
+                "flight_icao": "ely81"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "7380CB"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T21:15:00+00:00",
+            "estimated": "2026-04-27T21:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Sochi/Adler International Airport",
+            "timezone": "Europe/Moscow",
+            "iata": "AER",
+            "icao": "URSS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T00:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        },
+        "flight": {
+            "number": "4312",
+            "iata": "WZ4312",
+            "icao": "RWZ4312",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:45:00+00:00",
+            "estimated": "2026-04-27T20:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Paphos International Airport",
+            "timezone": "Asia/Nicosia",
+            "iata": "PFO",
+            "icao": "LCPH",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "5137",
+            "iata": "LY5137",
+            "icao": "ELY5137",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "503CB3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:35:00+00:00",
+            "estimated": "2026-04-27T20:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T23:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "arkia",
+            "iata": "IZ",
+            "icao": "AIZ"
+        },
+        "flight": {
+            "number": "339",
+            "iata": "IZ339",
+            "icao": "AIZ339",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:30:00+00:00",
+            "estimated": "2026-04-27T20:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cologne/bonn",
+            "timezone": "Europe/Berlin",
+            "iata": "CGN",
+            "icao": "EDDK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T00:05:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Cargo Air",
+            "iata": null,
+            "icao": "CGF"
+        },
+        "flight": {
+            "number": "1907",
+            "iata": null,
+            "icao": "CGF1907",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "4520D2"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "estimated": "2026-04-27T20:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Israir Airlines",
+            "iata": "6H",
+            "icao": "ISR"
+        },
+        "flight": {
+            "number": "583",
+            "iata": "6H583",
+            "icao": "ISR583",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738287"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:55:00+00:00",
+            "estimated": "2026-04-27T19:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "5133",
+            "iata": "LY5133",
+            "icao": "ELY5133",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "503D62"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:45:00+00:00",
+            "estimated": "2026-04-27T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Novo Alexeyevka International",
+            "timezone": "Asia/Tbilisi",
+            "iata": "TBS",
+            "icao": "UGTB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T23:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "KlasJet",
+            "iata": "KJ",
+            "icao": "KLJ"
+        },
+        "flight": {
+            "number": "5109",
+            "iata": "KJ5109",
+            "icao": "KLJ5109",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "503CBE"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:45:00+00:00",
+            "estimated": "2026-04-27T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Narita International Airport",
+            "timezone": "Asia/Tokyo",
+            "iata": "NRT",
+            "icao": "RJAA",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T13:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "91",
+            "iata": "LY91",
+            "icao": "ELY91",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:45:00+00:00",
+            "estimated": "2026-04-27T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Narita International Airport",
+            "timezone": "Asia/Tokyo",
+            "iata": "NRT",
+            "icao": "RJAA",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T13:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "5014",
+            "iata": "QF5014",
+            "icao": "QFA5014",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "91",
+                "flight_iata": "ly91",
+                "flight_icao": "ely91"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:40:00+00:00",
+            "estimated": "2026-04-27T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Liszt Ferenc International",
+            "timezone": "Europe/Budapest",
+            "iata": "BUD",
+            "icao": "LHBP",
+            "terminal": "2B",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "2367",
+            "iata": "LY2367",
+            "icao": "ELY2367",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738056"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:35:00+00:00",
+            "estimated": "2026-04-27T19:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "arkia",
+            "iata": "IZ",
+            "icao": "AIZ"
+        },
+        "flight": {
+            "number": "1165",
+            "iata": "IZ1165",
+            "icao": "AIZ1165",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:30:00+00:00",
+            "estimated": "2026-04-27T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Novo Alexeyevka International",
+            "timezone": "Asia/Tbilisi",
+            "iata": "TBS",
+            "icao": "UGTB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T23:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Israir Airlines",
+            "iata": "6H",
+            "icao": "ISR"
+        },
+        "flight": {
+            "number": "897",
+            "iata": "6H897",
+            "icao": "ISR897",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738284"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:30:00+00:00",
+            "estimated": "2026-04-27T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+            "timezone": "Europe/Athens",
+            "iata": "ATH",
+            "icao": "LGAV",
+            "terminal": null,
+            "gate": null,
+            "baggage": "1",
+            "scheduled": "2026-04-27T21:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "543",
+            "iata": "LY543",
+            "icao": "ELY543",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738064"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:25:00+00:00",
+            "estimated": "2026-04-27T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A6",
+            "baggage": null,
+            "scheduled": "2026-04-28T00:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        },
+        "flight": {
+            "number": "598",
+            "iata": "EY598",
+            "icao": "ETD598",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896327"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:25:00+00:00",
+            "estimated": "2026-04-27T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "A6",
+            "baggage": null,
+            "scheduled": "2026-04-28T00:25:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "9607",
+            "iata": "LY9607",
+            "icao": "ELY9607",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "598",
+                "flight_iata": "ey598",
+                "flight_icao": "etd598"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896327"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "estimated": "2026-04-27T19:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Sofia",
+            "timezone": "Europe/Sofia",
+            "iata": "SOF",
+            "icao": "LBSF",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:38:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "GullivAir",
+            "iata": "G2",
+            "icao": "GBG"
+        },
+        "flight": {
+            "number": "103",
+            "iata": "G2103",
+            "icao": "GBG103",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "45217E"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T19:10:00+00:00",
+            "estimated": "2026-04-27T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Halle",
+            "timezone": "Europe/Berlin",
+            "iata": "LEJ",
+            "icao": "EDDP",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T22:27:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "DHL Air",
+            "iata": "D0",
+            "icao": "DHK"
+        },
+        "flight": {
+            "number": "995",
+            "iata": "D0995",
+            "icao": "DHK995",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "3C71A1"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:10:00+00:00",
+            "estimated": "2026-04-27T18:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "empty",
+            "iata": null,
+            "icao": null
+        },
+        "flight": {
+            "number": "303",
+            "iata": null,
+            "icao": null,
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:10:00+00:00",
+            "estimated": "2026-04-27T18:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Tus Air",
+            "iata": "U8",
+            "icao": "CYF"
+        },
+        "flight": {
+            "number": "103",
+            "iata": "U8103",
+            "icao": "CYF103",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "4C808D"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": 24,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "estimated": "2026-04-27T15:00:00+00:00",
+            "actual": "2026-04-27T16:01:00+00:00",
+            "estimated_runway": "2026-04-27T16:01:00+00:00",
+            "actual_runway": "2026-04-27T16:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cologne/bonn",
+            "timezone": "Europe/Berlin",
+            "iata": "CGN",
+            "icao": "EDDK",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:55:00+00:00",
+            "delay": 23,
+            "estimated": "2026-04-27T19:18:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Challenge Airlines BE",
+            "iata": "X7",
+            "icao": "CHG"
+        },
+        "flight": {
+            "number": "111",
+            "iata": "X7111",
+            "icao": "CHG111",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "4D203D"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:05:00+00:00",
+            "estimated": "2026-04-27T18:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "14",
+            "scheduled": "2026-04-27T23:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        },
+        "flight": {
+            "number": "1126",
+            "iata": "FZ1126",
+            "icao": "FDB1126",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:05:00+00:00",
+            "estimated": "2026-04-27T18:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "14",
+            "scheduled": "2026-04-27T23:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "2471",
+            "iata": "EK2471",
+            "icao": "UAE2471",
+            "codeshared": {
+                "airline_name": "flydubai",
+                "airline_iata": "fz",
+                "airline_icao": "fdb",
+                "flight_number": "1126",
+                "flight_iata": "fz1126",
+                "flight_icao": "fdb1126"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "383",
+            "iata": "LY383",
+            "icao": "ELY383",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806F"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        },
+        "flight": {
+            "number": "8900",
+            "iata": "TP8900",
+            "icao": "TAP8900",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "383",
+                "flight_iata": "ly383",
+                "flight_icao": "ely383"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806F"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:40:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aerolineas Argentinas",
+            "iata": "AR",
+            "icao": "ARG"
+        },
+        "flight": {
+            "number": "7859",
+            "iata": "AR7859",
+            "icao": "ARG7859",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "383",
+                "flight_iata": "ly383",
+                "flight_icao": "ely383"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806F"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Marco Polo",
+            "timezone": "Europe/Rome",
+            "iata": "VCE",
+            "icao": "LIPZ",
+            "terminal": "T1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "289",
+            "iata": "LY289",
+            "icao": "ELY289",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:55:00+00:00",
+            "estimated": "2026-04-27T17:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Prague Vaclav Havel Airport",
+            "timezone": "Europe/Prague",
+            "iata": "PRG",
+            "icao": "LKPR",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "13",
+            "scheduled": "2026-04-27T20:55:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "2523",
+            "iata": "LY2523",
+            "icao": "ELY2523",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738051"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:50:00+00:00",
+            "estimated": "2026-04-27T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Phuket International",
+            "timezone": "Asia/Bangkok",
+            "iata": "HKT",
+            "icao": "VTSP",
+            "terminal": "I",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T09:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "87",
+            "iata": "LY87",
+            "icao": "ELY87",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:50:00+00:00",
+            "estimated": "2026-04-27T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Phuket International",
+            "timezone": "Asia/Bangkok",
+            "iata": "HKT",
+            "icao": "VTSP",
+            "terminal": "I",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T09:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Thai Airways",
+            "iata": "TG",
+            "icao": "THA"
+        },
+        "flight": {
+            "number": "4580",
+            "iata": "TG4580",
+            "icao": "THA4580",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "87",
+                "flight_iata": "ly87",
+                "flight_icao": "ely87"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:50:00+00:00",
+            "estimated": "2026-04-27T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+            "timezone": "Europe/Athens",
+            "iata": "ATH",
+            "icao": "LGAV",
+            "terminal": null,
+            "gate": null,
+            "baggage": "1",
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "545",
+            "iata": "LY545",
+            "icao": "ELY545",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738052"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:45:00+00:00",
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "arkia",
+            "iata": "IZ",
+            "icao": "AIZ"
+        },
+        "flight": {
+            "number": "1163",
+            "iata": "IZ1163",
+            "icao": "AIZ1163",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:45:00+00:00",
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "El Prat De Llobregat",
+            "timezone": "Europe/Madrid",
+            "iata": "BCN",
+            "icao": "LEBL",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "391",
+            "iata": "LY391",
+            "icao": "ELY391",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738068"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:45:00+00:00",
+            "estimated": "2026-04-27T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "El Prat De Llobregat",
+            "timezone": "Europe/Madrid",
+            "iata": "BCN",
+            "icao": "LEBL",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "15",
+            "scheduled": "2026-04-27T21:25:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        },
+        "flight": {
+            "number": "7710",
+            "iata": "IB7710",
+            "icao": "IBE7710",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "391",
+                "flight_iata": "ly391",
+                "flight_icao": "ely391"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738068"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:30:00+00:00",
+            "estimated": "2026-04-27T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Frederic Chopin",
+            "timezone": "Europe/Warsaw",
+            "iata": "WAW",
+            "icao": "EPWA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "5101",
+            "iata": "LY5101",
+            "icao": "ELY5101",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738060"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:30:00+00:00",
+            "estimated": "2026-04-27T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Frederic Chopin",
+            "timezone": "Europe/Warsaw",
+            "iata": "WAW",
+            "icao": "EPWA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "LOT",
+            "iata": "LO",
+            "icao": "LOT"
+        },
+        "flight": {
+            "number": "5253",
+            "iata": "LO5253",
+            "icao": "LOT5253",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "5101",
+                "flight_iata": "ly5101",
+                "flight_icao": "ely5101"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738060"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:30:00+00:00",
+            "estimated": "2026-04-27T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Henri Coanda International",
+            "timezone": "Europe/Bucharest",
+            "iata": "OTP",
+            "icao": "LROP",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "571",
+            "iata": "LY571",
+            "icao": "ELY571",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "LY-LOC",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "503CC0"
+        },
+        "live": {
+            "updated": "2026-04-27T14:44:53+00:00",
+            "latitude": 31.9954,
+            "longitude": 34.7374,
+            "altitude": 3665.22,
+            "direction": 286.09,
+            "speed_horizontal": 400.932,
+            "speed_vertical": 40.968,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:30:00+00:00",
+            "estimated": "2026-04-27T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Henri Coanda International",
+            "timezone": "Europe/Bucharest",
+            "iata": "OTP",
+            "icao": "LROP",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Tarom",
+            "iata": "RO",
+            "icao": "ROT"
+        },
+        "flight": {
+            "number": "9100",
+            "iata": "RO9100",
+            "icao": "ROT9100",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "571",
+                "flight_iata": "ly571",
+                "flight_icao": "ely571"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "503CC0"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:30:00+00:00",
+            "estimated": "2026-04-27T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Vienna International",
+            "timezone": "Europe/Vienna",
+            "iata": "VIE",
+            "icao": "LOWW",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:10:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "363",
+            "iata": "LY363",
+            "icao": "ELY363",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Barajas",
+            "timezone": "Europe/Madrid",
+            "iata": "MAD",
+            "icao": "LEMD",
+            "terminal": "4S",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "397",
+            "iata": "LY397",
+            "icao": "ELY397",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738054"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Barajas",
+            "timezone": "Europe/Madrid",
+            "iata": "MAD",
+            "icao": "LEMD",
+            "terminal": "4S",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": 30,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        },
+        "flight": {
+            "number": "7716",
+            "iata": "IB7716",
+            "icao": "IBE7716",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "397",
+                "flight_iata": "ly397",
+                "flight_icao": "ely397"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738054"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Barajas",
+            "timezone": "Europe/Madrid",
+            "iata": "MAD",
+            "icao": "LEMD",
+            "terminal": "4S",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": 30,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aerolineas Argentinas",
+            "iata": "AR",
+            "icao": "ARG"
+        },
+        "flight": {
+            "number": "7855",
+            "iata": "AR7855",
+            "icao": "ARG7855",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "397",
+                "flight_iata": "ly397",
+                "flight_icao": "ely397"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738054"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Barajas",
+            "timezone": "Europe/Madrid",
+            "iata": "MAD",
+            "icao": "LEMD",
+            "terminal": "4S",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": 30,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        },
+        "flight": {
+            "number": "7866",
+            "iata": "AM7866",
+            "icao": "AMX7866",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "397",
+                "flight_iata": "ly397",
+                "flight_icao": "ely397"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738054"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2B",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "325",
+            "iata": "LY325",
+            "icao": "ELY325",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2B",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:15:00+00:00",
+            "delay": 70,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        },
+        "flight": {
+            "number": "7853",
+            "iata": "AM7853",
+            "icao": "AMX7853",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "325",
+                "flight_iata": "ly325",
+                "flight_icao": "ely325"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738050"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:15:00+00:00",
+            "estimated": "2026-04-27T17:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Charles De Gaulle",
+            "timezone": "Europe/Paris",
+            "iata": "CDG",
+            "icao": "LFPG",
+            "terminal": "2B",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:15:00+00:00",
+            "delay": 70,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "7071",
+            "iata": "AF7071",
+            "icao": "AFR7071",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "325",
+                "flight_iata": "ly325",
+                "flight_icao": "ely325"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738050"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": 57,
+            "scheduled": "2026-04-27T14:20:00+00:00",
+            "estimated": "2026-04-27T14:20:00+00:00",
+            "actual": "2026-04-27T15:43:00+00:00",
+            "estimated_runway": "2026-04-27T15:43:00+00:00",
+            "actual_runway": "2026-04-27T15:43:00+00:00"
+        },
+        "arrival": {
+            "airport": "Diagoras",
+            "timezone": "Europe/Athens",
+            "iata": "RHO",
+            "icao": "LGRP",
+            "terminal": "M",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:07:00+00:00",
+            "delay": 57,
+            "estimated": "2026-04-27T17:04:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Hi Fly",
+            "iata": "5K",
+            "icao": "HFY"
+        },
+        "flight": {
+            "number": "105",
+            "iata": "5K105",
+            "icao": "HFY105",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "4D250A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:00:00+00:00",
+            "estimated": "2026-04-27T17:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "317",
+            "iata": "LY317",
+            "icao": "ELY317",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:00:00+00:00",
+            "estimated": "2026-04-27T17:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:20:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Virgin Atlantic",
+            "iata": "VS",
+            "icao": "VIR"
+        },
+        "flight": {
+            "number": "7495",
+            "iata": "VS7495",
+            "icao": "VIR7495",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "317",
+                "flight_iata": "ly317",
+                "flight_icao": "ely317"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738076"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T17:00:00+00:00",
+            "estimated": "2026-04-27T17:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:20:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        },
+        "flight": {
+            "number": "7877",
+            "iata": "AM7877",
+            "icao": "AMX7877",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "317",
+                "flight_iata": "ly317",
+                "flight_icao": "ely317"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738076"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:55:00+00:00",
+            "estimated": "2026-04-27T16:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Lisbon Portela",
+            "timezone": "Europe/Lisbon",
+            "iata": "LIS",
+            "icao": "LPPT",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:55:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "375",
+            "iata": "LY375",
+            "icao": "ELY375",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:55:00+00:00",
+            "estimated": "2026-04-27T16:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Lisbon Portela",
+            "timezone": "Europe/Lisbon",
+            "iata": "LIS",
+            "icao": "LPPT",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:55:00+00:00",
+            "delay": 15,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        },
+        "flight": {
+            "number": "8920",
+            "iata": "TP8920",
+            "icao": "TAP8920",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "375",
+                "flight_iata": "ly375",
+                "flight_icao": "ely375"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738061"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:55:00+00:00",
+            "estimated": "2026-04-27T16:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "John F Kennedy International",
+            "timezone": "America/New_York",
+            "iata": "JFK",
+            "icao": "KJFK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "11",
+            "iata": "LY11",
+            "icao": "ELY11",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "4X-EDI",
+            "iata": "B789",
+            "icao": "B789",
+            "icao24": "7380C7"
+        },
+        "live": {
+            "updated": "2026-04-27T14:34:31+00:00",
+            "latitude": 32.0016,
+            "longitude": 34.8022,
+            "altitude": 723.9,
+            "direction": 257,
+            "speed_horizontal": 366.696,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:55:00+00:00",
+            "estimated": "2026-04-27T16:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "John F Kennedy International",
+            "timezone": "America/New_York",
+            "iata": "JFK",
+            "icao": "KJFK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        },
+        "flight": {
+            "number": "7432",
+            "iata": "DL7432",
+            "icao": "DAL7432",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "11",
+                "flight_iata": "ly11",
+                "flight_icao": "ely11"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:55:00+00:00",
+            "estimated": "2026-04-27T16:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "John F Kennedy International",
+            "timezone": "America/New_York",
+            "iata": "JFK",
+            "icao": "KJFK",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:35:00+00:00",
+            "delay": 10,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        },
+        "flight": {
+            "number": "7865",
+            "iata": "AM7865",
+            "icao": "AMX7865",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "11",
+                "flight_iata": "ly11",
+                "flight_icao": "ely11"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:50:00+00:00",
+            "estimated": "2026-04-27T16:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:35:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Israir Airlines",
+            "iata": "6H",
+            "icao": "ISR"
+        },
+        "flight": {
+            "number": "343",
+            "iata": "6H343",
+            "icao": "ISR343",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738288"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "estimated": "2026-04-27T16:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Zurich",
+            "timezone": "Europe/Zurich",
+            "iata": "ZRH",
+            "icao": "LSZH",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "343",
+            "iata": "LY343",
+            "icao": "ELY343",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738065"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": 2,
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "estimated": "2026-04-27T16:40:00+00:00",
+            "actual": "2026-04-27T17:05:00+00:00",
+            "estimated_runway": "2026-04-27T17:05:00+00:00",
+            "actual_runway": "2026-04-27T17:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "Bole International",
+            "timezone": "Africa/Addis_Ababa",
+            "iata": "ADD",
+            "icao": "HAAB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:55:00+00:00",
+            "delay": 2,
+            "estimated": "2026-04-27T20:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Ethiopian Airlines",
+            "iata": "ET",
+            "icao": "ETH"
+        },
+        "flight": {
+            "number": "415",
+            "iata": "ET415",
+            "icao": "ETH415",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "ET-AQN",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "040077"
+        },
+        "live": {
+            "updated": "2026-04-27T14:44:22+00:00",
+            "latitude": 28.6572,
+            "longitude": 36.5581,
+            "altitude": 10668,
+            "direction": 171,
+            "speed_horizontal": 18.52,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": 2,
+            "scheduled": "2026-04-27T16:40:00+00:00",
+            "estimated": "2026-04-27T16:40:00+00:00",
+            "actual": "2026-04-27T17:05:00+00:00",
+            "estimated_runway": "2026-04-27T17:05:00+00:00",
+            "actual_runway": "2026-04-27T17:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "Bole International",
+            "timezone": "Africa/Addis_Ababa",
+            "iata": "ADD",
+            "icao": "HAAB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:55:00+00:00",
+            "delay": 2,
+            "estimated": "2026-04-27T20:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "8805",
+            "iata": "LY8805",
+            "icao": "ELY8805",
+            "codeshared": {
+                "airline_name": "ethiopian airlines",
+                "airline_iata": "et",
+                "airline_icao": "eth",
+                "flight_number": "415",
+                "flight_iata": "et415",
+                "flight_icao": "eth415"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "040077"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T18:00:00+00:00",
+            "estimated": "2026-04-27T18:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Liege Airport",
+            "timezone": "Europe/Brussels",
+            "iata": "LGG",
+            "icao": "EBLG",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "821",
+            "iata": "LY821",
+            "icao": "ELY821",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "estimated": "2026-04-27T16:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Schiphol",
+            "timezone": "Europe/Amsterdam",
+            "iata": "AMS",
+            "icao": "EHAM",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T20:15:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "339",
+            "iata": "LY339",
+            "icao": "ELY339",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738053"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "estimated": "2026-04-27T16:10:00+00:00",
+            "actual": "2026-04-27T16:31:00+00:00",
+            "estimated_runway": "2026-04-27T16:31:00+00:00",
+            "actual_runway": "2026-04-27T16:31:00+00:00"
+        },
+        "arrival": {
+            "airport": "Schiphol",
+            "timezone": "Europe/Amsterdam",
+            "iata": "AMS",
+            "icao": "EHAM",
+            "terminal": null,
+            "gate": "G6",
+            "baggage": null,
+            "scheduled": "2026-04-27T20:15:00+00:00",
+            "delay": 21,
+            "estimated": "2026-04-27T20:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        },
+        "flight": {
+            "number": "2475",
+            "iata": "KL2475",
+            "icao": "KLM2475",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "339",
+                "flight_iata": "ly339",
+                "flight_icao": "ely339"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738053"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "estimated": "2026-04-27T16:10:00+00:00",
+            "actual": "2026-04-27T16:31:00+00:00",
+            "estimated_runway": "2026-04-27T16:31:00+00:00",
+            "actual_runway": "2026-04-27T16:31:00+00:00"
+        },
+        "arrival": {
+            "airport": "Schiphol",
+            "timezone": "Europe/Amsterdam",
+            "iata": "AMS",
+            "icao": "EHAM",
+            "terminal": null,
+            "gate": "G6",
+            "baggage": null,
+            "scheduled": "2026-04-27T20:15:00+00:00",
+            "delay": 21,
+            "estimated": "2026-04-27T20:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        },
+        "flight": {
+            "number": "7851",
+            "iata": "AM7851",
+            "icao": "AMX7851",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "339",
+                "flight_iata": "ly339",
+                "flight_icao": "ely339"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738053"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T16:10:00+00:00",
+            "estimated": "2026-04-27T16:10:00+00:00",
+            "actual": "2026-04-27T16:25:00+00:00",
+            "estimated_runway": "2026-04-27T16:25:00+00:00",
+            "actual_runway": "2026-04-27T16:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Luton Airport",
+            "timezone": "Europe/London",
+            "iata": "LTN",
+            "icao": "EGGW",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T19:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T19:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "313",
+            "iata": "LY313",
+            "icao": "ELY313",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "4X-EKO",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "738069"
+        },
+        "live": {
+            "updated": "2026-04-27T14:34:44+00:00",
+            "latitude": 36.5939,
+            "longitude": 27.7883,
+            "altitude": 11582.4,
+            "direction": 316,
+            "speed_horizontal": 768.58,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": 8,
+            "scheduled": "2026-04-27T16:00:00+00:00",
+            "estimated": "2026-04-27T16:00:00+00:00",
+            "actual": "2026-04-27T16:19:00+00:00",
+            "estimated_runway": "2026-04-27T16:19:00+00:00",
+            "actual_runway": "2026-04-27T16:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Liszt Ferenc International",
+            "timezone": "Europe/Budapest",
+            "iata": "BUD",
+            "icao": "LHBP",
+            "terminal": "2B",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:30:00+00:00",
+            "delay": 8,
+            "estimated": "2026-04-27T18:38:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Israir Airlines",
+            "iata": "6H",
+            "icao": "ISR"
+        },
+        "flight": {
+            "number": "723",
+            "iata": "6H723",
+            "icao": "ISR723",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "4X-ABW",
+            "iata": "A320",
+            "icao": "A320",
+            "icao24": "738289"
+        },
+        "live": {
+            "updated": "2026-04-27T14:41:27+00:00",
+            "latitude": 39.7302,
+            "longitude": 30.1436,
+            "altitude": 10972.8,
+            "direction": 337,
+            "speed_horizontal": 781.544,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:50:00+00:00",
+            "estimated": "2026-04-27T15:50:00+00:00",
+            "actual": "2026-04-27T16:11:00+00:00",
+            "estimated_runway": "2026-04-27T16:11:00+00:00",
+            "actual_runway": "2026-04-27T16:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "14",
+            "scheduled": "2026-04-27T20:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T20:04:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        },
+        "flight": {
+            "number": "1082",
+            "iata": "FZ1082",
+            "icao": "FDB1082",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "A6-FMO",
+            "iata": "B38M",
+            "icao": "B38M",
+            "icao24": "896555"
+        },
+        "live": {
+            "updated": "2026-04-27T14:44:40+00:00",
+            "latitude": 25.7843,
+            "longitude": 45.8419,
+            "altitude": 11277.6,
+            "direction": 136,
+            "speed_horizontal": 942.668,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:50:00+00:00",
+            "estimated": "2026-04-27T15:50:00+00:00",
+            "actual": "2026-04-27T16:11:00+00:00",
+            "estimated_runway": "2026-04-27T16:11:00+00:00",
+            "actual_runway": "2026-04-27T16:11:00+00:00"
+        },
+        "arrival": {
+            "airport": "Dubai",
+            "timezone": "Asia/Dubai",
+            "iata": "DXB",
+            "icao": "OMDB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "14",
+            "scheduled": "2026-04-27T20:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T20:04:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        },
+        "flight": {
+            "number": "2449",
+            "iata": "EK2449",
+            "icao": "UAE2449",
+            "codeshared": {
+                "airline_name": "flydubai",
+                "airline_iata": "fz",
+                "airline_icao": "fdb",
+                "flight_number": "1082",
+                "flight_iata": "fz1082",
+                "flight_icao": "fdb1082"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "896555"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:45:00+00:00",
+            "estimated": "2026-04-27T15:45:00+00:00",
+            "actual": "2026-04-27T15:59:00+00:00",
+            "estimated_runway": "2026-04-27T15:59:00+00:00",
+            "actual_runway": "2026-04-27T15:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Franz Josef Strauss",
+            "timezone": "Europe/Berlin",
+            "iata": "MUC",
+            "icao": "EDDM",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:50:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:42:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "351",
+            "iata": "LY351",
+            "icao": "ELY351",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806D"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:45:00+00:00",
+            "estimated": "2026-04-27T15:45:00+00:00",
+            "actual": "2026-04-27T15:59:00+00:00",
+            "estimated_runway": "2026-04-27T15:59:00+00:00",
+            "actual_runway": "2026-04-27T15:59:00+00:00"
+        },
+        "arrival": {
+            "airport": "Franz Josef Strauss",
+            "timezone": "Europe/Berlin",
+            "iata": "MUC",
+            "icao": "EDDM",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:50:00+00:00",
+            "delay": 15,
+            "estimated": "2026-04-27T18:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        },
+        "flight": {
+            "number": "3173",
+            "iata": "SK3173",
+            "icao": "SAS3173",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "351",
+                "flight_iata": "ly351",
+                "flight_icao": "ely351"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806D"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "unknown",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:40:00+00:00",
+            "estimated": "2026-04-27T15:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Zhengzhou",
+            "timezone": "Asia/Shanghai",
+            "iata": "CGO",
+            "icao": "ZHCC",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-28T07:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Challenge Airlines IL",
+            "iata": "5C",
+            "icao": "ICL"
+        },
+        "flight": {
+            "number": "813",
+            "iata": "5C813",
+            "icao": "ICL813",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:30:00+00:00",
+            "estimated": "2026-04-27T15:30:00+00:00",
+            "actual": "2026-04-27T15:40:00+00:00",
+            "estimated_runway": "2026-04-27T15:40:00+00:00",
+            "actual_runway": "2026-04-27T15:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Milano Malpensa",
+            "timezone": "Europe/Rome",
+            "iata": "MXP",
+            "icao": "LIMC",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:36:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "281",
+            "iata": "LY281",
+            "icao": "ELY281",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738057"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:30:00+00:00",
+            "estimated": "2026-04-27T15:30:00+00:00",
+            "actual": "2026-04-27T15:40:00+00:00",
+            "estimated_runway": "2026-04-27T15:40:00+00:00",
+            "actual_runway": "2026-04-27T15:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Milano Malpensa",
+            "timezone": "Europe/Rome",
+            "iata": "MXP",
+            "icao": "LIMC",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:36:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        },
+        "flight": {
+            "number": "8908",
+            "iata": "TP8908",
+            "icao": "TAP8908",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "281",
+                "flight_iata": "ly281",
+                "flight_icao": "ely281"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738057"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:30:00+00:00",
+            "estimated": "2026-04-27T15:30:00+00:00",
+            "actual": "2026-04-27T15:40:00+00:00",
+            "estimated_runway": "2026-04-27T15:40:00+00:00",
+            "actual_runway": "2026-04-27T15:40:00+00:00"
+        },
+        "arrival": {
+            "airport": "Milano Malpensa",
+            "timezone": "Europe/Rome",
+            "iata": "MXP",
+            "icao": "LIMC",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:40:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:36:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        },
+        "flight": {
+            "number": "3183",
+            "iata": "SK3183",
+            "icao": "SAS3183",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "281",
+                "flight_iata": "ly281",
+                "flight_icao": "ely281"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738057"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": 62,
+            "scheduled": "2026-04-27T11:00:00+00:00",
+            "estimated": "2026-04-27T11:00:00+00:00",
+            "actual": "2026-04-27T12:22:00+00:00",
+            "estimated_runway": "2026-04-27T12:22:00+00:00",
+            "actual_runway": "2026-04-27T12:22:00+00:00"
+        },
+        "arrival": {
+            "airport": "Heydar Aliyev International (Bina International)",
+            "timezone": "Asia/Baku",
+            "iata": "GYD",
+            "icao": "UBBB",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T14:51:00+00:00",
+            "delay": 61,
+            "estimated": "2026-04-27T15:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Silk Way West Airlines",
+            "iata": "7L",
+            "icao": "AZG"
+        },
+        "flight": {
+            "number": "217",
+            "iata": "7L217",
+            "icao": "AZG217",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "600BBE"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": 6,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "estimated": "2026-04-27T15:00:00+00:00",
+            "actual": "2026-04-27T15:32:00+00:00",
+            "estimated_runway": "2026-04-27T15:32:00+00:00",
+            "actual_runway": "2026-04-27T15:32:00+00:00"
+        },
+        "arrival": {
+            "airport": "Larnaca",
+            "timezone": "Asia/Nicosia",
+            "iata": "LCA",
+            "icao": "LCLK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:05:00+00:00",
+            "delay": 6,
+            "estimated": null,
+            "actual": "2026-04-27T16:11:00+00:00",
+            "estimated_runway": "2026-04-27T16:11:00+00:00",
+            "actual_runway": "2026-04-27T16:11:00+00:00"
+        },
+        "airline": {
+            "name": "Tus Air",
+            "iata": "U8",
+            "icao": "CYF"
+        },
+        "flight": {
+            "number": "107",
+            "iata": "U8107",
+            "icao": "CYF107",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "4C808C"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "estimated": "2026-04-27T15:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cologne/bonn",
+            "timezone": "Europe/Berlin",
+            "iata": "CGN",
+            "icao": "EDDK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:55:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Challenge Air Cargo",
+            "iata": "X6",
+            "icao": "CHZ"
+        },
+        "flight": {
+            "number": "111",
+            "iata": "X6111",
+            "icao": "CHZ111",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "9H-CAH",
+            "iata": "B763",
+            "icao": "B763",
+            "icao24": "4D203D"
+        },
+        "live": {
+            "updated": "2026-04-27T14:34:45+00:00",
+            "latitude": 38.9724,
+            "longitude": 25.1262,
+            "altitude": 11582.4,
+            "direction": 316,
+            "speed_horizontal": 794.508,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "estimated": "2026-04-27T15:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Jomo Kenyatta International",
+            "timezone": "Africa/Nairobi",
+            "iata": "NBO",
+            "icao": "HKJK",
+            "terminal": "1E",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T21:30:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Challenge Airlines IL",
+            "iata": "5C",
+            "icao": "ICL"
+        },
+        "flight": {
+            "number": "401",
+            "iata": "5C401",
+            "icao": "ICL401",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "estimated": "2026-04-27T15:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T17:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "empty",
+            "iata": null,
+            "icao": null
+        },
+        "flight": {
+            "number": "372",
+            "iata": null,
+            "icao": null,
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T15:00:00+00:00",
+            "estimated": "2026-04-27T15:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T17:45:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Tus Air",
+            "iata": "U8",
+            "icao": "CYF"
+        },
+        "flight": {
+            "number": "132",
+            "iata": "U8132",
+            "icao": "CYF132",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "estimated": "2026-04-27T14:45:00+00:00",
+            "actual": "2026-04-27T15:01:00+00:00",
+            "estimated_runway": "2026-04-27T15:01:00+00:00",
+            "actual_runway": "2026-04-27T15:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Marseille Provence Airport",
+            "timezone": "Europe/Paris",
+            "iata": "MRS",
+            "icao": "LFML",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T18:10:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "321",
+            "iata": "LY321",
+            "icao": "ELY321",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "4X-EKS",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "73806B"
+        },
+        "live": {
+            "updated": "2026-04-27T14:44:48+00:00",
+            "latitude": 39.6113,
+            "longitude": 14.2776,
+            "altitude": 11582.4,
+            "direction": 284.3,
+            "speed_horizontal": 787.428,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "estimated": "2026-04-27T14:45:00+00:00",
+            "actual": "2026-04-27T15:01:00+00:00",
+            "estimated_runway": "2026-04-27T15:01:00+00:00",
+            "actual_runway": "2026-04-27T15:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Marseille Provence Airport",
+            "timezone": "Europe/Paris",
+            "iata": "MRS",
+            "icao": "LFML",
+            "terminal": "1",
+            "gate": null,
+            "baggage": "3",
+            "scheduled": "2026-04-27T18:10:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "6172",
+            "iata": "AF6172",
+            "icao": "AFR6172",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "321",
+                "flight_iata": "ly321",
+                "flight_icao": "ely321"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806B"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:45:00+00:00",
+            "estimated": "2026-04-27T14:45:00+00:00",
+            "actual": "2026-04-27T14:51:00+00:00",
+            "estimated_runway": "2026-04-27T14:51:00+00:00",
+            "actual_runway": "2026-04-27T14:51:00+00:00"
+        },
+        "arrival": {
+            "airport": "Novo Alexeyevka International",
+            "timezone": "Asia/Tbilisi",
+            "iata": "TBS",
+            "icao": "UGTB",
+            "terminal": "3",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:20:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:09:00+00:00",
+            "actual": "2026-04-27T18:10:00+00:00",
+            "estimated_runway": "2026-04-27T18:10:00+00:00",
+            "actual_runway": "2026-04-27T18:10:00+00:00"
+        },
+        "airline": {
+            "name": "arkia",
+            "iata": "IZ",
+            "icao": "AIZ"
+        },
+        "flight": {
+            "number": "1419",
+            "iata": "IZ1419",
+            "icao": "AIZ1419",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "4X-EMF",
+            "iata": "E195",
+            "icao": "E195",
+            "icao24": "738488"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": 33,
+            "scheduled": "2026-04-27T14:40:00+00:00",
+            "estimated": "2026-04-27T14:40:00+00:00",
+            "actual": "2026-04-27T15:34:00+00:00",
+            "estimated_runway": "2026-04-27T15:34:00+00:00",
+            "actual_runway": "2026-04-27T15:34:00+00:00"
+        },
+        "arrival": {
+            "airport": "Berlin Brandenburg Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "BER",
+            "icao": "EDDB",
+            "terminal": "T1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:05:00+00:00",
+            "delay": 33,
+            "estimated": "2026-04-27T18:38:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Israir Airlines",
+            "iata": "6H",
+            "icao": "ISR"
+        },
+        "flight": {
+            "number": "255",
+            "iata": "6H255",
+            "icao": "ISR255",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73828B"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:35:00+00:00",
+            "estimated": "2026-04-27T14:35:00+00:00",
+            "actual": "2026-04-27T14:57:00+00:00",
+            "estimated_runway": "2026-04-27T14:57:00+00:00",
+            "actual_runway": "2026-04-27T14:57:00+00:00"
+        },
+        "arrival": {
+            "airport": "Francisco S\u00e1 Carneiro",
+            "timezone": "Europe/Lisbon",
+            "iata": "OPO",
+            "icao": "LPPR",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:23:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "373",
+            "iata": "LY373",
+            "icao": "ELY373",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "4X-EKJ",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "73806E"
+        },
+        "live": {
+            "updated": "2026-04-27T14:34:32+00:00",
+            "latitude": 39.4285,
+            "longitude": 15.1437,
+            "altitude": 10972.8,
+            "direction": 285,
+            "speed_horizontal": 775.988,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:35:00+00:00",
+            "estimated": "2026-04-27T14:35:00+00:00",
+            "actual": "2026-04-27T14:57:00+00:00",
+            "estimated_runway": "2026-04-27T14:57:00+00:00",
+            "actual_runway": "2026-04-27T14:57:00+00:00"
+        },
+        "arrival": {
+            "airport": "Francisco S\u00e1 Carneiro",
+            "timezone": "Europe/Lisbon",
+            "iata": "OPO",
+            "icao": "LPPR",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:35:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:23:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        },
+        "flight": {
+            "number": "8924",
+            "iata": "TP8924",
+            "icao": "TAP8924",
+            "codeshared": {
+                "airline_name": "el al",
+                "airline_iata": "ly",
+                "airline_icao": "ely",
+                "flight_number": "373",
+                "flight_iata": "ly373",
+                "flight_icao": "ely373"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "73806E"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:30:00+00:00",
+            "estimated": "2026-04-27T14:30:00+00:00",
+            "actual": "2026-04-27T14:39:00+00:00",
+            "estimated_runway": "2026-04-27T14:39:00+00:00",
+            "actual_runway": "2026-04-27T14:39:00+00:00"
+        },
+        "arrival": {
+            "airport": "Bole International",
+            "timezone": "Africa/Addis_Ababa",
+            "iata": "ADD",
+            "icao": "HAAB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Ethiopian Airlines",
+            "iata": "ET",
+            "icao": "ETH"
+        },
+        "flight": {
+            "number": "419",
+            "iata": "ET419",
+            "icao": "ETH419",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "ET-AQP",
+            "iata": "B738",
+            "icao": "B738",
+            "icao24": "040079"
+        },
+        "live": {
+            "updated": "2026-04-27T14:44:37+00:00",
+            "latitude": 11.4036,
+            "longitude": 39.15,
+            "altitude": 11582.4,
+            "direction": 189,
+            "speed_horizontal": 859.328,
+            "speed_vertical": 0,
+            "is_ground": false
+        }
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:30:00+00:00",
+            "estimated": "2026-04-27T14:30:00+00:00",
+            "actual": "2026-04-27T14:39:00+00:00",
+            "estimated_runway": "2026-04-27T14:39:00+00:00",
+            "actual_runway": "2026-04-27T14:39:00+00:00"
+        },
+        "arrival": {
+            "airport": "Bole International",
+            "timezone": "Africa/Addis_Ababa",
+            "iata": "ADD",
+            "icao": "HAAB",
+            "terminal": "2",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T18:45:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "8809",
+            "iata": "LY8809",
+            "icao": "ELY8809",
+            "codeshared": {
+                "airline_name": "ethiopian airlines",
+                "airline_iata": "et",
+                "airline_icao": "eth",
+                "flight_number": "419",
+                "flight_iata": "et419",
+                "flight_icao": "eth419"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "040079"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:20:00+00:00",
+            "estimated": "2026-04-27T14:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Nikos Kazantzakis Airport",
+            "timezone": "Europe/Athens",
+            "iata": "HER",
+            "icao": "LGIR",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "5063",
+            "iata": "LY5063",
+            "icao": "ELY5063",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "503CB3"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:15:00+00:00",
+            "estimated": "2026-04-27T14:15:00+00:00",
+            "actual": "2026-04-27T14:19:00+00:00",
+            "estimated_runway": "2026-04-27T14:19:00+00:00",
+            "actual_runway": "2026-04-27T14:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "B20",
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:19:00+00:00",
+            "actual": "2026-04-27T18:19:00+00:00",
+            "estimated_runway": "2026-04-27T18:19:00+00:00",
+            "actual_runway": "2026-04-27T18:19:00+00:00"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        },
+        "flight": {
+            "number": "594",
+            "iata": "EY594",
+            "icao": "ETD594",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89640A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:15:00+00:00",
+            "estimated": "2026-04-27T14:15:00+00:00",
+            "actual": "2026-04-27T14:19:00+00:00",
+            "estimated_runway": "2026-04-27T14:19:00+00:00",
+            "actual_runway": "2026-04-27T14:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "B20",
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:19:00+00:00",
+            "actual": "2026-04-27T18:19:00+00:00",
+            "estimated_runway": "2026-04-27T18:19:00+00:00",
+            "actual_runway": "2026-04-27T18:19:00+00:00"
+        },
+        "airline": {
+            "name": "SriLankan Airlines",
+            "iata": "UL",
+            "icao": "ALK"
+        },
+        "flight": {
+            "number": "2594",
+            "iata": "UL2594",
+            "icao": "ALK2594",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "594",
+                "flight_iata": "ey594",
+                "flight_icao": "etd594"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89640A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:15:00+00:00",
+            "estimated": "2026-04-27T14:15:00+00:00",
+            "actual": "2026-04-27T14:19:00+00:00",
+            "estimated_runway": "2026-04-27T14:19:00+00:00",
+            "actual_runway": "2026-04-27T14:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "B20",
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:19:00+00:00",
+            "actual": "2026-04-27T18:19:00+00:00",
+            "estimated_runway": "2026-04-27T18:19:00+00:00",
+            "actual_runway": "2026-04-27T18:19:00+00:00"
+        },
+        "airline": {
+            "name": "China Eastern Airlines",
+            "iata": "MU",
+            "icao": "CES"
+        },
+        "flight": {
+            "number": "4999",
+            "iata": "MU4999",
+            "icao": "CES4999",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "594",
+                "flight_iata": "ey594",
+                "flight_icao": "etd594"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89640A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:15:00+00:00",
+            "estimated": "2026-04-27T14:15:00+00:00",
+            "actual": "2026-04-27T14:19:00+00:00",
+            "estimated_runway": "2026-04-27T14:19:00+00:00",
+            "actual_runway": "2026-04-27T14:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Abu Dhabi International",
+            "timezone": "Asia/Dubai",
+            "iata": "AUH",
+            "icao": "OMAA",
+            "terminal": "A",
+            "gate": "B20",
+            "baggage": null,
+            "scheduled": "2026-04-27T19:15:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T18:19:00+00:00",
+            "actual": "2026-04-27T18:19:00+00:00",
+            "estimated_runway": "2026-04-27T18:19:00+00:00",
+            "actual_runway": "2026-04-27T18:19:00+00:00"
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "9601",
+            "iata": "LY9601",
+            "icao": "ELY9601",
+            "codeshared": {
+                "airline_name": "etihad airways",
+                "airline_iata": "ey",
+                "airline_icao": "etd",
+                "flight_number": "594",
+                "flight_iata": "ey594",
+                "flight_icao": "etd594"
+            }
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "89640A"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T14:10:00+00:00",
+            "estimated": "2026-04-27T14:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Liszt Ferenc International",
+            "timezone": "Europe/Budapest",
+            "iata": "BUD",
+            "icao": "LHBP",
+            "terminal": "2A",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T16:50:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Bluebird Airways",
+            "iata": "BZ",
+            "icao": "BBG"
+        },
+        "flight": {
+            "number": "442",
+            "iata": "BZ442",
+            "icao": "BBG442",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2026-04-27",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Ben Gurion International",
+            "timezone": "Asia/Jerusalem",
+            "iata": "TLV",
+            "icao": "LLBG",
+            "terminal": "3",
+            "gate": null,
+            "delay": null,
+            "scheduled": "2026-04-27T07:15:00+00:00",
+            "estimated": "2026-04-27T07:15:00+00:00",
+            "actual": "2026-04-27T07:28:00+00:00",
+            "estimated_runway": "2026-04-27T07:28:00+00:00",
+            "actual_runway": "2026-04-27T07:28:00+00:00"
+        },
+        "arrival": {
+            "airport": "Newark Liberty International",
+            "timezone": "America/New_York",
+            "iata": "EWR",
+            "icao": "KEWR",
+            "terminal": "B",
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2026-04-27T12:00:00+00:00",
+            "delay": null,
+            "estimated": "2026-04-27T11:36:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "El Al",
+            "iata": "LY",
+            "icao": "ELY"
+        },
+        "flight": {
+            "number": "23",
+            "iata": "LY23",
+            "icao": "ELY23",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": null,
+            "iata": null,
+            "icao": null,
+            "icao24": "738075"
+        },
+        "live": null
+    }
+]
