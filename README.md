@@ -1,28 +1,70 @@
-# Proyecto Final ML1: Sistema de Inteligencia Multifuente
+# 🛰️ Proyecto Final ML1: Sistema de Inteligencia Multifuente (OSINT)
+## Escenario: Conflicto Irán – Israel – EE. UU.
 
-## Propósito
-Este proyecto busca construir un sistema de inteligencia multifuente (OSINT) alrededor de la escalada del conflicto **Irán–Israel–EE. UU.**, utilizando exclusivamente fuentes gratuitas y públicas.
+Este repositorio contiene el desarrollo de un sistema de inteligencia multifuente diseñado para monitorear y analizar la actividad en la región de Medio Oriente, centrándose en el triángulo geopolítico de Irán, Israel y EE. UU. El sistema utiliza técnicas de **Machine Learning** y **OSINT** para extraer conocimiento de fuentes públicas y gratuitas.
 
-## Estructura del Repositorio
-- `data/`:
-    - `raw/`: Datos originales obtenidos de APIs o web scraping.
-    - `processed/`: Datasets limpios e integrados.
-- `notebooks/`: Análisis exploratorio (EDA) y experimentación con modelos.
-- `src/`: Código fuente modular (limpieza, ingeniería de variables, pipelines).
-- `scripts/`: Scripts de orquestación para la recolección y procesamiento.
-- `models/`: Artefactos de modelos entrenados.
-- `dashboard/`: Código de la aplicación web desplegada.
+---
 
-## Alcance Mínimo
-- Entre 3 y 5 fuentes (1 textual, 1 estructurada, 1 de contexto).
-- Unidad de análisis definida.
-- Comparación de al menos 3 modelos.
-- Dashboard interactivo desplegado.
+## 🚀 Avances Actuales
+*   **Recolección Automatizada**: Implementación de scripts para la captura de datos en tiempo real.
+*   **Radar Aéreo**: Dashboard interactivo capaz de visualizar el tráfico aéreo en zonas de conflicto.
+*   **Integración Multifuente**: Conexión con APIs de GDELT (eventos y noticias) y OpenSky (estado de aeronaves).
+*   **Repositorio Independiente**: Migración exitosa a este repositorio único para mayor agilidad en el desarrollo.
 
-## Instalación
+---
+
+## 📂 Estructura del Proyecto
+
+*   `dashboard/`: 🖥️ Aplicación web interactiva construida con **Streamlit** y **Pydeck**.
+*   `scripts/`: ⚙️ Motores de recolección de datos:
+    *   `fetch_opensky_data.py`: Captura de estados de vuelos en vivo.
+    *   `fetch_gdelt_data.py`: Extracción de eventos noticiosos globales.
+    *   `fetch_aviation_data.py`: Cruce de información técnica de aeronaves.
+*   `notebooks/`: 📓 Espacio de experimentación y EDA (Análisis Exploratorio de Datos).
+*   `data/`: 📊 Almacenamiento organizado por etapas (raw/processed).
+*   `models/`: 🧠 Almacenamiento de modelos entrenados para predicción o clasificación.
+
+---
+
+## 🛠️ Requisitos e Instalación
+
+1.  **Clonar el repositorio**:
+    ```bash
+    git clone https://github.com/eljarcor98/Proyecto-Final-Machine-Learning.git
+    ```
+2.  **Instalar dependencias**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Configuración de Credenciales**:
+    *   Asegúrate de crear un archivo `.env` en la raíz (basado en el archivo de ejemplo) para tus llaves de API.
+    *   *Nota: Por seguridad, las credenciales personales no se suben al repositorio.*
+
+---
+
+## 📡 Cómo ejecutar el Radar
+Para iniciar el panel interactivo de inteligencia aérea, ejecuta:
 ```bash
-pip install -r requirements.txt
+streamlit run dashboard/app.py
 ```
 
-## Docente
-Julián Zuluaga — Universidad Externado de Colombia
+---
+
+## 🎯 Próximos Pasos (Roadmap)
+- [ ] Implementar modelos de detección de anomalías en rutas de vuelo.
+- [ ] Realizar Análisis de Sentimiento en los feeds de GDELT para medir la tensión regional.
+- [ ] Correlacionar eventos terrestres (GDELT) con picos de tráfico aéreo (OpenSky).
+- [ ] Desplegar la aplicación final en Streamlit Cloud o plataforma similar.
+
+---
+
+## 👥 Colaboradores
+*   **Arnold Torres** (@eljarcor98)
+*   **Nicolás**
+
+---
+
+## 🎓 Contexto Académico
+*   **Institución**: Universidad Externado de Colombia.
+*   **Curso**: Machine Learning 1.
+*   **Docente**: Julián Zuluaga.
