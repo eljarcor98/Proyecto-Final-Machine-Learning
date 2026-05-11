@@ -1,0 +1,22 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization & Dashboard
+matplotlib
+seaborn
+plotly
+streamlit
+# dash (alternativa a streamlit)
+
+# Data Acquisition
+requests
+beautifulsoup4
+pypdf
+
+# Environment
+python-dotenv
