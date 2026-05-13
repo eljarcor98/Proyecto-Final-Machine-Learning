@@ -20,3 +20,14 @@ pypdf
 
 # Environment
 python-dotenv
+
+# Database & Scrape
+psycopg2-binary
+SQLAlchemy
+feedparser
+
+# NLP & EDA
+spacy
+nltk
+jupyter
+wordcloud
