@@ -13,8 +13,8 @@ load_dotenv()
 GNEWS_API_KEY = os.getenv('GNEWS_API_KEY')
 GNEWS_URL = "https://gnews.io/api/v4/search"
 
-# Términos de búsqueda relacionados con el conflicto
-SEARCH_QUERY = '("Iran" OR "Israel") AND ("US" OR "United States" OR "conflict" OR "strike" OR "attack")'
+# Términos de búsqueda ampliados: conflicto, naval, política, drones, crisis y recursos
+SEARCH_QUERY = '("Iran" OR "Israel") AND ("naval" OR "ship" OR "tanker" OR "strategic" OR "Trump" OR "Ayatollah" OR "Khamenei" OR "Hormuz" OR "Red Sea" OR "strike" OR "attack" OR "drones" OR "UAV" OR "explosion" OR "oil" OR "war" OR "famine" OR "humanitarian crisis" OR "pollution")'
 
 def fetch_gnews():
     if not GNEWS_API_KEY:
