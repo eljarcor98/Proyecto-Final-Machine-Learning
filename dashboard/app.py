@@ -10,10 +10,10 @@ from streamlit_autorefresh import st_autorefresh
 # Page config
 st.set_page_config(page_title="Radar OSINT", layout="wide")
 
-# Autorefresh cada 10 segundos
-st_autorefresh(interval=10000, key="radar_refresh")
+# Autorefresh cada 60 segundos para no saturar
+st_autorefresh(interval=60000, key="radar_refresh")
 
-st.title("🛰️ Radar de Inteligencia Aérea")
+st.title("🛰️ Radar de Inteligencia OSINT")
 
 # --- Session State ---
 if 'history' not in st.session_state:
@@ -28,12 +28,25 @@ def load_airport_data():
 
 airports_db = load_airport_data()
 
-def update_data():
-    # Solo intentamos actualizar si ha pasado suficiente tiempo o manualmente
-    os.system("python scripts/fetch_opensky_data.py")
+def update_data_manual():
+    with st.spinner("Actualizando datos de radar..."):
+        os.system("py scripts/fetch_opensky_data.py")
+    st.success("Radar actualizado")
+
+# Sidebar: Control y Estado
+st.sidebar.title("🎮 Controles")
+if st.sidebar.button("🔄 Actualizar Radar Ahora"):
+    update_data_manual()
+
+st.sidebar.markdown("---")
+st.sidebar.subheader("🤖 Estado del Orquestador")
+st.sidebar.info("El orquestador automatiza GNews, RSS y GDELT.")
+st.sidebar.caption("Sugerencia: Ejecuta `py scripts/orchestrator.py` en tu servidor para automatización total.")
 
 def load_data():
     data_dir = 'data/raw'
+    if not os.path.exists(data_dir):
+        return pd.DataFrame()
     files = [f for f in os.listdir(data_dir) if f.startswith('opensky_states_')]
     if not files: return pd.DataFrame()
     latest = sorted(files, reverse=True)[0]
@@ -44,7 +57,6 @@ def load_data():
     except:
         return pd.DataFrame()
 
-update_data()
 df = load_data()
 
 if not df.empty:
@@ -127,6 +139,32 @@ if not df.empty:
                 st.session_state.selected_icao = None
                 st.rerun()
     
-    st.sidebar.caption(f"Radar Activo: {datetime.now().strftime('%H:%M:%S')}")
+    # --- Panel de Noticias ---
+    st.markdown("---")
+    st.subheader("📰 Últimas Noticias de Inteligencia")
+    
+    # Importar DB solo cuando sea necesario
+    import sys
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    from src.db import get_session, NewsArticle
+    from sqlalchemy import desc
+
+    session = get_session()
+    try:
+        articles = session.query(NewsArticle).order_by(desc(NewsArticle.published_at)).limit(10).all()
+        
+        cols = st.columns(2)
+        for i, art in enumerate(articles):
+            with cols[i % 2]:
+                with st.expander(f"{art.source} | {art.title[:60]}..."):
+                    st.write(f"**Publicado:** {art.published_at}")
+                    st.write(art.description or "Sin descripción")
+                    st.link_button("Ver noticia completa", art.url)
+    except Exception as e:
+        st.error(f"Error cargando noticias: {e}")
+    finally:
+        session.close()
+
+    st.sidebar.caption(f"Última actualización: {datetime.now().strftime('%H:%M:%S')}")
 else:
-    st.warning("Cargando señales de radar...")
+    st.warning("Esperando datos de radar... Pulsa 'Actualizar' en la barra lateral si es necesario.")

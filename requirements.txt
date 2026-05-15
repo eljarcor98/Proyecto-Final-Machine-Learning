@@ -31,3 +31,5 @@ spacy
 nltk
 jupyter
 wordcloud
+# Automation
+schedule
