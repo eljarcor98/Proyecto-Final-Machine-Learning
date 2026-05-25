@@ -9,6 +9,13 @@ load_dotenv()
 
 DATABASE_URL = os.getenv("DATABASE_URL")
 
+if not DATABASE_URL:
+    # Ruta absoluta al osint.db en la raiz del proyecto (un nivel arriba de src/)
+    _project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    _db_path = os.path.join(_project_root, "osint.db")
+    print(f"[AVISO] DATABASE_URL no encontrada en .env. Usando SQLite: {_db_path}")
+    DATABASE_URL = f"sqlite:///{_db_path}"
+
 # Set up the engine and declarative base
 engine = create_engine(DATABASE_URL, echo=False)
 Base = declarative_base()

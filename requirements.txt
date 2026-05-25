@@ -11,6 +11,10 @@ matplotlib
 seaborn
 plotly
 streamlit
+pydeck
+airportsdata
+streamlit-autorefresh
+sentence-transformers
 # dash (alternativa a streamlit)
 
 # Data Acquisition
@@ -29,7 +33,7 @@ feedparser
 # NLP & EDA
 spacy
 nltk
-jupyter
+# jupyter
 wordcloud
 # Automation
 schedule

@@ -6,23 +6,23 @@ Este repositorio contiene el desarrollo de un sistema de inteligencia multifuent
 ---
 
 ## 🚀 Avances Actuales
-*   **Recolección Automatizada**: Implementación de scripts para la captura de datos en tiempo real.
-*   **Radar Aéreo**: Dashboard interactivo capaz de visualizar el tráfico aéreo en zonas de conflicto.
-*   **Integración Multifuente**: Conexión con APIs de GDELT (eventos y noticias) y OpenSky (estado de aeronaves).
-*   **Repositorio Independiente**: Migración exitosa a este repositorio único para mayor agilidad en el desarrollo.
+*   **Recolección Automatizada**: Implementación de scripts para la captura de datos en tiempo real de GNews, RSS y GDELT.
+*   **Procesamiento NLP**: Extracción de entidades (ubicaciones) y tópicos mediante NLP (`spacy`) en `src/nlp_utils.py`.
+*   **Dashboard Interactivo**: Aplicación web con dos módulos:
+    *   **Radar Aéreo**: Tráfico aéreo en zonas de conflicto (vía OpenSky).
+    *   **Timeline Geopolítico**: Mapa de calor evolutivo con las menciones geográficas extraídas de las noticias.
+*   **Backend en la Nube**: Migración exitosa de SQLite local a **PostgreSQL en Supabase**, permitiendo que todo el equipo comparta y procese la misma base de datos en tiempo real.
 
 ---
 
 ## 📂 Estructura del Proyecto
 
 *   `dashboard/`: 🖥️ Aplicación web interactiva construida con **Streamlit** y **Pydeck**.
-*   `scripts/`: ⚙️ Motores de recolección de datos:
-    *   `fetch_opensky_data.py`: Captura de estados de vuelos en vivo.
-    *   `fetch_gdelt_data.py`: Extracción de eventos noticiosos globales.
-    *   `fetch_aviation_data.py`: Cruce de información técnica de aeronaves.
+*   `src/`: ⚙️ Utilidades base (Conexión DB, Procesamiento NLP, Geocodificación).
+*   `scripts/`: ⚙️ Motores de recolección de datos y orquestadores:
+    *   `orchestrator.py`: Orquestador principal que consolida el raspado de GNews, GDELT y RSS.
 *   `notebooks/`: 📓 Espacio de experimentación y EDA (Análisis Exploratorio de Datos).
-*   `data/`: 📊 Almacenamiento organizado por etapas (raw/processed).
-*   `models/`: 🧠 Almacenamiento de modelos entrenados para predicción o clasificación.
+*   `data/`: 📊 Almacenamiento organizado y caché local (ej. caché de coordenadas).
 
 ---
 
@@ -35,26 +35,39 @@ Este repositorio contiene el desarrollo de un sistema de inteligencia multifuent
 2.  **Instalar dependencias**:
     ```bash
     pip install -r requirements.txt
+    python -m spacy download en_core_web_sm
     ```
-3.  **Configuración de Credenciales**:
-    *   Asegúrate de crear un archivo `.env` en la raíz (basado en el archivo de ejemplo) para tus llaves de API.
-    *   *Nota: Por seguridad, las credenciales personales no se suben al repositorio.*
+3.  **Configuración de Credenciales (.env)**:
+    *   Debes crear un archivo `.env` en la raíz del proyecto.
+    *   **Para conectarte a la base de datos de Supabase compartida con el equipo**, el archivo `.env` debe contener obligatoriamente esta línea:
+        ```env
+        DATABASE_URL="postgresql://postgres.[PROYECTO]:[PASSWORD]@aws-0-[REGION].pooler.supabase.com:6543/postgres"
+        ```
+    *   *Nota: Pide la URL de conexión exacta (Connection Pooler) a un administrador del equipo.*
 
 ---
 
-## 📡 Cómo ejecutar el Radar
-Para iniciar el panel interactivo de inteligencia aérea, ejecuta:
+## 📡 Cómo ejecutar el Proyecto
+
+Para iniciar el panel interactivo (Radar y Timeline), asegúrate de tener activado tu entorno virtual y ejecuta:
 ```bash
-streamlit run dashboard/app.py
+python -m streamlit run dashboard/app.py
+```
+
+Para procesar nuevas noticias en la base de datos, ejecuta el orquestador:
+```bash
+python scripts/orchestrator.py
 ```
 
 ---
 
 ## 🎯 Próximos Pasos (Roadmap)
+- [x] Extraer ubicaciones y tópicos de noticias (NLP).
+- [x] Visualizar un Timeline Geoespacial animado.
+- [x] Migrar a Postgres (Supabase) para trabajo colaborativo.
 - [ ] Implementar modelos de detección de anomalías en rutas de vuelo.
-- [ ] Realizar Análisis de Sentimiento en los feeds de GDELT para medir la tensión regional.
-- [ ] Correlacionar eventos terrestres (GDELT) con picos de tráfico aéreo (OpenSky).
-- [ ] Desplegar la aplicación final en Streamlit Cloud o plataforma similar.
+- [ ] Realizar Análisis de Sentimiento usando `sentence-transformers` para medir la tensión regional.
+- [ ] Desplegar la aplicación final en Streamlit Cloud.
 
 ---
 
