@@ -15,7 +15,7 @@ st_autorefresh(interval=60000, key="radar_refresh")
 
 st.title("🛰️ Radar de Inteligencia OSINT")
 
-tab1, tab2 = st.tabs(["🛰️ Radar Aéreo", "🗺️ Timeline del Conflicto"])
+tab1, tab2, tab3 = st.tabs(["🛰️ Radar Aéreo", "🗺️ Timeline del Conflicto", "📊 Análisis NLP (EDA)"])
 
 with tab1:
     # --- Session State ---
@@ -234,3 +234,24 @@ with tab2:
     else:
         st.info("Construyendo caché de ubicaciones... Ejecuta el geocoder en backend.")
 
+with tab3:
+    st.header("📊 Análisis Exploratorio de Datos (NLP)")
+    st.write("Visualización de las métricas extraídas y analizadas por el modelo de Procesamiento de Lenguaje Natural.")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        if os.path.exists("timeline.png"):
+            st.image("timeline.png", caption="Volumen de Noticias por Día")
+        else:
+            st.info("Genera el timeline con notebooks/01_nlp_eda.py")
+            
+        if os.path.exists("locations.png"):
+            st.image("locations.png", caption="Top 20 Lugares y Entidades Geográficas")
+            
+    with col2:
+        if os.path.exists("topics.png"):
+            st.image("topics.png", caption="Distribución de Tópicos Generales")
+            
+        if os.path.exists("topics_timeline.png"):
+            st.image("topics_timeline.png", caption="Evolución de Tópicos en el Tiempo")
