@@ -8,9 +8,11 @@ Este repositorio contiene el desarrollo de un sistema de inteligencia multifuent
 ## 🚀 Avances Actuales
 *   **Recolección Automatizada**: Implementación de scripts para la captura de datos en tiempo real de GNews, RSS y GDELT.
 *   **Procesamiento NLP**: Extracción de entidades (ubicaciones) y tópicos mediante NLP (`spacy`) en `src/nlp_utils.py`.
-*   **Dashboard Interactivo**: Aplicación web con dos módulos:
-    *   **Radar Aéreo**: Tráfico aéreo en zonas de conflicto (vía OpenSky).
-    *   **Timeline Geopolítico**: Mapa de calor evolutivo con las menciones geográficas extraídas de las noticias.
+*   **Dashboard Multipágina Interactivo**: Aplicación web reestructurada para una mejor navegación con los siguientes módulos:
+    *   **Contexto**: Introducción detallada a los objetivos y metodología del sistema.
+    *   **Radar Aéreo**: Monitoreo en tiempo real con **seguimiento de rutas de vuelo** (traza histórica) para aviones seleccionados.
+    *   **Timeline Geopolítico**: Mapa interactivo con **resúmenes automáticos de noticias** al seleccionar eventos específicos.
+    *   **Análisis NLP**: Visualización de narrativas mediante nubes de palabras y análisis de frecuencia de términos.
 *   **Backend en la Nube**: Migración exitosa de SQLite local a **PostgreSQL en Supabase**, permitiendo que todo el equipo comparta y procese la misma base de datos en tiempo real.
 
 ---
@@ -18,6 +20,8 @@ Este repositorio contiene el desarrollo de un sistema de inteligencia multifuent
 ## 📂 Estructura del Proyecto
 
 *   `dashboard/`: 🖥️ Aplicación web interactiva construida con **Streamlit** y **Pydeck**.
+    *   `app.py`: Página de inicio y contexto.
+    *   `pages/`: Contiene las vistas individuales (Radar, Timeline, NLP).
 *   `src/`: ⚙️ Utilidades base (Conexión DB, Procesamiento NLP, Geocodificación).
 *   `scripts/`: ⚙️ Motores de recolección de datos y orquestadores:
     *   `orchestrator.py`: Orquestador principal que consolida el raspado de GNews, GDELT y RSS.
@@ -49,7 +53,7 @@ Este repositorio contiene el desarrollo de un sistema de inteligencia multifuent
 
 ## 📡 Cómo ejecutar el Proyecto
 
-Para iniciar el panel interactivo (Radar y Timeline), asegúrate de tener activado tu entorno virtual y ejecuta:
+Para iniciar el panel interactivo, asegúrate de tener activado tu entorno virtual y ejecuta:
 ```bash
 python -m streamlit run dashboard/app.py
 ```
