@@ -3,11 +3,31 @@ import pandas as pd
 import pydeck as pdk
 import os
 import sys
+import json
 from datetime import datetime
 
 # Ajustar ruta para importar desde src
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from src.db import get_session, NewsArticle
+from src.db import get_session, NewsArticle, NewsAnalysis
+
+# Diccionario de coordenadas generales para ciudades comunes del conflicto
+CITY_COORDINATES = {
+    "Kyiv": [30.5234, 50.4501],
+    "Kiev": [30.5234, 50.4501],
+    "Moscow": [37.6173, 55.7558],
+    "Moscú": [37.6173, 55.7558],
+    "Donetsk": [37.8000, 48.1100],
+    "Luhansk": [39.1667, 48.5833],
+    "Kharkiv": [36.2304, 50.0000],
+    "Kharkov": [36.2304, 50.0000],
+    "Mariupol": [37.5000, 47.1100],
+    "Crimea": [34.0000, 45.0000],
+    "Ukraine": [31.1656, 48.3794],
+    "Russia": [105.3188, 61.5240],
+    "USA": [-100.0000, 37.0000],
+    "UK": [-3.4360, 55.3781],
+    "EU": [15.0000, 50.0000]
+}
 
 st.set_page_config(page_title="Timeline del Conflicto", layout="wide", page_icon="⏳")
 
@@ -19,20 +39,44 @@ st.markdown("Visualización geo-temporal de eventos críticos y noticias relacio
 def load_timeline_data():
     session = get_session()
     try:
-        # Obtenemos artículos que tengan coordenadas
-        articles = session.query(NewsArticle).filter(NewsArticle.latitude != None, NewsArticle.longitude != None).all()
+        # Join entre NewsArticle y NewsAnalysis para obtener las localidades extraídas por NLP
+        query = session.query(NewsArticle, NewsAnalysis).join(
+            NewsAnalysis, NewsArticle.id == NewsAnalysis.article_id
+        )
+        results = query.all()
+        
         data = []
-        for art in articles:
-            data.append({
-                "id": art.id,
-                "title": art.title,
-                "description": art.description,
-                "url": art.url,
-                "source": art.source,
-                "published_at": art.published_at,
-                "lat": art.latitude,
-                "lon": art.longitude
-            })
+        for art, analysis in results:
+            # Intentar extraer coordenadas de la lista de localidades en NewsAnalysis
+            locations_list = []
+            try:
+                if analysis.locations:
+                    locations_list = json.loads(analysis.locations)
+            except:
+                locations_list = []
+
+            # Buscar si alguna localidad coincide con nuestro diccionario de coordenadas
+            found_coord = None
+            for loc in locations_list:
+                # Comparación simple: si la ciudad está en el diccionario (ignorando mayúsculas/minúsculas)
+                for city, coords in CITY_COORDINATES.items():
+                    if city.lower() in loc.lower():
+                        found_coord = coords
+                        break
+                if found_coord: break
+
+            if found_coord:
+                data.append({
+                    "id": art.id,
+                    "title": art.title,
+                    "description": art.description,
+                    "url": art.url,
+                    "source": art.source,
+                    "published_at": art.published_at,
+                    "lon": found_coord[0],
+                    "lat": found_coord[1]
+                })
+        
         return pd.DataFrame(data)
     except Exception as e:
         st.error(f"Error al cargar datos de la línea de tiempo: {e}")
