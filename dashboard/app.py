@@ -1,15 +1,15 @@
 import streamlit as st
 
 # Page config
-st.set_page_config(page_title="OSINT Intelligence System", layout="wide", page_icon="🛰️")
+st.set_page_config(page_title="Conflicto en Medio Oriente", layout="wide", page_icon="🌍")
 
-# Custom CSS for a more "Command Center" look
+# Custom CSS for the "Command Center" look with requested enhancements
 st.markdown("""
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
 
     html, body, [class*="st-"] {
-        font-family: 'Inter', sans-serif;
+        font-family: 'Montserrat', sans-serif !important;
     }
     
     .main {
@@ -30,6 +30,11 @@ st.markdown("""
         border-left: 5px solid #3b82f6;
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         margin-bottom: 20px;
+        transition: transform 0.3s ease;
+    }
+
+    .metric-card:hover {
+        transform: translateY(-5px);
     }
     
     .section-header {
@@ -39,52 +44,71 @@ st.markdown("""
         padding-bottom: 10px;
         margin-bottom: 20px;
     }
+
+    /* Vanish / Fade-in effect for page transitions */
+    .stApp {
+        animation: vanishIn 0.6s ease-out;
+    }
+
+    @keyframes vanishIn {
+        0% { opacity: 0; transform: scale(0.98); }
+        100% { opacity: 1; transform: scale(1); }
+    }
+
+    /* Completely hide the sidebar on the index page */
+    [data-testid="stSidebar"] {
+        display: none !important;
+    }
+    
+    /* Hide the sidebar toggle button as well */
+    [data-testid="stSidebarCollapseButton"] {
+        display: none !important;
+    }
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🛰️ Centro de Comando OSINT")
+st.title("🌍 Conflicto en Medio Oriente")
 
 # --- Hero Section ---
-st.markdown("<div class='section-header'>🌍 Contexto Estratégico: Irán – Israel – EE. UU.</div>", unsafe_allow_html=True)
+st.markdown("<div class='section-header'>🛰️ Centro de Monitoreo Estratégico de Inteligencia</div>", unsafe_allow_html=True)
 st.markdown("""
-Este sistema de inteligencia monitorea la volatilidad geopolítica en el Medio Oriente. 
-Transformamos datos de fuentes abiertas en **conocimiento accionable** para analizar movimientos tácticos y narrativas globales.
+Este sistema de inteligencia monitorea la volatilidad geopolítica en el Medio Oriente, enfocándose en el análisis de datos abiertos (OSINT) para comprender la dinámica entre los actores regionales y globales.
 """)
 
 st.markdown("---")
 
 # --- Index/Quick Navigation ---
-st.subheader("🚀 Acceso Rápido a Módulos")
+st.subheader("🚀 Navegación de Módulos")
 col1, col2, col3 = st.columns(3)
 
 with col1:
     st.markdown("""
         <div class="metric-card">
-            <h3 style="margin:0;">📡 Radar Aéreo</h3>
-            <p style="color:#64748b;">Vigilancia de tráfico en tiempo real y detección de anomalías en rutas críticas.</p>
+            <h3 style="margin:0; font-family: 'Montserrat', sans-serif;">📡 Radar Aéreo</h3>
+            <p style="color:#64748b; font-family: 'Montserrat', sans-serif;">Vigilancia de tráfico en tiempo real y detección de anomalías en rutas críticas.</p>
         </div>
     """, unsafe_allow_html=True)
-    if st.button("Abrir Radar 📡", use_container_width=True):
+    if st.button("Acceder al Radar 📡", use_container_width=True):
         st.switch_page("pages/radar.py")
 
 with col2:
     st.markdown("""
         <div class="metric-card">
-            <h3 style="margin:0;">⏳ Línea de Tiempo</h3>
-            <p style="color:#64748b;">Mapeo geo-temporal de eventos críticos y noticias relacionadas.</p>
+            <h3 style="margin:0; font-family: 'Montserrat', sans-serif;">⏳ Línea de Tiempo</h3>
+            <p style="color:#64748b; font-family: 'Montserrat', sans-serif;">Mapeo geo-temporal de eventos críticos y noticias relacionadas.</p>
         </div>
     """, unsafe_allow_html=True)
-    if st.button("Abrir Timeline ⏳", use_container_width=True):
+    if st.button("Acceder al Timeline ⏳", use_container_width=True):
         st.switch_page("pages/timeline.py")
 
 with col3:
     st.markdown("""
         <div class="metric-card">
-            <h3 style="margin:0;">📊 Análisis NLP</h3>
-            <p style="color:#64748b;">Minería de datos, nubes de palabras y análisis de entidades nombradas.</p>
+            <h3 style="margin:0; font-family: 'Montserrat', sans-serif;">📊 Análisis NLP</h3>
+            <p style="color:#64748b; font-family: 'Montserrat', sans-serif;">Minería de datos, nubes de palabras y análisis de entidades nombradas.</p>
         </div>
     """, unsafe_allow_html=True)
-    if st.button("Abrir Análisis 📊", use_container_width=True):
+    if st.button("Acceder al Análisis 📊", use_container_width=True):
         st.switch_page("pages/nlp.py")
 
 st.markdown("---")
@@ -108,4 +132,4 @@ with col_right:
     - **Pipeline**: Ingesta automatizada GNews $\rightarrow$ PostgreSQL (Supabase).
     """)
 
-st.info("💡 **Tip**: Utiliza el menú lateral para navegación persistente o los botones de acceso rápido superiores.")
+st.info("💡 **Nota**: Utilice los botones superiores para navegar entre los módulos de análisis.")

@@ -10,29 +10,36 @@ from datetime import datetime
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.db import get_session, NewsArticle, NewsAnalysis
 
-# Diccionario de coordenadas generales para ciudades comunes del conflicto
+# Diccionario de coordenadas generales para ciudades comunes del conflicto en Medio Oriente
 CITY_COORDINATES = {
-    "Kyiv": [30.5234, 50.4501],
-    "Kiev": [30.5234, 50.4501],
-    "Moscow": [37.6173, 55.7558],
-    "Moscú": [37.6173, 55.7558],
-    "Donetsk": [37.8000, 48.1100],
-    "Luhansk": [39.1667, 48.5833],
-    "Kharkiv": [36.2304, 50.0000],
-    "Kharkov": [36.2304, 50.0000],
-    "Mariupol": [37.5000, 47.1100],
-    "Crimea": [34.0000, 45.0000],
-    "Ukraine": [31.1656, 48.3794],
-    "Russia": [105.3188, 61.5240],
+    "Gaza": [34.4500, 31.5000],
+    "Gaza City": [34.4500, 31.5000],
+    "Israel": [34.8516, 31.0461],
+    "Tel Aviv": [34.7818, 32.0853],
+    "Jerusalem": [35.2137, 31.7683],
+    "Hebron": [34.9700, 34.7700],
+    "Beirut": [33.8688, 33.8938],
+    "Lebanon": [33.8885, 35.8623],
+    "Tehran": [51.3892, 35.6892],
+    "Iran": [53.6880, 32.4279],
+    "Sana'a": [44.1910, 15.3694],
+    "Yemen": [48.5164, 15.5527],
+    "Damascus": [36.2913, 33.5138],
+    "Syria": [38.9972, 34.8113],
+    "Baghdad": [44.3611, 33.3152],
+    "Iraq": [44.2125, 33.2252],
+    "Riyadh": [46.6753, 24.6303],
+    "Saudi Arabia": [45.0769, 23.8859],
+    "Jordan": [36.2384, 31.2565],
+    "Amman": [35.9285, 31.9454],
     "USA": [-100.0000, 37.0000],
-    "UK": [-3.4360, 55.3781],
-    "EU": [15.0000, 50.0000]
+    "UK": [-3.4360, 55.3781]
 }
 
 st.set_page_config(page_title="Timeline del Conflicto", layout="wide", page_icon="⏳")
 
-st.title("⏳ Línea de Tiempo del Conflicto")
-st.markdown("Visualización geo-temporal de eventos críticos y noticias relacionadas.")
+st.title("⏳ Timeline: Conflicto Medio Oriente")
+st.markdown("Visualización geo-temporal de eventos críticos y noticias relacionadas con la inestabilidad regional.")
 
 # --- Carga de Datos ---
 @st.cache_data(ttl=600)
@@ -116,7 +123,7 @@ if not df.empty:
         id="news_points"
     )
 
-    view = pdk.ViewState(latitude=32, longitude=45, zoom=3, pitch=0)
+    view = pdk.ViewState(latitude=32.5, longitude=35.0, zoom=4, pitch=0)
     r = pdk.Deck(
         layers=[layer], 
         initial_view_state=view, 
