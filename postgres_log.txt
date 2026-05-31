@@ -1,0 +1,22 @@
+2026-05-12 20:43:59.484 -05 [1184] LOG:  iniciando PostgreSQL 16.3, compiled by Visual C++ build 1938, 64-bit
+2026-05-12 20:43:59.491 -05 [1184] LOG:  escuchando en la dirección IPv6 «::1», port 5432
+2026-05-12 20:43:59.491 -05 [1184] LOG:  escuchando en la dirección IPv4 «127.0.0.1», port 5432
+2026-05-12 20:43:59.568 -05 [13752] LOG:  el sistema de bases de datos fue apagado en 2026-05-12 20:43:04 -05
+2026-05-12 20:43:59.608 -05 [1184] LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2026-05-12 20:48:59.579 -05 [17584] LOG:  empezando checkpoint: time
+2026-05-12 20:50:49.497 -05 [17584] LOG:  checkpoint complete: wrote 1007 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=109.273 s, sync=0.623 s, total=109.920 s; sync files=310, longest=0.006 s, average=0.003 s; distance=4783 kB, estimate=4783 kB; lsn=0/1A19450, redo lsn=0/1A19418
+2026-05-12 21:03:59.525 -05 [17584] LOG:  empezando checkpoint: time
+2026-05-12 21:04:05.608 -05 [17584] LOG:  checkpoint complete: wrote 56 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.971 s, sync=0.090 s, total=6.084 s; sync files=44, longest=0.003 s, average=0.003 s; distance=191 kB, estimate=4323 kB; lsn=0/1A493A8, redo lsn=0/1A49370
+2026-05-12 21:08:59.620 -05 [17584] LOG:  empezando checkpoint: time
+2026-05-12 21:09:02.508 -05 [17584] LOG:  checkpoint complete: wrote 27 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=2.833 s, sync=0.042 s, total=2.889 s; sync files=18, longest=0.005 s, average=0.003 s; distance=73 kB, estimate=3898 kB; lsn=0/1A5B8A0, redo lsn=0/1A5B868
+2026-05-12 21:12:40.801 -05 [17584] LOG:  empezando checkpoint: immediate force wait
+2026-05-12 21:12:40.819 -05 [17584] LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.018 s; sync files=1, longest=0.002 s, average=0.002 s; distance=1 kB, estimate=3509 kB; lsn=0/1A5BD58, redo lsn=0/1A5BD20
+2026-05-12 21:12:40.991 -05 [15100] ERROR:  la nueva codificación (UTF8) es incompatible con la codificación de la base de datos patrón (WIN1252)
+2026-05-12 21:12:40.991 -05 [15100] HINT:  Use la misma codificación que en la base de datos patrón, o bien use template0 como patrón.
+2026-05-12 21:12:40.991 -05 [15100] SENTENCIA:  CREATE DATABASE osint_db ENCODING 'UTF8';
+2026-05-12 21:17:40.832 -05 [17584] LOG:  empezando checkpoint: time
+2026-05-12 21:19:26.240 -05 [17584] LOG:  checkpoint complete: wrote 962 buffers (5.9%); 1 WAL file(s) added, 0 removed, 0 recycled; write=104.693 s, sync=0.594 s, total=105.409 s; sync files=300, longest=0.007 s, average=0.002 s; distance=4539 kB, estimate=4539 kB; lsn=0/1ECA9F8, redo lsn=0/1ECA9C0
+2026-05-12 21:22:40.256 -05 [17584] LOG:  empezando checkpoint: time
+2026-05-12 21:22:50.878 -05 [17584] LOG:  checkpoint complete: wrote 97 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=10.502 s, sync=0.105 s, total=10.623 s; sync files=52, longest=0.004 s, average=0.003 s; distance=435 kB, estimate=4128 kB; lsn=0/1F37808, redo lsn=0/1F377D0
+2026-05-12 21:52:40.938 -05 [17584] LOG:  empezando checkpoint: time
+2026-05-12 21:52:47.088 -05 [17584] LOG:  checkpoint complete: wrote 56 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=6.044 s, sync=0.082 s, total=6.150 s; sync files=41, longest=0.003 s, average=0.002 s; distance=220 kB, estimate=3737 kB; lsn=0/1F6E858, redo lsn=0/1F6E820

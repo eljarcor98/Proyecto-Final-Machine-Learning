@@ -1,0 +1,209 @@
+{% extends "layout.html" %}
+
+{% block title %}🛰️ Radar de Vigilancia Aérea{% endblock %}
+
+{% block content %}
+<a href="/" class="return-btn">⬅️ Volver al Index</a>
+
+<h1 class="main-title">🛰️ Radar de Vigilancia Aérea</h1>
+<p style="text-align: center; color: #64748b; margin-bottom: 2rem;">Monitoreo de tráfico aéreo en tiempo real sobre
+    zonas de conflicto.</p>
+
+<div style="margin-bottom: 20px;">
+    <details>
+        <summary
+            style="cursor: pointer; font-weight: 600; padding: 10px; background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            🎮 Controles y Estado del Sistema
+        </summary>
+        <div
+            style="padding: 20px; background: #fff; border-radius: 0 0 8px 8px; border: 1px solid #e2e8f0; display: flex; gap: 20px; align-items: center;">
+            <button id="refresh-btn" class="return-btn" style="margin-bottom: 0;">🔄 Actualizar Radar Ahora</button>
+            <div style="flex-grow: 1;">
+                <strong>🤖 Estado del Orquestador:</strong>
+                <span style="color: #0369a1;">El orquestador automatiza GNews, RSS y GDELT.</span>
+            </div>
+        </div>
+    </details>
+</div>
+
+<div id="radar-container"
+    style="width: 100%; height: 600px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); background: #eee;">
+</div>
+
+<div id="tracking-info"
+    style="display: none; margin-top: 20px; padding: 15px; background: #dcfce7; border-left: 5px solid #22c55e; border-radius: 4px; display: flex; justify-content: space-between; align-items: center;">
+    <span id="tracking-text" style="color: #166534; font-weight: 600;"></span>
+    <button id="stop-tracking" class="return-btn" style="background-color: #ef4444; margin-bottom: 0;">❌ Dejar de seguir
+        avión</button>
+</div>
+
+<div style="margin-top: 40px;">
+    <div class="section-header">📰 Últimas Noticias de Inteligencia</div>
+    <div id="news-container" class="grid-2">
+        <!-- Noticias se cargarán aquí -->
+        <p>Cargando noticias...</p>
+    </div>
+</div>
+
+<p id="last-update" style="text-align: right; font-size: 0.8rem; color: #94a3b8; margin-top: 20px;">Actualizando...</p>
+
+<!-- Deck.gl and Mapbox (using free tiles) -->
+<script src="https://unpkg.com/deck.gl@latest/dist.min.js"></script>
+<script src="https://unpkg.com/deck.gl@latest/dist/npm/mapbox-gl@2.14.1/dist/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
+
+<script>
+    let selectedIcao = localStorage.getItem('selectedIcao') || null;
+    let flightHistory = {};
+
+    const deckgl = new deck.DeckGL({
+        container: 'radar-container',
+        initialViewState: {
+            longitude: 45,
+            latitude: 33,
+            zoom: 4,
+            pitch: 0,
+            bearing: 0
+        },
+        controller: true,
+        mapStyle: 'mapbox://styles/mapbox/light-v10', // Note: Requires public token if used, but we can use base layers
+        layers: []
+    });
+
+    async function fetchRadarData() {
+        try {
+            const response = await fetch('/api/radar-data');
+            const data = await response.json();
+            updateMap(data);
+            updateTimestamp();
+        } catch (e) {
+            console.error("Error fetching radar data:", e);
+        }
+    }
+
+    function updateMap(data) {
+        // Update History
+        data.forEach(plane => {
+            const icao = plane.icao24;
+            if (!flightHistory[icao]) flightHistory[icao] = [];
+
+            const lastPos = flightHistory[icao][flightHistory[icao].length - 1];
+            if (!lastPos || Math.abs(lastPos[0] - plane.lon) > 0.01 || Math.abs(lastPos[1] - plane.lat) > 0.01) {
+                flightHistory[icao].push([plane.lon, plane.lat]);
+                if (flightHistory[icao].length > 50) flightHistory[icao].shift();
+            }
+        });
+
+        const layers = [
+            // Ambient dots
+            new deck.ScatterplotLayer({
+                id: 'ambient-planes',
+                data: data,
+                getPosition: d => [d.lon, d.lat],
+                getFillColor: [200, 200, 200, 30],
+                getRadius: 5000
+            }),
+            // Active planes
+            new deck.ScatterplotLayer({
+                id: 'planes',
+                data: data,
+                getPosition: d => [d.lon, d.lat],
+                getFillColor: d => d.icao24 === selectedIcao ? [255, 0, 255, 255] : [0, 128, 255, 200],
+                getRadius: 15000,
+                pickable: true,
+                onClick: info => {
+                    if (info && info.object) {
+                        selectedIcao = info.object.icao24;
+                        localStorage.setItem('selectedIcao', selectedIcao);
+                        updateTrackingUI(info.object);
+                        updateMap(data);
+                    }
+                }
+            })
+        ];
+
+        // Flight Path for selected plane
+        if (selectedIcao && flightHistory[selectedIcao] && flightHistory[selectedIcao].length > 1) {
+            layers.push(new deck.PathLayer({
+                id: 'flight-path',
+                data: [{ path: flightHistory[selectedIcao] }],
+                getPath: d => d.path,
+                getColor: [255, 0, 255, 255],
+                getWidth: 8,
+                capped: true
+            }));
+        }
+
+        deckgl.setProps({ layers });
+    }
+
+    function updateTrackingUI(plane) {
+        const info = document.getElementById('tracking-info');
+        const text = document.getElementById('tracking-text');
+        info.style.display = 'flex';
+        text.innerText = `🛰️ Seguimiento activo: ${plane.callsign || plane.icao24}`;
+    }
+
+    document.getElementById('stop-tracking').onclick = () => {
+        selectedIcao = null;
+        localStorage.removeItem('selectedIcao');
+        document.getElementById('tracking-info').style.display = 'none';
+        fetchRadarData();
+    };
+
+    async function fetchNews() {
+        try {
+            const response = await fetch('/api/news');
+            const articles = await response.json();
+            const container = document.getElementById('news-container');
+            container.innerHTML = '';
+
+            articles.forEach(art => {
+                const card = document.createElement('div');
+                card.className = 'metric-card';
+                card.innerHTML = `
+                        <div>
+                            <div style="font-weight: 600; color: #334155; margin-bottom: 5px;">${art.source} | ${art.title.substring(0, 60)}...</div>
+                            <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 15px;">${art.description || 'Sin descripción'}</p>
+                            <small style="color: #94a3b8;">Publicado: ${art.published_at}</small>
+                        </div>
+                        <a href="${art.url}" target="_blank" class="return-btn" style="text-align: center; margin-top: 15px;">Ver noticia completa</a>
+                    `;
+                container.appendChild(card);
+            });
+        } catch (e) {
+            console.error("Error loading news:", e);
+        }
+    }
+
+    function updateTimestamp() {
+        const now = new Date();
+        document.getElementById('last-update').innerText = `Última actualización: ${now.getHours().toString().padStart(2, '0')}:${now.getMinutes().toString().padStart(2, '0')}:${now.getSeconds().toString().padStart(2, '0')}`;
+    }
+
+    document.getElementById('refresh-btn').onclick = async () => {
+        const btn = document.getElementById('refresh-btn');
+        btn.innerText = 'Actualizando...';
+        btn.disabled = true;
+        try {
+            await fetch('/api/refresh-radar', { method: 'POST' });
+            await fetchRadarData();
+        } finally {
+            btn.innerText = '🔄 Actualizar Radar Ahora';
+            btn.disabled = false;
+        }
+    };
+
+    // Initial load
+    fetchRadarData();
+    fetchNews();
+    if (selectedIcao) {
+        // Find plane in the last data load for UI
+        document.getElementById('tracking-info').style.display = 'flex';
+        document.getElementById('tracking-text').innerText = `🛰️ Seguimiento activo: ${selectedIcao}`;
+    }
+
+    // Auto-refresh every 60s
+    setInterval(fetchRadarData, 60000);
+</script>
+{% endblock %}

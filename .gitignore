@@ -1,0 +1,9 @@
+pgsql/
+postgres_data/
+*.zip
+data/
+.venv/
+__pycache__/
+*.pyc
+.env
+osint.db

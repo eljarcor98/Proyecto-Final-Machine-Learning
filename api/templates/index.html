@@ -1,0 +1,70 @@
+{% extends "layout.html" %}
+
+{% block title %}🌍 Conflicto en Medio Oriente{% endblock %}
+
+{% block content %}
+<h1 class="main-title">🌍 Conflicto en Medio Oriente</h1>
+
+<div class="section-header">🛰️ Centro de Monitoreo Estratégico de Inteligencia</div>
+<p style="font-size: 1.1rem; line-height: 1.6; color: #475569; margin-bottom: 2rem;">
+    Este sistema de inteligencia monitorea la volatilidad geopolítica en el Medio Oriente, enfocándose en el análisis de
+    datos abiertos (OSINT) para comprender la dinámica entre los actores regionales y globales.
+</p>
+
+<hr style="border: 0; border-top: 1px solid #e2e8f0; margin: 2rem 0;">
+
+<h2 class="section-header">🚀 Navegación de Módulos</h2>
+<div class="grid-3">
+    <div class="metric-card">
+        <div>
+            <h3 style="margin:0; font-family: 'Montserrat', sans-serif;">📡 Radar Aéreo</h3>
+            <p style="color:#64748b; font-family: 'Montserrat', sans-serif; margin-top: 10px;">Vigilancia de tráfico en
+                tiempo real y detección de anomalías en rutas críticas.</p>
+        </div>
+        <a href="/radar" class="return-btn" style="text-align: center;">Acceder al Radar 📡</a>
+    </div>
+
+    <div class="metric-card">
+        <div>
+            <h3 style="margin:0; font-family: 'Montserrat', sans-serif;">⏳ Línea de Tiempo</h3>
+            <p style="color:#64748b; font-family: 'Montserrat', sans-serif; margin-top: 10px;">Mapeo geo-temporal de
+                eventos críticos y noticias relacionadas.</p>
+        </div>
+        <a href="/timeline" class="return-btn" style="text-align: center;">Acceder al Timeline ⏳</a>
+    </div>
+
+    <div class="metric-card">
+        <div>
+            <h3 style="margin:0; font-family: 'Montserrat', sans-serif;">📊 Análisis NLP</h3>
+            <p style="color:#64748b; font-family: 'Montserrat', sans-serif; margin-top: 10px;">Minería de datos, nubes
+                de palabras y análisis de entidades nombradas.</p>
+        </div>
+        <a href="/nlp" class="return-btn" style="text-align: center;">Acceder al Análisis 📊</a>
+    </div>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #e2e8f0; margin: 2rem 0;">
+
+<div class="grid-2">
+    <div>
+        <div class="section-header">🎯 Objetivos del Monitoreo</div>
+        <ul style="line-height: 1.8; color: #475569; font-size: 1.1rem;">
+            <li><strong>Vigilancia Aérea</strong>: Monitoreo de tráfico para detectar anomalías.</li>
+            <li><strong>Análisis de Narrativas</strong>: Extracción de tópicos y entidades geográficas.</li>
+            <li><strong>Sincronización Temporal</strong>: Visualización de concentración de tensiones.</li>
+        </ul>
+    </div>
+    <div>
+        <div class="section-header">🛠️ Arquitectura del Sistema</div>
+        <ul style="line-height: 1.8; color: #475569; font-size: 1.1rem;">
+            <li><strong>NLP</strong>: Modelos <code>spaCy</code> para Reconocimiento de Entidades Nombradas (NER).</li>
+            <li><strong>Geocodificación</strong>: Mapeo de menciones textuales a coordenadas GPS.</li>
+            <li><strong>Pipeline</strong>: Ingesta automatizada GNews $\rightarrow$ PostgreSQL (Supabase).</li>
+        </ul>
+    </div>
+</div>
+
+<div class="footer-info">
+    💡 <strong>Nota</strong>: Utilice los botones superiores para navegar entre los módulos de análisis.
+</div>
+{% endblock %}

@@ -1,0 +1,20 @@
+# Core API Dependencies
+flask
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+requests
+
+# Basic Data handling
+pandas
+numpy
+matplotlib
+
+# Dashboard Dependencies
+streamlit
+streamlit-autorefresh
+plotly
+airportsdata
+deep-translator
+wordcloud
+psutil

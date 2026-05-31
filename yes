@@ -1,0 +1,29 @@
+[33mcommit 33367a6d6ace9339f61a2cd15a7806615cde4ee5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Arnold <arnold@example.com>
+Date:   Sat May 30 13:11:45 2026 -0500
+
+    Fix: Remove .venv from repository and add .gitignore
+
+[33mcommit 069e38673602c9fadc8b4e7128efb155d57e31aa[m
+Author: Arnold <arnold@example.com>
+Date:   Sat May 30 13:00:29 2026 -0500
+
+    Force redeploy for Vercel
+
+[33mcommit 235eb1d1f40d13184991f8c2210a2031b14780d2[m
+Author: Arnold <arnold@example.com>
+Date:   Sat May 30 12:57:52 2026 -0500
+
+    Fix: Add WSGI wrapper for Vercel deployment
+
+[33mcommit fabd9eddf4c34bd0342e902bb7a58924da95150a[m
+Author: Arnold <arnold@example.com>
+Date:   Sat May 30 12:55:24 2026 -0500
+
+    Remove incompatible Vercel config
+
+[33mcommit 699b717109f3f81c8bdbe37333454926d9db25a6[m
+Author: Arnold <arnold@example.com>
+Date:   Sat May 30 12:51:17 2026 -0500
+
+    Deploy: Add Vercel configuration files
